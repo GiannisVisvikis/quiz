@@ -1,0 +1,49 @@
+1, vettel, Sebastian Vettel takes first pole position for Red Bull, China 2009, Turkey 2009, Malaysia 2010, Silverstone 2008
+2, ricciardo, Daniel Ricciardo makes his F1 debute in 2011 at, Silverstone, Monaco, Monza, Spa
+3, unknown, Which driver was the 1973 world champion, Jackie Stewart, Niki Lauda, Emerson Fittipaldi, Jacky Ickx
+4, unknown, Which driver was the 1974 world champion, Emerson Fittipaldi, Niki Lauda, James Hunt, Jackie Stewart
+5, unknown, Which driver was the 1975 world champion, Niki Lauda, Emerson Fittipaldi, James Hunt, Graham Hill
+6, unknown, Which driver was the 1972 world champion, Emerson Fittipaldi, Niki Lauda, Jacky Ickx, Jackie Stewart
+7, unknown, Which driver was the 1976 world champion, James Hunt, Niki Lauda, Emerson Fittipaldi, Mario Andretti
+8, reutemann, Name the driver, Carlos Reutemann, Gilles Villeneuve, Ayrton Senna, Didier Pironi
+9, fangio, How many drivers championships did Fangio win with Mercedes, Two, One, Three, None
+10, lombardi, Who was the only female driver who scored points in F1, Lela Lombardi, Maria de Filippis, Divina Galica, Desiré Wilson
+11, ricciardo, Daniel Ricciardo makes his F1 debute in 2011 with, HRT, Sauber, Toro Rosso, Lotus_F1
+12, hamilton, Lewis Hamilton achieves his first F1 win, Montreal 2007, Monaco 2007, Silverstone 2008, Hockenheim 2008
+13, rosberg, Where did Nico Rosberg score the first Mercedes podium after the team returned to F1 in 2010, Kuala Lumpur 2012, Shanghai 2011, Abu Dhabi 2010, Budapest 2013
+14, jack_brabham, Name the driver, Jack Brabham, Jim Clark, Graham Hill, John Surtees
+15, senna, How many races did Ayrton Senna win for McLaren, 35, 34, 30, 32
+16, fangio, How many drivers championships did Fangio win, Five, Two, Three, Four
+17, unknown, Which was the first father-son pair that won a Formula 1 grand prix, Graham - Damon Hill, Gilles - Jaques Villeneuve, Jos - Max Verstappen, Mario - Michael Andretti 
+18, mclaren, When and where did Bruce McLaren win the first grand prix for his own team, Spa 1968, Le Mans 1967, Monaco 1969, Brands Hatch 1966
+19, vandoorne, Where and when did Stoffel Vandoorne make his F1 debute, Bahrain 2016, Australia 2016, Australia 2017, Shanghai 2017
+20, angelis, Name the driver, Elio De Angelis, Andrea De Cesaris, Riccardo Patrese, Michael Andretti
+21, unknown, Which driver suffers/suffered from Trypophobia (Fear of holes), Sergio Perez, Fernando Alonso, Nico Rosberg, Mark Webber
+22, fisichella, Where and when did Giancarlo Fisichella take first pole for Force India, Spa 2009, Istanbul 2009, Monaco 2008, Magny Cours 2008
+23, unknown, Who was the 1967 drivers champion, Denny Hulme, Graham Hill, Jim Clark, Jackie Stewart
+24, unknown, Which driver was nicknamed "The Bear", Denny Hulme, Graham Hill, Jack Brabham, Jim Clark
+25, ickx, Name the driver, Jacky Ickx, Chris Amon, Vic Elford, Dan Gurney
+26, unknown, Who was the 2005 drivers championship runner up, Kimi Raikkonen, Fernando Alonso, Michael Schumacher, Giancarlo Fisichella
+27, unknown, Who was the 2005 drivers champion, Fernando Alonso, Kimi Raikkonen, Michael Schumacher, Mika Hakkinen
+28, michael_schumacher, How many championships did Michael Schumacher win, Seven, Five, Four, Six
+29, michael_schumacher, How many seasons did Michael Schumacher compete in, 19, 20, 18, 16
+30, hawthorn, Who was the first British world champion, Mike Hawthorn, John Surtees, Stirling Moss, Peter Collins
+31, unknown, Which French driver has the most grand prix victories after Alain Prost, Rene Arnoux, Jean Alesi, Francois Cevert, Jean-Pierre Beltoise
+32, arnoux, How many grand prixes did Rene Arnoux win, 7, 5, 4, 8
+33, unknown, Which driver was the 1977 world champion, Niki Lauda, Emerson Fittipaldi, James Hunt, Jody Scheckter
+34, fangio, Name the driver, Juan Manuel Fangio, Alberto Ascari, Tazio Nuvolari, Paul Emery
+35, unknown, Who won the 1978 Montreal grand prix, Gilles Villeneuve, James Hunt, Niki Lauda, Ronnie Peterson
+36, massa, Which team did Felipe Massa make his debute with, Sauber, HRT, Toyota, BAR
+37, unknown, Which driver was world champion in 1962, Graham Hill, John Surtees, Jim Clark, Chris Amon
+38, stroll, Which academy was Lance Stroll a member of, Ferrari, Red Bull, McLaren, Renault
+39, scheckter, Name the driver, Jody Scheckter, Mario Andretti, Derek Daly, Vittorio Brambilla
+40, moss, How many world championships did Stirling Moss win, None, One, Two, Three
+41, diniz, Name the driver, Pedro Diniz, Felipe Nasr, Felipe Massa, Esteban Tuero
+42, unknown, Which racing figure was named Il Commendatore, Enzo Ferrari, Albero Ascari, Flavio Briatore, Tazio Nuvolari
+43, wehrlein, At which 2016 race did Pascal Wehrlein score his first F1 points, RedBull Ring, Sochi, Hockenheimring, Monza
+44, perez, Which year did Sergio Perez make his debut with Sauber, 
+45, unknown, Which driver was world champion in 1968, Graham Hill, John Surtees, Chris Amon, Denny Hulme
+46, ericsson, Which team did Marcus Ericson test an F1 car for in 2009, Brawn GP, Red Bull, BMW Sauber, Williams
+47, patrese, Name the driver, Riccardo Patrese, Nigel Mansell, Elio De Angelis, Didier Pironi 
+
+
