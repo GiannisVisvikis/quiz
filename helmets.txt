@@ -1,11 +1,13 @@
-1, alesi, Name the helmet, Jean Alesi, Michael Schumacher, Mika Hakkinen, Elio De Angelis
-2, fisichella, Name the helmet, Giancarlo Fisichella, Felipe Massa, Jarno Trulli, Fernando Alonso
-3, gilles_villeneuve, Name the Helmet, Gilles Villeneuve, Alain Prost, John Watson, Niki Lauda
-4, angelis, Name the helmet, Elio De Angelis, Jean Alesi, Mario Andretti, Clay Regazzoni
-5, piquet, Name the helmet, Nelson Piquet, Nigel Mansell, John Watson, Niki Lauda
-6, hunt, Name the hemlet, James Hunt, Jacky Ickx, Jochen Rindt, Jim Clark
-7, michael_schumacher, Name the helmet, Michael Schumacher, Sebastian Vettel, Fernando Alonso, Stefan Bellof
-8, irvine, Name the helmet, Eddie Irvine, Michael Schumacher, Rubens Barrichello, Olivier Panis
-
-
-
+1,alesi,Name the helmet,Jean Alesi,Michael Schumacher,Mika Hakkinen,Elio De Angelis
+2,fisichella,Name the helmet,Giancarlo Fisichella,Felipe Massa,Jarno Trulli,Fernando Alonso
+3,gilles_villeneuve,Name the Helmet,Gilles Villeneuve,Alain Prost,John Watson,Niki Lauda
+4,villeneuve,Name the helmet,Jacques Villeneuve,Damon Hill,Norberto Fontana,Tarso Marques
+5,angelis,Name the helmet,Elio De Angelis,Jean Alesi,Mario Andretti,Clay Regazzoni
+6,piquet,Name the helmet,Nelson Piquet,Nigel Mansell,John Watson,Niki Lauda
+7,hunt,Name the hemlet,James Hunt,Jacky Ickx,Jochen Rindt,Jim Clark
+8,michael_schumacher,Name the helmet,Michael Schumacher,Sebastian Vettel,Fernando Alonso,Stefan Bellof
+9,irvine,Name the helmet,Eddie Irvine,Michael Schumacher,Rubens Barrichello,Olivier Panis
+10,diniz,Name the helmet,Pedro Diniz,Olivier Panis,Alexander Wurz,Ricardo Zonta
+11,suzuki,Name the helmet,Aguri Suzuki,Nigel Mansell,Elio De Angelis,Jean Alesi
+12,emerson_fittipaldi,Name the helmet,Emerson Fittipaldi,John Watson,Niki Lauda,James Hunt
+more needed to match photos

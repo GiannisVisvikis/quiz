@@ -65,4 +65,11 @@
 65,raikkonen,Which year did Kimi Raikkonen make his debute in F1,2001,2000,2002,2003
 66,raikkonen,Which team did Kimi Raikkonen make his F1 debute with,Sauber,Minardi,Arrows,Prost
 67,michael_schumacher,How many wins did Michael schumacher take in F1,91,88,93,90
+68,unknown,Which world champion brought his dog to races,Michael Schumacher,Mika Hakkinen,Ayrton Senna,Nigel Mansell
+69,hamilton,Whom did Lewis Hamilton pass on the final lap of the 2008 Brazilian Grand Prix to become world champion,Timo Glock,Nico Hulkenberg,Giancarlo Fisichella,Jarno Trulli
+70,stewart,How many world championships did Jackie Stewart win,3,2,5,4
+71,phil_hill,How many seasons did Phil Hill race in Formula 1,18,15,12,19
+72,phil_hill,What season did Phill Hil win the drivers world championship,1961,1960,1962,1963
+73,phil_hill,How many constructors did Phil Hill race for,6,5,7,4
+
 
