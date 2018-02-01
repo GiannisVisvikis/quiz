@@ -17,5 +17,11 @@
 17,ferrari,How many poles for Ferrari in 2004 season,12,13,11,10 
 18,ferrari,What is the Ferrari (and sport) record for consecutive podiums,53,23,48,55
 19,mercedes,Who was the last world champion for Mercedes before Lewis Hamilton,Juan Fangio,Stefan Bellof,Michael Schumacher,Ludwig Fischer
-
-
+20,force_india,Which drivers raced for Force India in 2010,Vitantonio Liuzzi - Adrian Sutil,Giancarlo Fisichella - Vitantonio Liuzzi,Adrian Sutil - Giancarlo Fisichella,Paul di Resta - Adrian Sutil
+21,williams,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
+22,williams,Which manufacturer supplied Williams the engine for the 2007 FW29,Toyota,Mercedes,Ferrari,BMW
+25,unknown,Who was the 2006 constructors champion,Renault,Ferrari,McLaren,Williams
+26,renault,Which pair of drivers raced for Renault in 2007,Giancarlo Fisichella - Heikki Kovalainen,Fernando Alonso - Heikki Kovalainen,Fernando Alonso - Giancarlo Fisichella,Robert Kubica - Vitaly Petrov
+27,renault,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
+28,sauber,Who were the first drivers for Sauber,Jyrki Järvilehto - Karl WendLinger,Felipe Massa - Kimi Raikkonen,Andrea De Cesaris - Karl Wendlinger,Jean-Christophe Boullion - Andrea De Cesaris
+29,mclaren,Where was Ron Dennis born,Woking,Essex,Camberley,Farnborough

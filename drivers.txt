@@ -14,7 +14,7 @@
 14,jack_brabham,Name the driver,Jack Brabham,Jim Clark,Graham Hill,John Surtees
 15,senna,How many races did Ayrton Senna win for McLaren,35,34,30,32
 16,fangio,How many drivers championships did Fangio win,Five,Two,Three,Four
-17,unknown,Which was the first father-son pair that won a Formula 1 grand prix,Graham - Damon Hill,Gilles - Jaques Villeneuve,Jos - Max Verstappen,Mario - Michael Andretti
+17,unknown,Which was the first father-son pair that won a Formula 1 grand prix,Graham - Damon Hill,Gilles - Jacques Villeneuve,Jos - Max Verstappen,Mario - Michael Andretti
 18,mclaren,When and where did Bruce McLaren win the first grand prix for his own team,Spa 1968,Le Mans 1967,Monaco 1969,Brands Hatch 1966
 19,vandoorne,Where and when did Stoffel Vandoorne make his F1 debute,Bahrain 2016,Australia 2016,Australia 2017,Shanghai 2017
 20,angelis,Name the driver,Elio De Angelis,Andrea De Cesaris,Riccardo Patrese,Michael Andretti
@@ -71,5 +71,19 @@
 71,phil_hill,How many seasons did Phil Hill race in Formula 1,18,15,12,19
 72,phil_hill,What season did Phill Hil win the drivers world championship,1961,1960,1962,1963
 73,phil_hill,How many constructors did Phil Hill race for,6,5,7,4
-
+74,unknown,Who was the drivers world champion of 1996,Damon Hill,Jacques Villeneuve,Michael Schumacher,Alain Prost
+75,prost,How many world championships did Alain Prost win,4,5,3,2
+76,perez,Where did Sergio Perez score first point for Manor in 2016,Austria,Monaco,Italy,Canada
+77,bottas,Where did Valtteri Bottas score his first F1 points,Austin 2013,Shanghai 2013,Montreal 2014,Silverstone 2014
+78,palmer,Where did Jonathan Palmer make his debut in F1 in 1983,Brands Hatch,Silverstone,Zandvoort,Monza
+79,palmer,Which team did Jonathan Palmer race for,Williams,Ferrari,Lotus,Osella
+80,unknown,Which driver claimed first win for Renault,Jean - Pierre Jabouille,Rene Arnoux,Alain Prost,Jean - Pierre Beltoise
+81,unknown,Who has the most wins at Interlagos,Michael Schumacher,Ayrton Senna,Felipe Massa,Mika Hakkinen
+82,frentzen,When did Heinz-Harald Frentzen claim the first podium for Sauber in 1995,Monza,Estoril,Hockenheim,Spa
+83,senna,How many Brazilian drivers have won the Brazilian Grand Prix,5,4,3,6
+84,gutierrez,Where and when did Esteban Gutierrez score his first Formula 1 points,Suzuka 2013,Monaco 2013,Sakhir 2014,Budapest 2014
+85,grosjean,Which team did Romain Grosjean make his debute with,Renault,Sauber,HAAS,Force India
+86,grosjean,Where was Romain Grosjean born,Geneva,Paris,London,Zurich
+87,unknown,Who won the first Mexican Grand Prix in 1963,Jim Clark,Graham Hill,John Surtees,Phil Hill
+88,hulkenberg,Which team did Nico Hulkenberg make his debut with,Williams,Renault,Force India,Sauber
 

@@ -10,4 +10,6 @@
 10,diniz,Name the helmet,Pedro Diniz,Olivier Panis,Alexander Wurz,Ricardo Zonta
 11,suzuki,Name the helmet,Aguri Suzuki,Nigel Mansell,Elio De Angelis,Jean Alesi
 12,emerson_fittipaldi,Name the helmet,Emerson Fittipaldi,John Watson,Niki Lauda,James Hunt
-more needed to match photos
+13,watson,Name the helmet,John Watson,Niki Lauda,Nelson Piquet,Emerson Fittipaldi
+14,alonso,Name the helmet,Fernando Alonso,Carlos Sainz Jr,Felipe Massa,Mika Hakkinen
+15,patrese,Name the driver,Riccardo Patrese,Nigel Mansell,Alain Prost,Gerhard Berger
