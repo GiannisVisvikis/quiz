@@ -25,3 +25,6 @@
 27,renault,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
 28,sauber,Who were the first drivers for Sauber,Jyrki Järvilehto - Karl WendLinger,Felipe Massa - Kimi Raikkonen,Andrea De Cesaris - Karl Wendlinger,Jean-Christophe Boullion - Andrea De Cesaris
 29,mclaren,Where was Ron Dennis born,Woking,Essex,Camberley,Farnborough
+30,brabham,Which of these was named the fan car,Brabham BT46B,Brabham45,Brabham46,Brabham48
+31,brabham,Who designed the fan car,Gordon Murray,John Barnard,Colin Chapman,Adrian Newey
+32,brabham,Which was the only race the fan car raced in 1978,Scandinavian Raceway,Brands Hatch,Watkins Glen,Long Beach
