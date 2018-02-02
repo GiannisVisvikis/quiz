@@ -1,0 +1,20 @@
+1,suzuka,Identify the circuit,Suzuka,Silverstone,Nurburgring,Interlagos
+2,istanbul,Identify the circuit,Istanbul,Suzuka,Imola,Monza
+3,nurburgring,Identify the circuit,Nurburgring,Suzuka,Monza,Catalunya
+4,magny_cours,Identify the circuit,Magny Cours,Nurburgring,Hockenheim
+5,interlagos,Identify the circuit,Interlagos,Imola,RedBull Ring,Brands Hatch
+6,sepang,Identify the circuit,Sepang,Monza,Interlagos,Magny Cours
+7,brands_hatch,Identify the circuit,Brands Hatch,Monza,Catalunya,Istanbul
+8,catalunya,Identify the circuit,Catalunya,Istanbul,Silverstone,RedBull Ring
+9,marina_bay,Identify the circuit,Marina Bay,Suzuka,Nurburgring,Magny Cours
+10,valencia,Identify the circuit,Valencia,Suzuka,Marina Bay,Silverstone
+11,silverstone,Identify the circuit,Silverstone,Monza,Austin,Sepang
+12,nordschleife_nurburgring,Identify the circuit,Nordschleife Nurburgring,Valencia,Interlagos,Marina Bay
+13,villeneuve,Identify the circuit,Gilles Villeneuve,Brands Hatch,Magny Cours,Watkins Glen
+14,kayalami,Identify the circuit,Kayalami,Suzuka,Interlagos,Catalunya
+15,americas,Identify the circuit,Austin,Monaco,Imola,Istanbul
+16,adelaide,Identify the circuit,Adelaide,Silverstone,Imola,Ibterlagos
+17,albert_park,Identify the circuit,Albert Park,Marina Bay,Magny Cours,Gilles Villeneuve
+18,aintree,Identify the circuit,Aintree,Silverstone,Nurburgring,Hockenheim
+19,bak,Identify the circuit,Baku,Monza,Istanbul,Catalunya
+20,bremgarten,Identify the circuit,Bremgarten,Hockenheim,Silverstone,Catalunya
