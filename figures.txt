@@ -6,4 +6,17 @@ https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Where was Gord
 
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Where was Colin Chapman born,Richmond,Norwich,Woking,London
 
+
 https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Identify the car designer,Adrian Newey,John Barnard,Gordon Murray,Paddy Lowe
+https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Where was Adrian Newey born,Newcastle,London,Manchester,Essex
+https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Which car was designed by Adrian Newey,RB4,FW20,F2004,MP4/10
+
+
+https://en.wikipedia.org/wiki/Steve_Nielsen,figures/nielsen,Identify the sporting manager,Steve Nielsen,Adrian Newey,Paddy Lowe,Ron Dennis
+https://en.wikipedia.org/wiki/Steve_Nielsen,figures/nielsen,Which team was Steve Nielsen a sporting manager at,Arrows,McLaren,Ligier,Lola
+
+https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Identify the Sporting Director,Peter Windsor,Steve Nielsen,Flavio Briatore,Dave O''Neill
+https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Which team was Peter Windsor a sporting director at,US-F1 Team,HAAS-F1,HRT,Virgin
+
+
+

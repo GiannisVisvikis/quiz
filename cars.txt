@@ -8,3 +8,8 @@ https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Identify the car,BT46,BT46
 https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Who designed the fan car,Gordon Murray,John Barnard,Colin Chapman,Adrian Newey
 
 https://en.wikipedia.org/wiki/McLaren_MP4/13,cars/mp4_13,Identify the car,MP4/13,MP4/20,MP4/25,MP4/15
+
+https://en.wikipedia.org/wiki/Lotus_79,cars/lotus79,Identify the car,Lotus-79,Lotus-80.Lotus-78,Lotus-81
+
+
+

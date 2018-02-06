@@ -10,6 +10,9 @@
 10,valencia,Identify the circuit,Valencia,Suzuka,Marina Bay,Silverstone
 11,silverstone,Identify the circuit,Silverstone,Monza,Austin,Sepang
 12,nordschleife_nurburgring,Identify the circuit,Nordschleife Nurburgring,Valencia,Interlagos,Marina Bay
+
+https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/nordschleife_nurburgring,Which track was named the Green Hell by Jackie Stewart,Nordschleife Nurburgring,Brands Hatch,Magny Cours,Watkins Glen
+
 13,villeneuve,Identify the circuit,Gilles Villeneuve,Brands Hatch,Magny Cours,Watkins Glen
 14,kayalami,Identify the circuit,Kayalami,Suzuka,Interlagos,Catalunya
 15,americas,Identify the circuit,Austin,Monaco,Imola,Istanbul

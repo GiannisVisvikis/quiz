@@ -1,35 +1,51 @@
+
+
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/unknown,Who was the 2006 constructors champion,Renault,Ferrari,McLaren,Williams
+
+
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,First team to use a carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
 https://en.wikipedia.org/wiki/McLaren_MP4/1,constructors/mclaren,Which driver has won the most races for McLaren,Ayrton Senna,Alain Prost,Lewis Hamilton,Mika Hakkinen
 
 
+
+https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,When and where did Team Lotus first enter F1,Monaco 1958,Zandvoort 1958,Indianapolis 1959,Aintree 1959
+https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,How many constructors championships did Team Lotus win in F1,Seven,Eight,Nine,Five
+
+
 https://en.wikipedia.org/wiki/Red_Bull_Racing,constructors/red_bull,Which two drivers have recorded the most DNFs for Red Bull,Coulthard Webber,Coulthard Kvyat,Webber Vettel,Vettel Kvyat
 
-4,williams,Which of these drivers was with Williams for four years,Juan Pablo Montoya,Mark Webber,Ralf Schumacher,Nelson Piquet
-5,williams,Which of these drivers was with Williams for four years,Nico Rosberg,Nigel Mansell,Ralf Schumacher,Nelson Piquet
-6,williams,Which of these drivers was with Williams for four years,Keke Rosberg,Mark Webber,Ralf Schumacher,Nigel Mansell
-7,williams,Which of these drivers was with Williams for four years,Alan Jones,Mark Webber,Ralf Schumacher,Nelson Piquet
-8,williams,Which of these drivers was with Williams for six years,Ralf Schumacher,Mark Webber,Juan Pablo Montoya,Nelson Piquet
-9,williams,Which of these drivers was with Williams for seven years,Nigel Mansell,Keke Rosberg,Ralf Schumacher,Nico Rosberg
-12,williams,Williams was originally based in a warehouse that used to house,Carpets,Cars,Wood,Tools
-13,williams,Where did Clay Regazzoni claim first victory in 1979,Silverstone,Long-Beach,Monaco,Hockenheim
-21,williams,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
 
-10,force_india,Which two Italian drivers have driven for Force India,Fisichella Liuzzi,Fisichella Giovinazzi,Liuzzi Trulli,Giovinazzi Trulli
-20,force_india,Which drivers raced for Force India in 2010,Liuzzi Sutil,Fisichella Liuzzi,Sutil Fisichella,Di-Resta Sutil
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Which of these drivers was with Williams for four years,Alan Jones,Mark Webber,Ralf Schumacher,Nelson Piquet
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Which of these drivers was with Williams for six years,Ralf Schumacher,Mark Webber,Juan Pablo Montoya,Nelson Piquet
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Which of these drivers was with Williams for seven years,Nigel Mansell,Keke Rosberg,Ralf Schumacher,Nico Rosberg
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Williams was originally based in a warehouse that used to house,Carpets,Cars,Wood,Tools
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Where did Clay Regazzoni claim first victory for williams in 1979,Silverstone,Long-Beach,Monaco,Hockenheim
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
 
-11,renault,Which was the first grand prix Renault won,1979 Dijon,1979 Zolder,1978 Kyalami,1978 Jarama
-23,renault,Which pair of drivers raced for Renault in 2007,Fisichella Kovalainen,Alonso Kovalainen,Alonso Fisichella,Kubica Petrov
-24,renault,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
 
-14,stewart,Which drivers raced for Stewart GP,Barrichello Verstappen,Herbert Alesi,Magnussen Irvine,Barrichello Larini
-15,stewart,How many drivers raced for Stewart GP,4,5,3,6
+https://en.wikipedia.org/wiki/Force_India,constructors/force_india,Which two Italian drivers have raced for Force India,Fisichella Liuzzi,Fisichella Giovinazzi,Liuzzi Trulli,Giovinazzi Trulli
+https://en.wikipedia.org/wiki/Force_India,constructors/force_india,Which drivers raced for Force India in 2010,Liuzzi Sutil,Fisichella Liuzzi,Sutil Fisichella,Di-Resta Sutil
 
-16,unknown,Which was originally the team that in 2010 eventually became Mercedes,Tyrrell,Stewart-GP,Matra,Arrows
-22,unknown,Who was the 2006 constructors champion,Renault,Ferrari,McLaren,Williams
 
-17,ferrari,How many poles for Ferrari in 2004 season,12,13,11,10 
-18,ferrari,What is the Ferrari (and sport) record for consecutive podiums,53,23,48,55
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Which was the first grand prix Renault won,1979 Dijon,1979 Zolder,1978 Kyalami,1978 Jarama
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Which pair of drivers raced for Renault in 2007,Fisichella Kovalainen,Alonso Kovalainen,Alonso Fisichella,Kubica Petrov
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Which driver claimed first win for Renault,Jean-Pierre Jabouille,Rene Arnoux,Alain Prost,Jean-Pierre Beltoise
 
-19,mercedes,Who was the last world champion for Mercedes before Lewis Hamilton,Juan Fangio,Stefan Bellof,Michael Schumacher,Ludwig Fischer
+https://en.wikipedia.org/wiki/Stewart_Grand_Prix,constructors/stewart,Which drivers raced for Stewart GP,Barrichello Verstappen,Herbert Alesi,Magnussen Irvine,Barrichello Larini
+https://en.wikipedia.org/wiki/Stewart_Grand_Prix,constructors/stewart,How many drivers raced for Stewart GP,Four,Five,Three,Six
 
-25,sauber,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
+https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas_Motorsport_(2010%E2%80%93present),constructors/mercedes,Which was originally the team that in 2010 eventually became Mercedes,Tyrrell,Stewart-GP,Matra,Arrows
+https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas_Motorsport_(2010%E2%80%93present),constructors/mercedes,Who was the last world champion for Mercedes before Lewis Hamilton,Juan Fangio,Stefan Bellof,Michael Schumacher,Ludwig Fischer
+
+
+https://en.wikipedia.org/wiki/Scuderia_Ferrari,constructors/ferrari,How many poles for Ferrari in 2004 season,12,13,11,10 
+https://en.wikipedia.org/wiki/Scuderia_Ferrari,constructors/ferrari,What is the Ferrari (and sport) record for consecutive podiums,-53-,-23-,-48-,-55-
+
+https://en.wikipedia.org/wiki/Sauber,constructors/sauber,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
+
+
+
+
+
+
