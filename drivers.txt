@@ -26,6 +26,7 @@ https://en.wikipedia.org/wiki/2005_FIA_Formula_One_World_Championship,drivers/un
 GRAND PRIXES
 https://en.wikipedia.org/wiki/1963_Mexican_Grand_Prix,drivers/unknown,Who won the first Mexican Grand Prix in 1963,Jim Clark,Graham Hill,John Surtees,Phil Hill
 https://en.wikipedia.org/wiki/1978_Canadian_Grand_Prix,drivers/unknown,Who won the 1978 Montreal grand prix, Gilles Villeneuve,James Hunt,Niki Lauda,Ronnie Peterson
+https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,Who won the 1951 British Grand Prix,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
 
 
 
@@ -177,6 +178,11 @@ https://en.wikipedia.org/wiki/Lance_Stroll,drivers/stroll,Which academy was Lanc
 
 MOSS
 https://en.wikipedia.org/wiki/Stirling_Moss,drivers/moss,How many world championships did Stirling Moss win,None,One,Two,Three
+https://en.wikipedia.org/wiki/Stirling_Moss,drivers/moss,Where was Striling Moss born,London,Oxford,Manchester,Liverpool
+https://en.wikipedia.org/wiki/Stirling_Moss,drivers/moss,How many races did Stirling Moss win,-16-,-15-,-10-,--8--
+https://en.wikipedia.org/wiki/Stirling_Moss,drivers/moss,How many poles did Stirling Moss get,-16-,-15-,-20-,--18--
+https://en.wikipedia.org/wiki/Stirling_Moss,drivers/moss,Where and when did Stirling Moss first enter a grand prix,1951-Swiss Grand-Prix,1951-French Grand-Prix,1951-British Grand-Prix,1951-Belgian Grand-Prix
+https://en.wikipedia.org/wiki/Stirling_Moss,drivers/moss,Where and when did Stirling Moss win his first grand prix,1955 Aintree,1951 Bremgarten,1952 Silverstone,1954 Monza
 
 
 WEHRLEIN

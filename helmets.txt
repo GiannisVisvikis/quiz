@@ -1,15 +1,15 @@
-1,alesi,Name the helmet,Jean Alesi,Michael Schumacher,Mika Hakkinen,Elio De Angelis
-2,fisichella,Name the helmet,Giancarlo Fisichella,Felipe Massa,Jarno Trulli,Fernando Alonso
-3,gilles_villeneuve,Name the Helmet,Gilles Villeneuve,Alain Prost,John Watson,Niki Lauda
-4,villeneuve,Name the helmet,Jacques Villeneuve,Damon Hill,Norberto Fontana,Tarso Marques
-5,angelis,Name the helmet,Elio De Angelis,Jean Alesi,Mario Andretti,Clay Regazzoni
-6,piquet,Name the helmet,Nelson Piquet,Nigel Mansell,John Watson,Niki Lauda
-7,hunt,Name the hemlet,James Hunt,Jacky Ickx,Jochen Rindt,Jim Clark
-8,michael_schumacher,Name the helmet,Michael Schumacher,Sebastian Vettel,Fernando Alonso,Stefan Bellof
-9,irvine,Name the helmet,Eddie Irvine,Michael Schumacher,Rubens Barrichello,Olivier Panis
-10,diniz,Name the helmet,Pedro Diniz,Olivier Panis,Alexander Wurz,Ricardo Zonta
-11,suzuki,Name the helmet,Aguri Suzuki,Nigel Mansell,Elio De Angelis,Jean Alesi
-12,emerson_fittipaldi,Name the helmet,Emerson Fittipaldi,John Watson,Niki Lauda,James Hunt
-13,watson,Name the helmet,John Watson,Niki Lauda,Nelson Piquet,Emerson Fittipaldi
-14,alonso,Name the helmet,Fernando Alonso,Carlos Sainz Jr,Felipe Massa,Mika Hakkinen
-15,patrese,Name the driver,Riccardo Patrese,Nigel Mansell,Alain Prost,Gerhard Berger
+1,helmets/alesi,Name the helmet,Jean Alesi,Michael Schumacher,Mika Hakkinen,Elio De Angelis
+2,helmets/fisichella,Name the helmet,Giancarlo Fisichella,Felipe Massa,Jarno Trulli,Fernando Alonso
+3,helmets/gilles_villeneuve,Name the Helmet,Gilles Villeneuve,Alain Prost,John Watson,Niki Lauda
+4,helmets/villeneuve,Name the helmet,Jacques Villeneuve,Damon Hill,Norberto Fontana,Tarso Marques
+5,helmets/angelis,Name the helmet,Elio De Angelis,Jean Alesi,Mario Andretti,Clay Regazzoni
+6,helmets/piquet,Name the helmet,Nelson Piquet,Nigel Mansell,John Watson,Niki Lauda
+7,helmets/hunt,Name the hemlet,James Hunt,Jacky Ickx,Jochen Rindt,Jim Clark
+8,helmets/michael_schumacher,Name the helmet,Michael Schumacher,Sebastian Vettel,Fernando Alonso,Stefan Bellof
+9,helmets/irvine,Name the helmet,Eddie Irvine,Michael Schumacher,Rubens Barrichello,Olivier Panis
+10,helmets/diniz,Name the helmet,Pedro Diniz,Olivier Panis,Alexander Wurz,Ricardo Zonta
+11,helmets/suzuki,Name the helmet,Aguri Suzuki,Nigel Mansell,Elio De Angelis,Jean Alesi
+12,helmets/emerson_fittipaldi,Name the helmet,Emerson Fittipaldi,John Watson,Niki Lauda,James Hunt
+13,helmets/watson,Name the helmet,John Watson,Niki Lauda,Nelson Piquet,Emerson Fittipaldi
+14,helmets/alonso,Name the helmet,Fernando Alonso,Carlos Sainz Jr,Felipe Massa,Mika Hakkinen
+15,helmets/patrese,Name the driver,Riccardo Patrese,Nigel Mansell,Alain Prost,Gerhard Berger

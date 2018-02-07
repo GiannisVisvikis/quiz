@@ -1,9 +1,16 @@
-
 IDENTIFY
 https://en.wikipedia.org/wiki/Williams_FW29,cars/fw29,Identify the car,FW29,FW28,FW31,FW25
 https://en.wikipedia.org/wiki/Williams_FW14,cars/fw14,Identify the car,FW14,FW16,FW13,FW14B
 https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Identify the car,BT46,BT46B,BT48,BT45C
 https://en.wikipedia.org/wiki/McLaren_MP4/13,cars/mp4_13,Identify the car,MP4/13,MP4/20,MP4/25,MP4/15
+https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05,Identify the car,Wolf-Williams FW05,Wolf WR1,Wolf WR3,Wolf WR2
+https://en.wikipedia.org/wiki/Wolf_WR1,cars/wr1,Identify the car,---Wolf--- WR1,---Wolf--- WR2,---Wolf--- WR3,Wolf-Williams FW05
+
+
+
+GRAND PRIXES
+https://en.wikipedia.org/wiki/1976_Austrian_Grand_Prix,cars/pc4,Penske PC4 and John Watson won the 1976,Austrian Grand-Prix,Italian Grand-Prix,Dutch Grand-Prix,Canadian Grand-Prix
+
 
 
 WILLIAMS
@@ -21,12 +28,12 @@ https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Who designed the fan car,G
 
 
 McLAREN
-https://en.wikipedia.org/wiki/McLaren_MP4/4#Complete_Formula_One_results,cars/mp4_4,How many wins did the MP4/4 win in 1988,-15-,-16-,-14-,-12-
+https://en.wikipedia.org/wiki/McLaren_MP4/4#Complete_Formula_One_results,cars/mp4_4,How many wins did the MP4/4 claim in 1988,-15-,-16-,-14-,-12-
 
 
 
 LOTUS
 https://en.wikipedia.org/wiki/Lotus_79,cars/lotus79,Identify the car,Lotus-79,Lotus-80.Lotus-78,Lotus-81
-
+https://en.wikipedia.org/wiki/Lotus_102,cars/lotus102b,Identify the car,Lotus 102,Lotus 109,Lotus 107,Lotus 100
 
 
