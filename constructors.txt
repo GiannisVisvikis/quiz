@@ -4,15 +4,28 @@ https://en.wikipedia.org/wiki/2006_FIA_Formula_One_World_Championship#World_Cons
 https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship#World_Constructors'_Championship_final_standings,constructors/unknown,Who won the 1994 constructors championship,Williams,Benetton,McLaren,Ferrari
 
 
+
+ALFA ROMEO
+https://en.wikipedia.org/wiki/1950_Formula_One_season,constructors/alfa,How many races did Alfa Romeo win in 1950 F1 world championship,--6--,--7--,--5--,--4--
+https://en.wikipedia.org/wiki/1951_Formula_One_season,constructors/alfa,How many races did Alfa Romeo win in 1951 F1 world championship,--4--,--7--,--5--,--6-- 
+
+
+
 McLAREN
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,First team to use a carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
 https://en.wikipedia.org/wiki/McLaren_MP4/1,constructors/mclaren,Which driver has won the most races for McLaren,Ayrton Senna,Alain Prost,Lewis Hamilton,Mika Hakkinen
 https://en.wikipedia.org/wiki/1986_German_Grand_Prix#Race,constructors/mclaren,At which race did Alain Prost and Keke Rosberg ran out of fuel in the last lap,1986 Hockenheim,1986 Brands-Hatch,1986 Paul-Ricard,1986 Detroit-Circuit
 
 
+
 LOTUS
 https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,When and where did Team Lotus first enter F1,Monaco 1958,Zandvoort 1958,Indianapolis 1959,Aintree 1959
 https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,How many constructors championships did Team Lotus win in F1,Seven,Eight,Nine,Five
+https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,How many races did Lotus win in F1,-79-,-82-,-65-,-69-
+https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,Which race was the last for Team Lotus in F1,1994 Adelaide,1994 Suzuka,1993 Monza,1993 Estoril
+https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,When did Team Lotus win their first constructors championship,1963,1962,1964,1961
+https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,Who won the first race for Team Lotus,Innes Ireland,Stirling Moss,Jim Clark,Graham Hill
+https://en.wikipedia.org/wiki/Team_Lotus,constructors/team_lotus,Where and where did Team Lotus take its first victory,1961 Watkins-Glen,1960 Monaco,1960 Monza,1961 Monza
 
 
 
@@ -27,8 +40,8 @@ https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/willi
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Which of these drivers was with Williams for six years,Ralf Schumacher,Mark Webber,Juan Pablo Montoya,Nelson Piquet
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Which of these drivers was with Williams for seven years,Nigel Mansell,Keke Rosberg,Ralf Schumacher,Nico Rosberg
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Williams was originally based in a warehouse that used to house,Carpets,Cars,Wood,Tools
-https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Where did Clay Regazzoni claim first victory for williams in 1979,Silverstone,Long-Beach,Monaco,Hockenheim
-https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,constructors/williams,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,constructors/williams,Where did Clay Regazzoni claim first victory for williams in 1979,Silverstone,Long-Beach,Monaco,Hockenheim
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,constructors/williams,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
 
 
 
@@ -73,7 +86,8 @@ SAUBER
 https://en.wikipedia.org/wiki/Sauber,constructors/sauber,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
 
 
-
+FOOTWORK
+https://en.wikipedia.org/wiki/Footwork_Arrows,constructors/footwork,Which team was renamed as Footwork in 1991,Arrows,Tyrrell,Lola,ATS
 
 
 

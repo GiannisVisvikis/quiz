@@ -4,6 +4,7 @@ https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Identify the t
 https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Identify the car designer,Adrian Newey,John Barnard,Gordon Murray,Paddy Lowe
 https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Identify the Sporting Director,Peter Windsor,Steve Nielsen,Flavio Briatore,Dave O''Neill
 https://en.wikipedia.org/wiki/Flavio_Briatore,figures/briatore,Name the team manager,Flavio Briatore,Peter Collins,Steve Nielsen,Peter Windsor
+https://en.wikipedia.org/wiki/Roger_Penske,figures/penske,Identify the team manager,Roger Penske,Steve Nielsen,Peter Collins,Gene Haas
 
 
 

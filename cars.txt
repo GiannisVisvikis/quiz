@@ -1,10 +1,28 @@
 IDENTIFY
-https://en.wikipedia.org/wiki/Williams_FW29,cars/fw29,Identify the car,FW29,FW28,FW31,FW25
-https://en.wikipedia.org/wiki/Williams_FW14,cars/fw14,Identify the car,FW14,FW16,FW13,FW14B
-https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Identify the car,BT46,BT46B,BT48,BT45C
-https://en.wikipedia.org/wiki/McLaren_MP4/13,cars/mp4_13,Identify the car,MP4/13,MP4/20,MP4/25,MP4/15
+https://en.wikipedia.org/wiki/Williams_FW29,cars/fw29,Identify the car,Williams FW29,Williams FW28,Williams FW31,Williams FW25
+https://en.wikipedia.org/wiki/Williams_FW14,cars/fw14,Identify the car,Williams FW14,Williams FW16,Williams FW13,Williams FW14B
+
+https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Identify the car,Brabham BT46,Brabham BT46B,Brabham BT48,Brabham BT45C
+
+https://en.wikipedia.org/wiki/Footwork_FA12,cars/fa12,Identify the car,Footwork FA12,Footwork FA13,Footwork FA14,Footwork FA15
+https://en.wikipedia.org/wiki/Footwork_FA14,cars/fa14,Identify the car,Footwork Fa14,Footwork FA15,Footwork FA13,Footwork FA12
+
+https://en.wikipedia.org/wiki/McLaren_MP4/13,cars/mp4_13,Identify the car,McLaren MP4/13,McLaren MP4/20,McLaren MP4/25,McLaren MP4/15
+https://en.wikipedia.org/wiki/McLaren_MP4/4,cars/mp4_4,Identify the car,McLaren MP4/4,McLaren MP4/2,McLaren MP4/25,McLaren MP4/15
+
 https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05,Identify the car,Wolf-Williams FW05,Wolf WR1,Wolf WR3,Wolf WR2
+
 https://en.wikipedia.org/wiki/Wolf_WR1,cars/wr1,Identify the car,---Wolf--- WR1,---Wolf--- WR2,---Wolf--- WR3,Wolf-Williams FW05
+https://en.wikipedia.org/wiki/Lotus_25,cars/lotus25,Identify the car,Lotus-25,Lotus-33,Lotus-49B,Lotus-70
+https://en.wikipedia.org/wiki/Lotus_33,cars/lotus33,Identify the car,Lotus-33,Lotus-25,Lotus-49B,Lotus-70
+https://en.wikipedia.org/wiki/Lotus_49,cars/lotus49,Identify the car,Lotus-49,Lotus-33,Lotus-25,Lotus-70
+https://en.wikipedia.org/wiki/Lotus_49,cars/lotus49b,Identify the car,Lotus-49B,Lotus-33,Lotus-72,Lotus-70
+https://en.wikipedia.org/wiki/Lotus_72,cars/lotus72,Identify the car,Lotus-72,Lotus-25,Lotus-49,Lotus-70
+
+https://en.wikipedia.org/wiki/Penske_PC3,cars/pc3,Identify the car,Penske PC3,Rebaque HR100,Penske PC1,Penske PC4
+https://en.wikipedia.org/wiki/Penske_PC4,cars/pc4,Identify the car,Penske PC4,Rebaque HR100,Penske PC1,Penske PC3
+http://www.oldracingcars.com/rebaque/hr100/,cars/hr100,Identify the car,Rebaque HR100,-Lotus- 79,-Wolf- WR2,-Wolf- WR2
+https://www.motorsportmagazine.com/opinion/f1/track-torque-willi-kauhsen,cars/wk005,Identify the car,Kauhsen-1,Lotus-79,Rebaque HR100,Brabham-BT46
 
 
 
