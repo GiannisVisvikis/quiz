@@ -8,7 +8,9 @@ https://en.wikipedia.org/wiki/Footwork_FA12,cars/fa12,Identify the car,Footwork 
 https://en.wikipedia.org/wiki/Footwork_FA14,cars/fa14,Identify the car,Footwork Fa14,Footwork FA15,Footwork FA13,Footwork FA12
 
 https://en.wikipedia.org/wiki/McLaren_MP4/13,cars/mp4_13,Identify the car,McLaren MP4/13,McLaren MP4/20,McLaren MP4/25,McLaren MP4/15
-https://en.wikipedia.org/wiki/McLaren_MP4/4,cars/mp4_4,Identify the car,McLaren MP4/4,McLaren MP4/2,McLaren MP4/25,McLaren MP4/15
+https://en.wikipedia.org/wiki/McLaren_MP4/4,cars/mp4_4,Identify the car,McLaren MP4/4,McLaren MP4/2,McLaren MP4/5B,McLaren MP4/1
+https://en.wikipedia.org/wiki/McLaren_MP4/5,cars/mp4_5,Identify the car,McLaren MP4/5,McLaren MP4/5B,McLaren MP4/4,McLaren MP4/1
+
 
 https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05,Identify the car,Wolf-Williams FW05,Wolf WR1,Wolf WR3,Wolf WR2
 

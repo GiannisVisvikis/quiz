@@ -1,18 +1,23 @@
-1,helmets/alesi,Name the helmet,Jean Alesi,Michael Schumacher,Mika Hakkinen,Elio De Angelis
-2,helmets/fisichella,Name the helmet,Giancarlo Fisichella,Felipe Massa,Jarno Trulli,Fernando Alonso
-3,helmets/gilles_villeneuve,Name the Helmet,Gilles Villeneuve,Alain Prost,John Watson,Niki Lauda
-4,helmets/villeneuve,Name the helmet,Jacques Villeneuve,Damon Hill,Norberto Fontana,Tarso Marques
-5,helmets/angelis,Name the helmet,Elio De Angelis,Jean Alesi,Mario Andretti,Clay Regazzoni
-6,helmets/piquet,Name the helmet,Nelson Piquet,Nigel Mansell,John Watson,Niki Lauda
-7,helmets/hunt,Name the hemlet,James Hunt,Jacky Ickx,Jochen Rindt,Jim Clark
-8,helmets/michael_schumacher,Name the helmet,Michael Schumacher,Sebastian Vettel,Fernando Alonso,Stefan Bellof
-9,helmets/irvine,Name the helmet,Eddie Irvine,Michael Schumacher,Rubens Barrichello,Olivier Panis
-10,helmets/diniz,Name the helmet,Pedro Diniz,Olivier Panis,Alexander Wurz,Ricardo Zonta
-11,helmets/suzuki,Name the helmet,Aguri Suzuki,Nigel Mansell,Elio De Angelis,Jean Alesi
-12,helmets/emerson_fittipaldi,Name the helmet,Emerson Fittipaldi,John Watson,Niki Lauda,James Hunt
-13,helmets/watson,Name the helmet,John Watson,Niki Lauda,Nelson Piquet,Emerson Fittipaldi
-14,helmets/alonso,Name the helmet,Fernando Alonso,Carlos Sainz Jr,Felipe Massa,Mika Hakkinen
-15,helmets/patrese,Name the driver,Riccardo Patrese,Nigel Mansell,Alain Prost,Gerhard Berger
-
-
+https://en.wikipedia.org/wiki/Jean_Alesi,helmets/alesi,Name the helmet,Jean Alesi,Michael Schumacher,Mika Hakkinen,Elio De Angelis
+https://en.wikipedia.org/wiki/Giancarlo_Fisichella,helmets/fisichella,Name the helmet,Giancarlo Fisichella,Felipe Massa,Jarno Trulli,Fernando Alonso
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,helmets/gilles_villeneuve,Name the Helmet,Gilles Villeneuve,Alain Prost,John Watson,Niki Lauda
+https://en.wikipedia.org/wiki/Jacques_Villeneuve,helmets/villeneuve,Name the helmet,Jacques Villeneuve,Damon Hill,Norberto Fontana,Tarso Marques
+https://en.wikipedia.org/wiki/Elio_de_Angelis,helmets/angelis,Name the helmet,Elio De Angelis,Jean Alesi,Mario Andretti,Clay Regazzoni
+https://en.wikipedia.org/wiki/Nelson_Piquet,helmets/piquet,Name the helmet,Nelson Piquet,Nigel Mansell,John Watson,Niki Lauda
+https://en.wikipedia.org/wiki/Nelson_Piquet_Jr.,helmets/piquet_jr,Name the helmet,Nelson Piquet-Jr,Nelson Piquet,Max Verstappen,Jos Verstappen
+https://en.wikipedia.org/wiki/James_Hunt,helmets/hunt,Name the helmet,James Hunt,Jacky Ickx,Jochen Rindt,Jim Clark
+https://en.wikipedia.org/wiki/Michael_Schumacher,helmets/michael_schumacher,Name the helmet,Michael Schumacher,Sebastian Vettel,Fernando Alonso,Stefan Bellof
+https://en.wikipedia.org/wiki/Eddie_Irvine,helmets/irvine,Name the helmet,Eddie Irvine,Michael Schumacher,Rubens Barrichello,Olivier Panis
+https://en.wikipedia.org/wiki/Pedro_Diniz,helmets/diniz,Name the helmet,Pedro Diniz,Olivier Panis,Alexander Wurz,Ricardo Zonta
+https://en.wikipedia.org/wiki/Aguri_Suzuki,helmets/suzuki,Name the helmet,Aguri Suzuki,Nigel Mansell,Elio De Angelis,Jean Alesi
+https://en.wikipedia.org/wiki/Emerson_Fittipaldi,helmets/emerson_fittipaldi,Name the helmet,Emerson Fittipaldi,John Watson,Niki Lauda,James Hunt
+https://en.wikipedia.org/wiki/John_Watson_(racing_driver),helmets/watson,Name the helmet,John Watson,Niki Lauda,Nelson Piquet,Emerson Fittipaldi
+https://en.wikipedia.org/wiki/Fernando_Alonso,helmets/alonso,Name the helmet,Fernando Alonso,Carlos Sainz Jr,Felipe Massa,Mika Hakkinen
+https://en.wikipedia.org/wiki/Riccardo_Patrese,helmets/patrese,Name the driver,Riccardo Patrese,Nigel Mansell,Alain Prost,Gerhard Berger
+https://en.wikipedia.org/wiki/Chris_Amon,helmets/amon,Identify the helmet,Hector Rebaque,Boby Rahal,Tony Trimmer,Derek Daly
 https://en.wikipedia.org/wiki/Jack_Brabham,helmets/jack_brabham,Identify the helmet,Jack Brabham,John Surtees,Jim Clark,Chris Amon
+https://en.wikipedia.org/wiki/John_Surtees,helmets/surtees,Name the helmet,John Surtees,John Surtees,Jack Brabham,Juan Fangio,Jim Clark
+https://en.wikipedia.org/wiki/Nigel_Mansell,helmets/mansell,Name the helmet,Nigel Mansell,Jenson Button,Johnny Herbert,Martin Brundle
+https://en.wikipedia.org/wiki/Johnny_Herbert,helmets/herbert,Name the helmet,Johnny Herbert,Nigel Mansell,Jenson Button,Martin Brundle
+https://en.wikipedia.org/wiki/Bruce_McLaren,helmets/mclaren,Identify the helmet,Bruce McLaren,Jim Clark,Juan Fangio,Jack Brabham
+https://en.wikipedia.org/wiki/H%C3%A9ctor_Rebaque,helmets/rebaque,Identify the helmet,Hector Rebaque,John Watson,Derek Daly,Kevin Cogan
