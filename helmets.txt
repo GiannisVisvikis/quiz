@@ -16,7 +16,6 @@ https://en.wikipedia.org/wiki/Fernando_Alonso,helmets/alonso,Name the helmet,Fer
 https://en.wikipedia.org/wiki/Riccardo_Patrese,helmets/patrese,Name the driver,Riccardo Patrese,Nigel Mansell,Alain Prost,Gerhard Berger
 https://en.wikipedia.org/wiki/Chris_Amon,helmets/amon,Identify the helmet,Hector Rebaque,Boby Rahal,Tony Trimmer,Derek Daly
 https://en.wikipedia.org/wiki/Jack_Brabham,helmets/jack_brabham,Identify the helmet,Jack Brabham,John Surtees,Jim Clark,Chris Amon
-https://en.wikipedia.org/wiki/John_Surtees,helmets/surtees,Name the helmet,John Surtees,John Surtees,Jack Brabham,Juan Fangio,Jim Clark
 https://en.wikipedia.org/wiki/Nigel_Mansell,helmets/mansell,Name the helmet,Nigel Mansell,Jenson Button,Johnny Herbert,Martin Brundle
 https://en.wikipedia.org/wiki/Johnny_Herbert,helmets/herbert,Name the helmet,Johnny Herbert,Nigel Mansell,Jenson Button,Martin Brundle
 https://en.wikipedia.org/wiki/Bruce_McLaren,helmets/mclaren,Identify the helmet,Bruce McLaren,Jim Clark,Juan Fangio,Jack Brabham
@@ -37,5 +36,12 @@ https://en.wikipedia.org/wiki/Lewis_Hamilton,helmets/hamilton,Identify the helme
 https://en.wikipedia.org/wiki/Ayrton_Senna,helmets/senna,Identify the helmet,Ayrton Senna,Bruno Senna,Gunnar Nilsson,Lewis Hamilton
 https://en.wikipedia.org/wiki/Jim_Clark,helmets/clark,Identify the helmet,Jim Clark,Jack Brabham,Graham Hill,Jochen Rindt
 https://en.wikipedia.org/wiki/Jackie_Stewart,helmets/stewart,Identify the helmet,Jackie Stewart,Jim Clark,David Coulthard,Jochen Rindt
-https://en.wikipedia.org/wiki/Jenson_Button,helmets/button.Identify the helmet,Jenson Button,Johnny Herbert,Nigel Mansell,Damon Hill
+https://en.wikipedia.org/wiki/Jenson_Button,helmets/button,Identify the helmet,Jenson Button,Johnny Herbert,Nigel Mansell,Damon Hill
+https://en.wikipedia.org/wiki/Stirling_Moss,helmets/moss,Identify the helmet,Stirling Moss,John Surtees,Juan Fangio,Giuseppe Farina
+https://en.wikipedia.org/wiki/John_Surtees,helmets/surtees,Identify the helmet,John Surtees,Stirling Moss,Giuseppe Farina,Mike Hawthorne
+https://en.wikipedia.org/wiki/Clay_Regazzoni,helmets/regazzoni,Identify the helmet,Clay Regazzoni,Sebastien Buemi,Loris Kessel,Marc Surer
+https://en.wikipedia.org/wiki/Tom_Pryce,helmets/pryce,Identify the helmet,Tom Pryce,Graham Hill,Damon Hill,Denny Hulme
+https://en.wikipedia.org/wiki/Denny_Hulme,helmets/hulme,Identify the helmet,Denny Hulme,Jackie Stewart,Graham Hill,Jack Brabham
+https://en.wikipedia.org/wiki/Niki_Lauda,helmets/lauda,Identify the helmet,Niki Lauda,Nelson Piquet,Alain Prost,Mario Andretti
+https://en.wikipedia.org/wiki/Giuseppe_Farina,helmets/farina,Identify the helmet,Giuseppe Fatina,Juan Fangio,Stirling Moss,Peter Collins
 

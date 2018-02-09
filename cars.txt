@@ -1,35 +1,60 @@
 IDENTIFY
 https://en.wikipedia.org/wiki/Williams_FW29,cars/fw29,Identify the car,Williams FW29,Williams FW28,Williams FW31,Williams FW25
 https://en.wikipedia.org/wiki/Williams_FW14,cars/fw14,Identify the car,Williams FW14,Williams FW16,Williams FW13,Williams FW14B
+https://en.wikipedia.org/wiki/Williams_FW14,cars/fw14b,Identify the car,Williams FW14B,Williams FW16,Williams FW13,Williams FW14
+https://en.wikipedia.org/wiki/Williams_FW07,cars/fw07b,Identify the car,Williams FW07B,Williams FW07,Williams FW07C,Williams FW08
 
-https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Identify the car,Brabham BT46,Brabham BT46B,Brabham BT48,Brabham BT45C
+https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Identify the car,Brabham BT46B,Brabham BT46,Brabham BT48,Brabham BT45C
+https://en.wikipedia.org/wiki/Brabham_BT49,cars/bt49,Identify the car,Brabham BT49,Brabham BT46,Brabham BT52,Brabham BT53
+https://en.wikipedia.org/wiki/Brabham_BT52,cars/bt52,Identify the car,Brabham BT52,Brabham BT46,Brabham BT49,Brabham BT53
 
 https://en.wikipedia.org/wiki/Footwork_FA12,cars/fa12,Identify the car,Footwork FA12,Footwork FA13,Footwork FA14,Footwork FA15
-https://en.wikipedia.org/wiki/Footwork_FA14,cars/fa14,Identify the car,Footwork Fa14,Footwork FA15,Footwork FA13,Footwork FA12
+https://en.wikipedia.org/wiki/Footwork_FA14,cars/fa14,Identify the car,Footwork FA14,Footwork FA15,Footwork FA13,Footwork FA12
 
 https://en.wikipedia.org/wiki/McLaren_MP4/13,cars/mp4_13,Identify the car,McLaren MP4/13,McLaren MP4/20,McLaren MP4/25,McLaren MP4/15
 https://en.wikipedia.org/wiki/McLaren_MP4/4,cars/mp4_4,Identify the car,McLaren MP4/4,McLaren MP4/2,McLaren MP4/25,McLaren MP4/15
 https://en.wikipedia.org/wiki/McLaren_MP4/2,cars/mp4_2,Identify the car,McLaren MP4/2,McLaren MP4/4,McLaren MP4/8,McLaren MP4/12
+https://en.wikipedia.org/wiki/McLaren_MP4/5,cars/mp4_5,Identify the car,McLaren MP4/5,McLaren MP4/2,McLaren MP4/4,McLaren MP4/8
+https://en.wikipedia.org/wiki/McLaren_MP4/6,cars/mp4_6,Identify the car,McLaren MP4/6,McLaren MP4/1,McLaren MP4/4,McLaren MP4/8
+
 
 https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05,Identify the car,Wolf-Williams FW05,Wolf WR1,Wolf WR3,Wolf WR2
-
+http://www.telegraph.co.uk/formula-1/0/ranked-ugliest-f1-cars-time/ensign-n179/,cars/ensignN179,Identify the car,Ensign N179,Ensign N177,Ensign N180,Ensign N173
 https://en.wikipedia.org/wiki/Wolf_WR1,cars/wr1,Identify the car,---Wolf--- WR1,---Wolf--- WR2,---Wolf--- WR3,Wolf-Williams FW05
 https://en.wikipedia.org/wiki/Lotus_25,cars/lotus25,Identify the car,Lotus-25,Lotus-33,Lotus-49B,Lotus-70
 https://en.wikipedia.org/wiki/Lotus_33,cars/lotus33,Identify the car,Lotus-33,Lotus-25,Lotus-49B,Lotus-70
 https://en.wikipedia.org/wiki/Lotus_49,cars/lotus49,Identify the car,Lotus-49,Lotus-33,Lotus-25,Lotus-70
-https://en.wikipedia.org/wiki/Lotus_49,cars/lotus49b,Identify the car,Lotus-49B,Lotus-33,Lotus-72,Lotus-70
+https://en.wikipedia.org/wiki/Lotus_49,cars/lotus49b,Identify the car,Lotus-49B,Lotus-33,Lotus-49,Lotus-70
 https://en.wikipedia.org/wiki/Lotus_72,cars/lotus72,Identify the car,Lotus-72,Lotus-25,Lotus-49,Lotus-70
+https://en.wikipedia.org/wiki/Lotus_77,cars/lotus77,Identify the car,Lotus-77,Lotus-25,Lotus-49,Lotus-72
+https://en.wikipedia.org/wiki/Lotus_79,cars/lotus79,Identify the car,Lotus-79,Lotus-72,Lotus-98T,Lotus-78
+https://en.wikipedia.org/wiki/Lotus_78,cars/lotus78,Identify the car,Lotus-78,Lotus-79,Lotus-98T,Lotus-72
+https://en.wikipedia.org/wiki/Lotus_88,cars/lotus88,Identify the car,Lotus-88,Lotus-80,Lotus-79,Lotus-91
+https://en.wikipedia.org/wiki/Lotus_91,cars/lotus91,Identify the car,Lotus-91,Lotus-80,Lotus-79,Lotus-88
+
 
 https://en.wikipedia.org/wiki/Penske_PC3,cars/pc3,Identify the car,Penske PC3,Rebaque HR100,Penske PC1,Penske PC4
 https://en.wikipedia.org/wiki/Penske_PC4,cars/pc4,Identify the car,Penske PC4,Rebaque HR100,Penske PC1,Penske PC3
 http://www.oldracingcars.com/rebaque/hr100/,cars/hr100,Identify the car,Rebaque HR100,-Lotus- 79,-Wolf- WR2,-Wolf- WR2
 https://www.motorsportmagazine.com/opinion/f1/track-torque-willi-kauhsen,cars/wk005,Identify the car,Kauhsen-1,Lotus-79,Rebaque HR100,Brabham-BT46
 
+https://en.wikipedia.org/wiki/Ferrari_312T,cars/ferrari312t,Identify the car,Ferrari 312T,Ferrari 312B,Ferrari 126C2,Ferrari 132
+https://en.wikipedia.org/wiki/Ferrari_312,cars/ferrari312,Identify the car,Ferrari 312,Ferrari 312T,Ferrari312B,Ferrari 158
+https://en.wikipedia.org/wiki/Ferrari_312B,cars/ferrari312b,Identify the car,Ferrari 312B,Ferrari 312T,Ferrari312,Ferrari 158
+https://en.wikipedia.org/wiki/Ferrari_126C,cars/ferrari126c2,Identify the car,Ferrari 126C2,Ferrari 312T,Ferrari 126C,Ferrari 156/85
+https://en.wikipedia.org/wiki/Ferrari_158,cars,ferrari158,Identify the car,Ferrari 158,Ferrari 312,Ferrari 312B,Ferrari 312T
+https://en.wikipedia.org/wiki/Ferrari_156_F1,cars/ferrari156,Identify the car,Ferrari 156,Ferrari 158,Ferrari 312,Ferrari 312B
+
 
 
 GRAND PRIXES
 https://en.wikipedia.org/wiki/1976_Austrian_Grand_Prix,cars/pc4,Penske PC4 and John Watson won the 1976,Austrian Grand-Prix,Italian Grand-Prix,Dutch Grand-Prix,Canadian Grand-Prix
 
+
+
+FERRARI
+https://en.wikipedia.org/wiki/Ferrari_158,cars/ferrari158,Who designed the Ferrari 158,Mauro Forghieri,Carlo Chiti,Vittorio Jano,John Cooper
+https://en.wikipedia.org/wiki/Ferrari_156_F1,cars/ferrari156,Who won the world championship in a Ferrari 156 Sharknose,Phil Hill,John Surtees,Stirling Moss,Juan Fangio
 
 
 WILLIAMS
@@ -39,20 +64,21 @@ https://en.wikipedia.org/wiki/Williams_FW14,cars/fw14b,Which was the driver of t
 
 
 
-
 BRABHAM
-https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Who designed the fan car,Gordon Murray,John Barnard,Colin Chapman,Adrian Newey
-
+https://en.wikipedia.org/wiki/Brabham_BT46,cars/bt46b,Who designed the fan car,Gordon Murray,John Barnard,Colin Chapman,Ron Tauranac
 
 
 
 McLAREN
 https://en.wikipedia.org/wiki/McLaren_MP4/4#Complete_Formula_One_results,cars/mp4_4,How many wins did the MP4/4 claim in 1988,-15-,-16-,-14-,-12-
-
+https://en.wikipedia.org/wiki/Gordon_Murray#McLaren:_1987%E2%80%931991,cars/mp4_4,Who participated in the McLaren Mp4/4 design,Gordon Murray,John Barnard,Mike Coughlan,Peter Stevens
+https://en.wikipedia.org/wiki/Steve_Nichols,cars/mp4_4,Who was chief designer for the McLaren MP4/4 car,Steve Nichols,Gordon Murray,John Barnard,Mike Coughlan
+https://en.wikipedia.org/wiki/McLaren_MP4/6,cars/mp4_6,Who designed the McLaren MP4/6,Neil Oatley,Steve Nichols,Gordon Murray,John Barnard
+https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,Which was the first car to use a completely carbon fiber monocoque,McLaren MP4/1,Brabham BT46,Ferrari 126C,Lotus 91
 
 
 LOTUS
-https://en.wikipedia.org/wiki/Lotus_79,cars/lotus79,Identify the car,Lotus-79,Lotus-80.Lotus-78,Lotus-81
-https://en.wikipedia.org/wiki/Lotus_102,cars/lotus102b,Identify the car,Lotus 102,Lotus 109,Lotus 107,Lotus 100
+https://en.wikipedia.org/wiki/Lotus_91,cars/mp4_1_mono,Which was the second car to use a completely carbon fiber monocoque,Lotus 91,Williams FW08,Brabham BT46,Ferrari 126C
+
 
 

@@ -6,17 +6,17 @@
 6,sepang,Identify the circuit,Sepang,Monza,Interlagos,Magny Cours
 7,brands_hatch,Identify the circuit,Brands Hatch,Monza,Catalunya,Istanbul
 8,catalunya,Identify the circuit,Catalunya,Istanbul,Silverstone,RedBull Ring
-9,marina_bay,Identify the circuit,Marina Bay,Suzuka,Nurburgring,Magny Cours
+9,marina_bay,Identify the circuit,Marina Bay,Brands Hatch,Watkins Glen,Magny Cours
 10,valencia,Identify the circuit,Valencia,Suzuka,Marina Bay,Silverstone
 11,silverstone,Identify the circuit,Silverstone,Monza,Austin,Sepang
 12,nordschleife_nurburgring,Identify the circuit,Nordschleife Nurburgring,Valencia,Interlagos,Marina Bay
 
-https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/nordschleife_nurburgring,Which track was named the Green Hell by Jackie Stewart,Nordschleife Nurburgring,Brands Hatch,Magny Cours,Watkins Glen
+https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/nordschleife_nurburgring,Which track was named the Green Hell by Jackie Stewart,Nordschleife Nurburgring,--Brands-- Hatch,--Magny-- Cours,--Watkins-- Glen
 
 13,villeneuve,Identify the circuit,Gilles Villeneuve,Brands Hatch,Magny Cours,Watkins Glen
 14,kayalami,Identify the circuit,Kayalami,Suzuka,Interlagos,Catalunya
 15,americas,Identify the circuit,Austin,Monaco,Imola,Istanbul
-16,adelaide,Identify the circuit,Adelaide,Silverstone,Imola,Ibterlagos
+16,adelaide,Identify the circuit,Adelaide,Silverstone,Imola,Interlagos
 17,albert_park,Identify the circuit,Albert Park,Marina Bay,Magny Cours,Gilles Villeneuve
 18,aintree,Identify the circuit,Aintree,Silverstone,Nurburgring,Hockenheim
 19,bak,Identify the circuit,Baku,Monza,Istanbul,Catalunya

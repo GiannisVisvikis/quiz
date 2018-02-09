@@ -12,7 +12,8 @@ https://en.wikipedia.org/wiki/1951_Formula_One_season,constructors/alfa,How many
 
 
 McLAREN
-https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,First team to use a carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
+https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,First team to use a completely carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
+https://en.wikipedia.org/wiki/Lotus_91,cars/mp4_1_mono,Second team to use a completely carbon fiber monocoque,Lotus,Williams,Brabham,Ferrari
 https://en.wikipedia.org/wiki/McLaren_MP4/1,constructors/mclaren,Which driver has won the most races for McLaren,Ayrton Senna,Alain Prost,Lewis Hamilton,Mika Hakkinen
 https://en.wikipedia.org/wiki/1986_German_Grand_Prix#Race,constructors/mclaren,At which race did Alain Prost and Keke Rosberg ran out of fuel in the last lap,1986 Hockenheim,1986 Brands-Hatch,1986 Paul-Ricard,1986 Detroit-Circuit
 
@@ -80,6 +81,7 @@ https://en.wikipedia.org/wiki/Scuderia_Ferrari,constructors/ferrari,How many pol
 https://en.wikipedia.org/wiki/Scuderia_Ferrari,constructors/ferrari,What is the Ferrari (and sport) record for consecutive podiums,-53-,-23-,-48-,-55-
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,constructors/ferrari,Which driver claimed first grand prix victory for Ferrari,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race
+https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which constructor was the first to use the semi automatic gear box pioneered by John Barnard,Ferrari,Lotus,Williams,Benetton
 
 
 SAUBER
