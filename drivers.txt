@@ -2,6 +2,7 @@ WORLD CHAMPIONS
 https://en.wikipedia.org/wiki/1950_Formula_One_season,drivers/unknown,Who was the first Formula 1 world champion,Giuseppe Farina,Juan Fangio,Alberto Ascari,Stirling Moss
 https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the first British world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
 https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the 1958 world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
+https://en.wikipedia.org/wiki/1961_Formula_One_season,drivers/unknown,Who was the 1961 world champion,Phil Hill,John Surtees,Stirling Moss,Peter Collins
 https://en.wikipedia.org/wiki/1962_Formula_One_season,drivers/unknown,Which driver was the 1962 world champion,Graham Hill,John Surtees,Jim Clark,Chris Amon
 https://en.wikipedia.org/wiki/1965_Formula_One_season,drivers/unknown,Which driver was the 1965 world champion,Jim Clark,John Surtees,Graham Hill,Denny Hulme
 https://en.wikipedia.org/wiki/1967_Formula_One_season,drivers/unknown,Who was the 1967 drivers champion,Denny Hulme,Graham Hill,Jim Clark,Jackie Stewart
@@ -15,6 +16,8 @@ https://en.wikipedia.org/wiki/1977_Formula_One_season,drivers/unknown,Which driv
 https://en.wikipedia.org/wiki/1996_Formula_One_season,drivers/unknown,Who was the drivers world champion of 1996,Damon Hill,Jacques Villeneuve,Michael Schumacher,Alain Prost
 https://en.wikipedia.org/wiki/2005_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2005 drivers champion,Fernando Alonso,Kimi Raikkonen,Michael Schumacher,Mika Hakkinen
 
+
+https://en.wikipedia.org/wiki/Phil_Hill,drivers/unknown,Who was the first world champion from the US,Phil Hill,Mario Andretti,Dan Gurney,Carroll Shelby
 
 
 RUNNER UPS
@@ -40,6 +43,7 @@ https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,Name the driver,
 https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,Name the driver,Carlos Reutemann,Gilles Villeneuve,Ayrton Senna,Didier Pironi
 https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,Name the driver,Jack Brabham,Jim Clark,Graham Hill,John Surtees
 https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,Name the driver,Elio De Angelis,Andrea De Cesaris,Riccardo Patrese,Michael Andretti
+https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux,Name the driver,Rene Arnoux,Gilles Villeneuve,Jean-Pierre Beltoise,Francois Cevert
 
 
 
@@ -88,6 +92,8 @@ https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,Sebastian Vettel t
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,What did Sebastian Vettel call his first championship winning RB6 car,Randy Mandy,Dirty Kaden,Kinky Killey,Lillie Marlene
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,Where and when did Sebastian Vettel take his first F1 win,Monza 2008,Hockenheim 2008,Spa 2009,Silverstone 2009
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,How many wins did Sebastian Vettel take with Red Bull,-38-,-36-,-37-,-35-
+https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,Which F1 team did Sebastian Vettel first tested for in 2005,Williams,Sauber,Red Bull,Toro Rosso
+
 
 
 
@@ -209,6 +215,7 @@ https://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert,drivers/cevert,Where and when
 
 LAUDA
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki Lauda win,-25-,-30-,-27-,-24-
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki LAuda win for Ferrari,15,12,17,20
 
 
 PHIL HILL
@@ -238,6 +245,13 @@ GROSJEAN
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Which team did Romain Grosjean make his debute with,Renault,Sauber,HAAS-F1,Force-India
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where was Romain Grosjean born,Geneva,Paris,London,Zurich
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/unknown,Who was the first driver to receive a race ban for dangerous driving since Eddie Irvine in 1994,Romain Grosjean,Pastor Maldonado,Robert Kubica,Daniil Kvyat
+https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where did Romain Grosjean used to work,--Bank--,-Sales-,Bartender,Waitor
+
+
+
+MAGNUSSEN
+https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/unknown,Which driver suffers from arachnophobia (fear of spiders),Kevin Magnussen,Romain Grosjean,Esteban Gutierrez,Sergio Perez
+https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/magnussen,What job has Kevin Magnussen had,-Welder-,-Waitor-,Salesman,Logistics
 
 
 HULKENBERG

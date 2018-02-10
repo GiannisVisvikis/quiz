@@ -84,8 +84,11 @@ https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which constructor was the first to use the semi automatic gear box pioneered by John Barnard,Ferrari,Lotus,Williams,Benetton
 
 
+
 SAUBER
 https://en.wikipedia.org/wiki/Sauber,constructors/sauber,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
+https://en.wikipedia.org/wiki/Sauber,constructors/sauber,What season did sauber first appear in F1,1993,1994,1992,1995
+
 
 
 FOOTWORK

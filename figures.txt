@@ -1,5 +1,3 @@
-
-
 IDENTIFY
 https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,Name the team principal,Ron Dennis,Di Montezemolo,Flavio Briatore,Bernie Ecclestone
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Identify the team manager,Colin Chapman,Enzo Ferrari,Bruce McLaren,Frank Williams
@@ -13,6 +11,9 @@ https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghiery,Identify the fig
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Name the car designer,Gordon Murray,Colin Chapman,Ron Dennis,Adrian Newey
 https://en.wikipedia.org/wiki/Patrick_Head,figures/head,Identify the figure,Patrick Head,Frank Williams,Gene Haas,Ross Brawn
 https://en.wikipedia.org/wiki/Ross_Brawn,figures/brawn,Identify the figure,Ross Brawn,Adrian Newey,John Cooper,Steve Nielsen
+https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber.Identify the figure,Peter Sauber,Ron Dennis,Adrian Newey,Frank Williams
+https://en.wikipedia.org/wiki/Guenther_Steiner,figures/steiner,Identify the team principal,Guenther Steiner,Frederic Vasseur,Paddy Lowe,Toto Wolff
+https://en.wikipedia.org/wiki/Force_India,figures/fernley,Name the figure,Robert Fernley,Guenther Steiner,Peter Sauber,Ross Brawn
 
 
 

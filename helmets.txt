@@ -44,4 +44,4 @@ https://en.wikipedia.org/wiki/Tom_Pryce,helmets/pryce,Identify the helmet,Tom Pr
 https://en.wikipedia.org/wiki/Denny_Hulme,helmets/hulme,Identify the helmet,Denny Hulme,Jackie Stewart,Graham Hill,Jack Brabham
 https://en.wikipedia.org/wiki/Niki_Lauda,helmets/lauda,Identify the helmet,Niki Lauda,Nelson Piquet,Alain Prost,Mario Andretti
 https://en.wikipedia.org/wiki/Giuseppe_Farina,helmets/farina,Identify the helmet,Giuseppe Fatina,Juan Fangio,Stirling Moss,Peter Collins
-
+https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,helmets/hakkinen,Identify the helmet,Mikka Hakkinen,Riccardo Patrese,Jean Alesi,Elio De Angelis
