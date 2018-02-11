@@ -44,6 +44,7 @@ https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,Name the driver
 https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,Name the driver,Jack Brabham,Jim Clark,Graham Hill,John Surtees
 https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,Name the driver,Elio De Angelis,Andrea De Cesaris,Riccardo Patrese,Michael Andretti
 https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux,Name the driver,Rene Arnoux,Gilles Villeneuve,Jean-Pierre Beltoise,Francois Cevert
+https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,Name the driver,Jim Clark,Mike Hawthorn,Peter Collins,Stirling Moss
 
 
 
@@ -57,13 +58,20 @@ https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,Whos racing phil
 
 
 
+AMON
+https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,Where was Chris Amon from,New Zealand,Australia,Great Britain,Canada
+https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,When and where did Chris Amon make his F1 debute,1963 Monaco,1963 Spa,1964 Zandvoort,1964 Brands Hatch
+https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,Where and when was Chris Amon''s last grand prix,1976 Ontario,1976 Watkins Glen,1976 Oyama,1976 Monza
+
+
 CLARK
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,When and where did Jim Clark make his F1 debute,1960 Zandvoort,1960 Monza,1961 Monaco,1961 Zandvoort
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,When and where did Jim Clark claim his first win,1962 Spa,1962 Rouen,1961 Monza,1961 Aintree
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,How many world championships did Jim Clark win,--2--,--3--,--1--,--4--
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,Which was Jim Clark''s last F1 race,1968 Kyalami,1968 Hockenheim,1968 Monza,1969 Nurburgring
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,Which was Jim Clark''s last F1 win,1968 Kyalami,1968 Hockenheim,1968 Monza,1969 Nurburgring
-
+http://www.bbc.com/sport/formula1/20124557,drivers/clark,Which circuit did Jim Clark hate the most,Spa Francochamps,Nordschleife Nurburgring,--Watkins-- Glenn,--Reims-- Gueux
+https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,How many victories did Jim Clark claim in total,--25--,--23--,--28--,
 
 
 
@@ -86,14 +94,12 @@ https://en.wikipedia.org/wiki/Lewis_Hamilton,drivers/hamilton,Whom did Lewis Ham
 
 
 
-
 VETTEL
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,Sebastian Vettel takes first pole position for Red Bull,China 2009,Turkey 2009,Malaysia 2010,Silverstone 2008
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,What did Sebastian Vettel call his first championship winning RB6 car,Randy Mandy,Dirty Kaden,Kinky Killey,Lillie Marlene
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,Where and when did Sebastian Vettel take his first F1 win,Monza 2008,Hockenheim 2008,Spa 2009,Silverstone 2009
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,How many wins did Sebastian Vettel take with Red Bull,-38-,-36-,-37-,-35-
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel,Which F1 team did Sebastian Vettel first tested for in 2005,Williams,Sauber,Red Bull,Toro Rosso
-
 
 
 
@@ -127,6 +133,13 @@ https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many races did Ayrt
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many pole positions for Senna in F1,-65-,-70-,-68-,58-
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,When and where did Ayrton Senna make his F1 debute,1984 Nelson-Piquet,1984 Kyalami,1984 Zolder,1984 Monaco
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many teams did Ayrton Senna race for,--4--,--3--,--2--,--5--
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where and when did Ayrton Senna claim his first win,1985 Estoril,1985 Monaco,1984 Dijon,1984 Detroit
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Which team did Ayrton Senna make his debut with in F1,Toleman,Lotus,McLaren,Williams
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where and when did Ayrton Senna claim his last win in F1,1993 Adelaide,1993 Suzuka,1994 Interlagos,1994 Okayama
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where was the last race of Ayrton Senna in F1,1994 Imola,1994 Interlagos,1994 Estoril,1994 Adelaide
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many wins for Ayrton Senna in a Lotus,Six,Five,Three,Seven
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many pole positions for Senna in a Lotus in 1985,Seven,Six,Five,Eight
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many wins for Ayrton Senna in Monaco,Six,Five,Seven,Four
 
 
 MASSA
@@ -146,17 +159,29 @@ https://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,drivers/unknown,Which driver suf
 https://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,drivers/perez,Which year did Sergio Perez make his debut with Sauber,2011,2010,2012,2009 
 https://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,drivers/perez,Where did Sergio Perez score first point for Manor in 2016,Austria,Monaco,Italy,Canada
 
+
+
 HULME
 https://en.wikipedia.org/wiki/Denny_Hulme,drivers/unknown,Who was the 1967 drivers champion,Denny Hulme,Graham Hill,Jim Clark,Jackie Stewart
 https://en.wikipedia.org/wiki/Denny_Hulme,drivers/unknown,Which driver was nicknamed "The Bear",Denny Hulme,Graham Hill,Jack Brabham,Jim Clark
 
 
+
 SCHUMACHER
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many championships did Michael Schumacher win,Seven,Five,Four,Six
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many wins for Michael Schumacher in a Benetton,19,20,16,22
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many seasons did Michael Schumacher compete in,-19-,-20-,-18-,-16-
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many wins did Michael schumacher take in F1,-91-,-88-,-93-,-90-
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many wins for Michael Schumacher between 2000 and 2006,56,58,54,51
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/unknown,Which world champion brought his dog to races,Michael Schumacher,Mika Hakkinen,Ayrton Senna,Nigel Mansell
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/unknown,Who has the most wins at Interlagos,Michael Schumacher,Ayrton Senna,Felipe Massa,Mika Hakkinen
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Where and when did Michael_Schumacher take his first victory,1992 Spa,1992 Silverstone,1992 Monaco,1992 Imola
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Where and when did Michael Schumacher make his debute in F1,1991 Spa,1991 Phoenix,1991 Interlagos,1991 Imola
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,When did Michael Schumacher join Ferrari,1995,1996,1994,1997
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Why was Schumacher disqualified from the 1994 British Grand Prix,Ignored Black Flags,Caused an accident,Banned electronic aids,Illegal start
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Why was Michael Schumacher disqualified from the 1997 season,Drove into Jacques Villeneuve,Drove into Damon Hill,Ignored black flags,Illegal start
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many wins in Monaco for Michael Schumacher,Five,Four,Six,Seven
+
 
 
 MISCELANEOUS
@@ -172,7 +197,7 @@ https://en.wikipedia.org/wiki/Alain_Prost,drivers/prost,How many wins did Alain 
 
 
 MANSELL
-https://en.wikipedia.org/wiki/Nigel_Mansell#Williams_(1994),drivers/mansell,Which race did Nigel Mansell win for Williams in 1994,Adelaide,Jerez,Spa
+https://en.wikipedia.org/wiki/Nigel_Mansell#Williams_(1994),drivers/mansell,Which race did Nigel Mansell win for Williams in 1994,Adelaide,Jerez,Spa,Estoril
 https://en.wikipedia.org/wiki/Nigel_Mansell#Williams_(1994),drivers/mansell,Which was Mansell''s final win in F1,1994 Adelaide,1994 Suzuka,1992 Estoril,1992 Hockenheim
 
 
@@ -213,9 +238,16 @@ CEVERT
 https://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert,drivers/cevert,Where and when did Francois Cevert have a fatal crash,Watkins Glen 1973,Monza 1972,Nurburgring 1974,Silverstone 1971
 
 
+
 LAUDA
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki Lauda win,-25-,-30-,-27-,-24-
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki LAuda win for Ferrari,15,12,17,20
+
+
+
+REUTEMANN
+https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,When and where did Carlos Reutemann claim his first win,1974 Kyalami,1974 Jarama,1974 Nurburgring,1974 Monza
+https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,When and where dod Carlos Reutemann claim his first win with Ferrari,1977 Interlagos,1977 Kyalami,1977 Jarama,1977 Zolder
 
 
 PHIL HILL

@@ -14,6 +14,7 @@ https://en.wikipedia.org/wiki/Ross_Brawn,figures/brawn,Identify the figure,Ross 
 https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber.Identify the figure,Peter Sauber,Ron Dennis,Adrian Newey,Frank Williams
 https://en.wikipedia.org/wiki/Guenther_Steiner,figures/steiner,Identify the team principal,Guenther Steiner,Frederic Vasseur,Paddy Lowe,Toto Wolff
 https://en.wikipedia.org/wiki/Force_India,figures/fernley,Name the figure,Robert Fernley,Guenther Steiner,Peter Sauber,Ross Brawn
+https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Identify the figure,Rory Byrne,Adrian Newey,Guenther Steiner,Patrick Head
 
 
 
@@ -31,6 +32,8 @@ https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which team has John B
 
 
 BRAWN
+https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn,Which team has Ross Brawn never worked for,McLaren,Ferrari,Honda,Mercedes
+https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn,Which team did Ross Brawn work for right before Ferrari,Benetton,Arrows,Williams,McLaren
 
 
 
@@ -48,7 +51,7 @@ https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Which team has
 CHAPMAN
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Where was Colin Chapman born,Richmond,Norwich,Woking,London
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,When did Colin Chapman die of a heart attack,1982,1980,1983,1981
-https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Who built the first monocoque,Colin Chapman,John Cooper,Mauro Forghiery,John Barnard
+https://en.wikipedia.org/wiki/Colin_Chapman,figures/unknown,Who built the first monocoque,Colin Chapman,John Cooper,Mauro Forghiery,John Barnard
 
 
 

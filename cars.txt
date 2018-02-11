@@ -33,10 +33,16 @@ https://en.wikipedia.org/wiki/Lotus_88,cars/lotus88,Identify the car,Lotus-88,Lo
 https://en.wikipedia.org/wiki/Lotus_91,cars/lotus91,Identify the car,Lotus-91,Lotus-80,Lotus-79,Lotus-88
 
 
+https://en.wikipedia.org/wiki/Alfa_Romeo_185T,cars/alfa_romeo_185t,Identify the car,Alfa-Romeo 185T,Toleman TG185,Benetton B188,Benetton B189
+https://en.wikipedia.org/wiki/Benetton_B188,cars/benettonb188,Identify the car,Benetton B188,Toleman TG185,Alfa-Romeo 185T,Benetton B189
+https://en.wikipedia.org/wiki/Stewart_SF01,cars/stewartsf1,Identify the car,Stewart SF01,Stewart SF02,Stewart SF03,Stewart SF04
+
+
 https://en.wikipedia.org/wiki/Penske_PC3,cars/pc3,Identify the car,Penske PC3,Rebaque HR100,Penske PC1,Penske PC4
 https://en.wikipedia.org/wiki/Penske_PC4,cars/pc4,Identify the car,Penske PC4,Rebaque HR100,Penske PC1,Penske PC3
 http://www.oldracingcars.com/rebaque/hr100/,cars/hr100,Identify the car,Rebaque HR100,-Lotus- 79,-Wolf- WR2,-Wolf- WR2
 https://www.motorsportmagazine.com/opinion/f1/track-torque-willi-kauhsen,cars/wk005,Identify the car,Kauhsen-1,Lotus-79,Rebaque HR100,Brabham-BT46
+
 
 https://en.wikipedia.org/wiki/Ferrari_312T,cars/ferrari312t,Identify the car,Ferrari 312T,Ferrari 312B,Ferrari 126C2,Ferrari 132
 https://en.wikipedia.org/wiki/Ferrari_312,cars/ferrari312,Identify the car,Ferrari 312,Ferrari 312T,Ferrari312B,Ferrari 158
@@ -45,10 +51,14 @@ https://en.wikipedia.org/wiki/Ferrari_126C,cars/ferrari126c2,Identify the car,Fe
 https://en.wikipedia.org/wiki/Ferrari_158,cars,ferrari158,Identify the car,Ferrari 158,Ferrari 312,Ferrari 312B,Ferrari 312T
 https://en.wikipedia.org/wiki/Ferrari_156_F1,cars/ferrari156,Identify the car,Ferrari 156,Ferrari 158,Ferrari 312,Ferrari 312B
 
+
+https://en.wikipedia.org/wiki/Renault_RE20,cars/renaultre20,Identify the car,Renault RE20,Renault RE40,Renault RE30,Renault RE50
+https://en.wikipedia.org/wiki/Renault_R24,cars/renaultr24,Identify the car,Renault R24,Renault R25,Renault RE20,Renault RE21
+
 https://en.wikipedia.org/wiki/Sauber_C12,cars/sauberc12,Identify the car,Sauber C12,Sauber C11,Tyrrell 021,Tyrrell 023
 
-https://en.wikipedia.org/wiki/Toleman_TG185,cars/tg185,Identify the car,Toleman TG185,Benetton B186,Alfa-Romeo 185T,Benetton B188
 
+https://en.wikipedia.org/wiki/Toleman_TG185,cars/tg185,Identify the car,Toleman TG185,Benetton B186,Alfa-Romeo 185T,Benetton B188
 
 
 

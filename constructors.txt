@@ -2,12 +2,18 @@
 CHAMPIONS
 https://en.wikipedia.org/wiki/2006_FIA_Formula_One_World_Championship#World_Constructors'_Championship_standings,constructors/unknown,Who was the 2006 constructors champion,Renault,Ferrari,McLaren,Williams
 https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship#World_Constructors'_Championship_final_standings,constructors/unknown,Who won the 1994 constructors championship,Williams,Benetton,McLaren,Ferrari
-
+https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,constructors/unknown,Which team was the 1995 constructors champion,Benetton,Williams,McLaren,Ferrari
+https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship,constructors,unknown,Which team was the 1994 constructors champion,Williams,Benetton,McLaren,McLaren
 
 
 ALFA ROMEO
-https://en.wikipedia.org/wiki/1950_Formula_One_season,constructors/alfa,How many races did Alfa Romeo win in 1950 F1 world championship,--6--,--7--,--5--,--4--
+https://en.wikipedia.org/wiki/1950_Formula_One_season,cars/alfa_romeo_159,How many races did Alfa Romeo win in 1950 F1 world championship,--6--,--7--,--5--,--4--
 https://en.wikipedia.org/wiki/1951_Formula_One_season,constructors/alfa,How many races did Alfa Romeo win in 1951 F1 world championship,--4--,--7--,--5--,--6-- 
+
+
+
+BENETTON
+https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,cars/benettonb188,Which year did Benetton win the constructors championship,1995,1994,1993,1996
 
 
 
@@ -54,20 +60,26 @@ https://en.wikipedia.org/wiki/Force_India,constructors/force_india,Which drivers
 
 
 RENAULT
-https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Which was the first grand prix Renault won,1979 Dijon,1979 Zolder,1978 Kyalami,1978 Jarama
-https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Which pair of drivers raced for Renault in 2007,Fisichella Kovalainen,Alonso Kovalainen,Alonso Fisichella,Kubica Petrov
-https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
-https://en.wikipedia.org/wiki/Renault_in_Formula_One,constructors/renault,Which driver claimed first win for Renault,Jean-Pierre Jabouille,Rene Arnoux,Alain Prost,Jean-Pierre Beltoise
-https://en.wikipedia.org/wiki/Renault_in_Formula_One#Renault_F1_Team_(2002%E2%80%932010),constructors/renault,Which team did Renault buy to return in F1,Benetton,Tyrrell,Lotus,Arrows
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Which was the first grand prix Renault won,1979 Dijon,1979 Zolder,1978 Kyalami,1978 Jarama
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Which pair of drivers raced for Renault in 2007,Fisichella Kovalainen,Alonso Kovalainen,Alonso Fisichella,Kubica Petrov
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Which driver claimed first win for Renault,Jean-Pierre Jabouille,Rene Arnoux,Alain Prost,Jean-Pierre Beltoise
+https://en.wikipedia.org/wiki/Renault_in_Formula_One#Renault_F1_Team_(2002%E2%80%932010),cars/renaultr24,Which team did Renault buy to return in F1,Benetton,Tyrrell,Lotus,Arrows
 
 
 STEWART GP
-https://en.wikipedia.org/wiki/Stewart_Grand_Prix,constructors/stewart,Which drivers raced for Stewart GP,Barrichello Verstappen,Herbert Alesi,Magnussen Irvine,Barrichello Larini
-https://en.wikipedia.org/wiki/Stewart_Grand_Prix,constructors/stewart,How many drivers raced for Stewart GP,Four,Five,Three,Six
+https://en.wikipedia.org/wiki/Stewart_Grand_Prix,cars/stewartsf1,Which drivers raced for Stewart GP,Barrichello Verstappen,Herbert Alesi,Magnussen Irvine,Barrichello Larini
+https://en.wikipedia.org/wiki/Stewart_Grand_Prix,cars/stewartsf1,How many drivers raced for Stewart GP,Four,Five,Three,Six
+https://en.wikipedia.org/wiki/Stewart_Grand_Prix,cars/stewartsf1,Which team came from Stewart GP,Jaguar,Prost-GP,Tyrrell,Toleman
 
 
 BENETTON
-https://en.wikipedia.org/wiki/Toleman#Change_of_ownership,constructors/benetton,Which team did Benetton come from,Toleman,Tyrrell,Arrows,Honda
+https://en.wikipedia.org/wiki/Toleman#Change_of_ownership,cars/benettonb188,Which team did Benetton come from,Toleman,Tyrrell,Arrows,Honda
+
+
+BRAWN
+https://en.wikipedia.org/wiki/Brawn_GP,figures/brawn,Which team did Brawn GP originate from,Honda Racing,--BAR--,Tyrrell,Stewart GP
+https://en.wikipedia.org/wiki/Brawn_GP,figures/brawn,Which team bought Brawn GP in 2010,Mercedes,Red-Bull,Lotus-F1,Renault
 
 
 MERCEDES
@@ -82,7 +94,7 @@ https://en.wikipedia.org/wiki/Scuderia_Ferrari,constructors/ferrari,What is the 
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,constructors/ferrari,Which driver claimed first grand prix victory for Ferrari,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which constructor was the first to use the semi automatic gear box pioneered by John Barnard,Ferrari,Lotus,Williams,Benetton
-
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many years passed without a driver''s championship for Ferrari until Michael Schumacher in 2000,21,15,25,17
 
 
 SAUBER
