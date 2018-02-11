@@ -18,6 +18,11 @@ https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Identify the figure,Rory 
 
 
 
+
+BYRNE
+
+
+
 RON DENNIS
 https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,Where was Ron Dennis born,Woking,Essex,Camberley,Farnborough
 
@@ -87,6 +92,10 @@ https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Which team was Peter
 
 FERRARI
 https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/unknown,Which racing figure was named Il Commendatore,Enzo Ferrari,Albero Ascari,Flavio Briatore,Tazio Nuvolari
+
+
+
+FORGHIERI
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many Ferrari drivers won the world championship with Mauro Forghieri as chief designer,-Four-,-Three-,--Two--,-Five-
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many constructors championships did Ferrari win with Mauro Forghieri as chief designer,-Eight-,-Seven-,--Six--,-Five-
 

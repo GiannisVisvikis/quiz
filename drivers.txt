@@ -45,6 +45,7 @@ https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,Name the driver,
 https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,Name the driver,Elio De Angelis,Andrea De Cesaris,Riccardo Patrese,Michael Andretti
 https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux,Name the driver,Rene Arnoux,Gilles Villeneuve,Jean-Pierre Beltoise,Francois Cevert
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,Name the driver,Jim Clark,Mike Hawthorn,Peter Collins,Stirling Moss
+https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado,Name the driver,Pastor Maldonado,Romain Grosjean,Sergio Perez,Esteban Occon
 
 
 
@@ -91,6 +92,7 @@ https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many races did 
 HAMILTON
 https://en.wikipedia.org/wiki/Lewis_Hamilton,drivers/hamilton,Lewis Hamilton achieves his first F1 win,Montreal 2007,Monaco 2007,Silverstone 2008,Hockenheim 2008
 https://en.wikipedia.org/wiki/Lewis_Hamilton,drivers/hamilton,Whom did Lewis Hamilton pass on the final lap of the 2008 Brazilian Grand Prix to become world champion,Timo Glock,Nico Hulkenberg,Giancarlo Fisichella,Jarno Trulli
+https://en.wikipedia.org/wiki/2016_FIA_Formula_One_World_Championship,drivers/unknown,Which driver is the first to have scored four wins in a calendar month in July 2016,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,Fernando Alonso
 
 
 
@@ -112,6 +114,7 @@ https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,drivers/raikkonen,Which t
 RICCIARDO
 https://en.wikipedia.org/wiki/Daniel_Ricciardo,drivers/ricciardo,Daniel Ricciardo makes his F1 debute in 2011 at,Silverstone,Monaco,Monza,Spa
 https://en.wikipedia.org/wiki/Daniel_Ricciardo,drivers/ricciardo,Daniel Ricciardo makes his F1 debute in 2011 with,HRT,Sauber,Toro Rosso,Lotus-F1
+https://en.wikipedia.org/wiki/2014_Canadian_Grand_Prix,drivers/ricciardo,Where and when did Daniel Ricciardo win his first grand Prix,2014 Montreal,2014 Silverstone,2013 Silverstone,2013 Shanghai
 
 
 FEMALE DRIVERS
@@ -127,7 +130,6 @@ https://en.wikipedia.org/wiki/Nico_Rosberg,drivers/rosberg,Where did Nico Rosber
 
 
 SENNA
-https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many races did Ayrton Senna win for McLaren,-35-,-34-,-30-,-32-
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where and when was Senna''s last win,1993 Adelaide,1993 Suzuka,1993 Monza,1993 Estoril
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many races did Ayrton Senna win in F1,-41-,-40-,-42-,-38-
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many pole positions for Senna in F1,-65-,-70-,-68-,58-
@@ -278,6 +280,11 @@ https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Which team did Ro
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where was Romain Grosjean born,Geneva,Paris,London,Zurich
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/unknown,Who was the first driver to receive a race ban for dangerous driving since Eddie Irvine in 1994,Romain Grosjean,Pastor Maldonado,Robert Kubica,Daniil Kvyat
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where did Romain Grosjean used to work,--Bank--,-Sales-,Bartender,Waitor
+
+
+
+MALDONADO
+https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado,Who won the 2012 Spanish Grand Prix,Pastor Maldonado,Fernando Alonso,Kimi Raikkonen,Sebastian Vettel
 
 
 
