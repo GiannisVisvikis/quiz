@@ -1,5 +1,7 @@
-IDENTIFY
 https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,Name the team principal,Ron Dennis,Di Montezemolo,Flavio Briatore,Bernie Ecclestone
+https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,How many drivers became world champions at McLaren under Ron Dennis team managment,Five,Six,Four,Seven
+https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,Which was the first F1 team Ron Dennis worked for,Cooper,Brabham,McLaren,Lotus
+https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,What was the name of the F2 team which Ron Dennis and Neil Trundle found after leaving Brabham,Rondel Racing,Project Three,Project Four,Grob Racing
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Identify the team manager,Colin Chapman,Enzo Ferrari,Bruce McLaren,Frank Williams
 https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Identify the car designer,Adrian Newey,John Barnard,Gordon Murray,Paddy Lowe
 https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Identify the Sporting Director,Peter Windsor,Steve Nielsen,Flavio Briatore,Dave O''Neill
@@ -7,99 +9,44 @@ https://en.wikipedia.org/wiki/Flavio_Briatore,figures/briatore,Name the team man
 https://en.wikipedia.org/wiki/Roger_Penske,figures/penske,Identify the team manager,Roger Penske,Steve Nielsen,Peter Collins,Gene Haas
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Identify the figure,John Barnard,Gordon Murray,Mauro Forghieri,Ross Brawn
 https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/cooper,Identify the figure,John Cooper,Mauro Forghieri,Jack Brabham,Colin Chapman
-https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghiery,Identify the figure,Mauro Forghieri,John Cooper,Ken Tyrrell
+https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghiery,Identify the figure,Mauro Forghieri,John Cooper,Ken Tyrrell,Rory Byrne
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Name the car designer,Gordon Murray,Colin Chapman,Ron Dennis,Adrian Newey
 https://en.wikipedia.org/wiki/Patrick_Head,figures/head,Identify the figure,Patrick Head,Frank Williams,Gene Haas,Ross Brawn
 https://en.wikipedia.org/wiki/Ross_Brawn,figures/brawn,Identify the figure,Ross Brawn,Adrian Newey,John Cooper,Steve Nielsen
-https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber.Identify the figure,Peter Sauber,Ron Dennis,Adrian Newey,Frank Williams
+https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber,Identify the figure,Peter Sauber,Ron Dennis,Adrian Newey,Frank Williams
 https://en.wikipedia.org/wiki/Guenther_Steiner,figures/steiner,Identify the team principal,Guenther Steiner,Frederic Vasseur,Paddy Lowe,Toto Wolff
 https://en.wikipedia.org/wiki/Force_India,figures/fernley,Name the figure,Robert Fernley,Guenther Steiner,Peter Sauber,Ross Brawn
 https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Identify the figure,Rory Byrne,Adrian Newey,Guenther Steiner,Patrick Head
-
-
-
-
-BYRNE
-
-
-
-RON DENNIS
 https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,Where was Ron Dennis born,Woking,Essex,Camberley,Farnborough
-
-
-
-JOHN BARNARD
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Where was John Barnard born,London,Birmingham,Leeds,Manchester
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Who built the first carbon fibre composite chassis,John Barnard,Gordon Murray,Mauro Forghieri,Colin Chapman
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Who built the first semi automatic gear box for F1,John Barnard,Gustav Brunner,Rory Byrne,Mike Coughlan
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which team has John Barnard never worked for,Williams,McLaren,Ferrari,Arrows
-
-
-
-BRAWN
 https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn,Which team has Ross Brawn never worked for,McLaren,Ferrari,Honda,Mercedes
+https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn,When did Ross Brawn join Ferrari,1997,1996,1995,2000
 https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn,Which team did Ross Brawn work for right before Ferrari,Benetton,Arrows,Williams,McLaren
-
-
-
-COOPER
 https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/cooper,Who was the first to built a rear engine Formula 1 car,John Cooper,Colin Chapman,Carlo Chiti,Vittorio Jano
-
-
-
-GORDON MURRAY
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Where was Gordon Murray born,Durban,Pretoria,Sydney,Glasgow
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Which team has Gordon Murray never worked for,Ferrari,Williams,McLaren,Brabham
-
-
-
-CHAPMAN
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Where was Colin Chapman born,Richmond,Norwich,Woking,London
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,When did Colin Chapman die of a heart attack,1982,1980,1983,1981
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/unknown,Who built the first monocoque,Colin Chapman,John Cooper,Mauro Forghiery,John Barnard
-
-
-
-HEAD
 https://en.wikipedia.org/wiki/Patrick_Head,constructors/williams,Who was Williams Grand Prix Engineering co-founder,Patrick Head,Sam Michael,Walter Wolf,Frank Dernie
 https://en.wikipedia.org/wiki/Patrick_Head,constructors/williams,Who was the first chief designer for Williams,Patrick Head,Sam Michael,Gordon Murray,Frank Dernie
 https://en.wikipedia.org/wiki/Williams_FW07,figures/head,Which was the first Patrick Head designed car that won the drivers championship,FW07B,FW06,FW07C,FW08
 https://en.wikipedia.org/wiki/Williams_FW07,figures/head,Which was the first Patrick Head designed car that won the constructors championship,FW07B,FW06,FW07C,FW08
 https://en.wikipedia.org/wiki/Williams_FW07,figures/head,What year did Patrick Head leave Williams Grand Prix Engineering,2012,2011,2013,2010
-
-
-NEWEY
 https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Where was Adrian Newey born,Newcastle,London,Manchester,Essex
 https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Which car was designed by Adrian Newey,RB4,FW20,F2004,MP4/10
 https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Which team was the first Adrian Newey worked for,March,Williams,McLaren,Toleman
-
-
-NIELSEN
 https://en.wikipedia.org/wiki/Steve_Nielsen,figures/nielsen,Identify the sporting manager,Steve Nielsen,Adrian Newey,Paddy Lowe,Ron Dennis
 https://en.wikipedia.org/wiki/Steve_Nielsen,figures/nielsen,Which team was Steve Nielsen a sporting manager at,Arrows,McLaren,Ligier,Lola
-
-
-
-BRIATORRE
+https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Name the designer,Rory Byrne,Patrick Head,Mike Coughlan,Mike Gascoyne
+https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Where was Rory Byrne born,Pretoria,Durban,Melbourne,Auckland
+https://en.wikipedia.org/wiki/Rory_Byrne#Toleman/Benetton,figures/byrne,Where did Rory Byrne start his F1 career,Toleman,Benetton,Williams,Ferrrari
+https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,When did Rory Byrne join Ferrari,1997,1996,1995,2000
 https://en.wikipedia.org/wiki/Flavio_Briatore,figures/briatore,Which team did Flavio Briatore manage,Renault,Lotus,Tyrell,Ferrari
-
-
-
-WINDSOR
 https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Which team was Peter Windsor a sporting director at,US-F1-Team,HAAS-F1,--HRT--,Virgin
-
-
-
-FERRARI
 https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/unknown,Which racing figure was named Il Commendatore,Enzo Ferrari,Albero Ascari,Flavio Briatore,Tazio Nuvolari
-
-
-
-FORGHIERI
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many Ferrari drivers won the world championship with Mauro Forghieri as chief designer,-Four-,-Three-,--Two--,-Five-
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many constructors championships did Ferrari win with Mauro Forghieri as chief designer,-Eight-,-Seven-,--Six--,-Five-
-
-
-
-
-

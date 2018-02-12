@@ -1,32 +1,15 @@
-
-CHAMPIONS
 https://en.wikipedia.org/wiki/2006_FIA_Formula_One_World_Championship#World_Constructors'_Championship_standings,constructors/unknown,Who was the 2006 constructors champion,Renault,Ferrari,McLaren,Williams
 https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship#World_Constructors'_Championship_final_standings,constructors/unknown,Who won the 1994 constructors championship,Williams,Benetton,McLaren,Ferrari
 https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,constructors/unknown,Which team was the 1995 constructors champion,Benetton,Williams,McLaren,Ferrari
-https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship,constructors,unknown,Which team was the 1994 constructors champion,Williams,Benetton,McLaren,McLaren
-
-
-ALFA ROMEO
+https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship,constructors/unknown,Which team was the 1994 constructors champion,Williams,Benetton,McLaren,Ferrari
 https://en.wikipedia.org/wiki/1950_Formula_One_season,cars/alfa_romeo_159,How many races did Alfa Romeo win in 1950 F1 world championship,Six,Seven,Five,Four
 https://en.wikipedia.org/wiki/1951_Formula_One_season,cars/alfa_romeo_159,How many races did Alfa Romeo win in 1951 F1 world championship,Four,Seven,Five,Six 
-
-
-
-BENETTON
 https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,cars/benettonb188,Which year did Benetton win the constructors championship,1995,1994,1993,1996
-
-
-
-McLAREN
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,First team to use a completely carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
 https://en.wikipedia.org/wiki/Lotus_91,cars/mp4_1_mono,Second team to use a completely carbon fiber monocoque,Lotus,Williams,Brabham,Ferrari
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many races did Ayrton Senna win for McLaren,-35-,-34-,-30-,-32-
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_13,Which driver has won the most races for McLaren,Ayrton Senna,Alain Prost,Lewis Hamilton,Mika Hakkinen
 https://en.wikipedia.org/wiki/1986_German_Grand_Prix#Race,cars/mp4_2,At which race did Alain Prost and Keke Rosberg ran out of fuel in the last lap,1986 Hockenheim,1986 Brands-Hatch,1986 Paul-Ricard,1986 Detroit-Circuit
-
-
-
-LOTUS
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,When and where did Team Lotus first enter F1,Monaco 1958,Zandvoort 1958,Indianapolis 1959,Aintree 1959
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,How many constructors championships did Team Lotus win in F1,Seven,Eight,Nine,Five
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus49,How many races did Lotus win in F1,-79-,-82-,-65-,-69-
@@ -34,18 +17,11 @@ https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus49,Which race was the last fo
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,When did Team Lotus win their first constructors championship,1963,1962,1964,1961
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,Who won the first race for Team Lotus,Innes Ireland,Stirling Moss,Jim Clark,Graham Hill
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus49b,Where and where did Team Lotus take its first victory,1961 Watkins-Glen,1960 Monaco,1960 Monza,1961 Monza
-
-
-
-RED BULL
 https://en.wikipedia.org/wiki/Red_Bull_Racing,cars/rb6,Which two drivers have recorded the most DNFs for Red Bull,Coulthard Webber,Coulthard Kvyat,Webber Vettel,Vettel Kvyat
 https://en.wikipedia.org/wiki/Red_Bull_Racing,cars/rb5,Where and when did Red Bull get it''s first pole position,2009 Shanghai,2009 Kuala Lumpur,2009 Instabul,2009 Monaco
 https://en.wikipedia.org/wiki/Red_Bull_Racing,cars/rb5,Where and when did Red Bull score it''s first win,2009 Shanghai,2009 Monza,2008 Silverstone,2008 Monaco
 https://en.wikipedia.org/wiki/Red_Bull_Racing,cars/rb5,Where and when did Red Bull score it''s first 1 2 podium,2009 Shanghai,2009 Monza,2008 Silverstone,2008 Monaco
 https://en.wikipedia.org/wiki/Red_Bull_Racing,cars/rb5,Which was the team that became Red Bull Racing,Jaguar,Tyrrell,Stewart GP,Minardi
-
-
-WILLIAMS
 https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05,Wolf Williams FW05 was a,Hesketh 308C,Hesketh 308B,Hesketh 308,Hesketh 308E
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw14b,Which of these drivers was with Williams for four years,Alan Jones,Mark Webber,Ralf Schumacher,Nelson Piquet
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw14,Which of these drivers was with Williams for six years,Ralf Schumacher,Mark Webber,Juan Pablo Montoya,Nelson Piquet
@@ -53,65 +29,29 @@ https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07,Which of
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07,Williams was originally based in a warehouse that used to house,Carpets,Cars,Wood,Tools
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,cars/fw07,Where did Clay Regazzoni claim first victory for williams in 1979,Silverstone,Long-Beach,Monaco,Hockenheim
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,cars/fw07,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
-
-
-
-FORCE INDIA
 https://en.wikipedia.org/wiki/Giancarlo_Fisichella,drivers/fisichella,Where and when did Giancarlo Fisichella take first pole for Force India,Spa 2009,Istanbul 2009,Monaco 2008,Magny Cours 2008
 https://en.wikipedia.org/wiki/Force_India,cars/vjm04,Which two Italian drivers have raced for Force India,Fisichella Liuzzi,Fisichella Giovinazzi,Liuzzi Trulli,Giovinazzi Trulli
 https://en.wikipedia.org/wiki/Force_India,cars/vjm04,Which drivers raced for Force India in 2010,Liuzzi Sutil,Fisichella Liuzzi,Sutil Fisichella,Di-Resta Sutil
-
-
-
-RENAULT
 https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Which was the first grand prix Renault won,1979 Dijon,1979 Zolder,1978 Kyalami,1978 Jarama
 https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Which pair of drivers raced for Renault in 2007,Fisichella Kovalainen,Alonso Kovalainen,Alonso Fisichella,Kubica Petrov
 https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
 https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20,Which driver claimed first win for Renault,Jean-Pierre Jabouille,Rene Arnoux,Alain Prost,Jean-Pierre Beltoise
 https://en.wikipedia.org/wiki/Renault_in_Formula_One#Renault_F1_Team_(2002%E2%80%932010),cars/renaultr24,Which team did Renault buy to return in F1,Benetton,Tyrrell,Lotus,Arrows
-
-
-STEWART GP
 https://en.wikipedia.org/wiki/Stewart_Grand_Prix,cars/stewartsf1,Which drivers raced for Stewart GP,Barrichello Verstappen,Herbert Alesi,Magnussen Irvine,Barrichello Larini
 https://en.wikipedia.org/wiki/Stewart_Grand_Prix,cars/stewartsf1,How many drivers raced for Stewart GP,Four,Five,Three,Six
 https://en.wikipedia.org/wiki/Stewart_Grand_Prix,cars/stewartsf1,Which team came from Stewart GP,Jaguar,Prost-GP,Tyrrell,Toleman
-
-
-BENETTON
 https://en.wikipedia.org/wiki/Toleman#Change_of_ownership,cars/benettonb188,Which team did Benetton come from,Toleman,Tyrrell,Arrows,Honda
-
-
-BRAWN
 https://en.wikipedia.org/wiki/Brawn_GP,figures/brawn,Which team did Brawn GP originate from,Honda Racing,--BAR--,Tyrrell,Stewart GP
 https://en.wikipedia.org/wiki/Brawn_GP,figures/brawn,Which team bought Brawn GP in 2010,Mercedes,Red-Bull,Lotus-F1,Renault
-
-
-MERCEDES
 https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas_Motorsport_(2010%E2%80%93present),cars/w05,Which was originally the team that in 2010 eventually became Mercedes,Tyrrell,Stewart-GP,Matra,Arrows
 https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas_Motorsport_(2010%E2%80%93present),cars/w05,Who was the last world champion for Mercedes before Lewis Hamilton,Juan Fangio,Stefan Bellof,Michael Schumacher,Ludwig Fischer
 https://en.wikipedia.org/wiki/2013_FIA_Formula_One_World_Championship,drivers/hamilton,Where and when did Lewis Hamilton win his first race with Mercedes,Hungaroring 2013,2013 Silverstone,2014 Montreal,2014 Melbourne
-
-
-
-FERRARI
 https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/f2004,How many poles for Ferrari in 2004 season,12,13,11,10 
 https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/f2004,What is the Ferrari (and sport) record for consecutive podiums,-53-,-23-,-48-,-55-
-https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,cars/156,Which driver claimed first grand prix victory for Ferrari,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
+https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,cars/ferrari156,Which driver claimed first grand prix victory for Ferrari,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which constructor was the first to use the semi automatic gear box pioneered by John Barnard,Ferrari,Lotus,Williams,Benetton
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many years passed without a driver''s championship for Ferrari until Michael Schumacher in 2000,21,15,25,17
-
-
-
-SAUBER
+https://www.formula1.com/en/latest/features/2015/10/f1-do-you-remember-when-ferrari-raced-in-blue-in-mexico.html,cars/ferrari158,Which season did Ferrari race blue and white cars in the last two races,1964,1961,1966,1963
 https://en.wikipedia.org/wiki/Sauber,cars/sauberc12,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
 https://en.wikipedia.org/wiki/Sauber,cars.sauberc12,What season did sauber first appear in F1,1993,1994,1992,1995
-
-
-
-FOOTWORK
 https://en.wikipedia.org/wiki/Footwork_Arrows,cars/fa12,Which team was renamed as Footwork in 1991,Arrows,Tyrrell,Lola,ATS
-
-
-
-
-

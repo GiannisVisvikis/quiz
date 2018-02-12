@@ -1,7 +1,7 @@
 https://en.wikipedia.org/wiki/Suzuka_Circuit,circuits/suzuka,Identify the circuit,Suzuka,Silverstone,Nurburgring,Interlagos
 https://en.wikipedia.org/wiki/Intercity_Istanbul_Park,circuits/istanbul,Identify the circuit,Istanbul,Suzuka,Imola,Monza
 https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/nurburgring,Identify the circuit,Nurburgring,Suzuka,Monza,Catalunya
-https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours,circuits/magny_cours,Identify the circuit,Magny Cours,Nurburgring,Hockenheim
+https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours,circuits/magny_cours,Identify the circuit,Magny Cours,Nurburgring,Hockenheim,Silverstone
 https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace,circuits/interlagos,Identify the circuit,Interlagos,Imola,RedBull Ring,Brands Hatch
 https://en.wikipedia.org/wiki/Sepang_International_Circuit,circuits/sepang,Identify the circuit,Sepang,Monza,Interlagos,Magny Cours
 https://en.wikipedia.org/wiki/Brands_Hatch,circuits/brands_hatch,Identify the circuit,Brands Hatch,Monza,Catalunya,Istanbul
