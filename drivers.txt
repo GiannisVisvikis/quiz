@@ -1,4 +1,6 @@
 https://en.wikipedia.org/wiki/1950_Formula_One_season,drivers/unknown,Who was the first Formula 1 world champion,Giuseppe Farina,Juan Fangio,Alberto Ascari,Stirling Moss
+https://en.wikipedia.org/wiki/1952_Formula_One_season,drivers/unknown,Who was the 1952 season Formula 1 world champion,Alberto Ascari,Giuseppe Farina,Juan Fangio,Stirling Moss
+https://en.wikipedia.org/wiki/1953_Formula_One_season,drivers/unknown,Who was the 1953 season Formula 1 world champion,Alberto Ascari,Giuseppe Farina,Juan Fangio,Stirling Moss
 https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the first British world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
 https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the 1958 world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
 https://en.wikipedia.org/wiki/1961_Formula_One_season,drivers/unknown,Who was the 1961 world champion,Phil Hill,John Surtees,Stirling Moss,Peter Collins
@@ -16,12 +18,15 @@ https://en.wikipedia.org/wiki/1996_Formula_One_season,drivers/unknown,Who was th
 https://en.wikipedia.org/wiki/2005_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2005 drivers champion,Fernando Alonso,Kimi Raikkonen,Michael Schumacher,Mika Hakkinen
 https://en.wikipedia.org/wiki/1971_Italian_Grand_Prix,drivers/unknown,Who won the 1971 Italian Grand Prix at Monza by a 100th of a second,Peter Gethin,Ronnie Peterson,Francois Cevert,Jackie Stewart
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/unknown,Who was the first world champion from the US,Phil Hill,Mario Andretti,Dan Gurney,Carroll Shelby
-https://en.wikipedia.org/wiki/1969_Formula_One_season,drivers/unknown,Who was the 1969 season drivers champion runner up,Jacky Ickx,Jackie Stewart,Graham Hill,Denny Hulme
+https://en.wikipedia.org/wiki/1969_Formula_One_season,drivers/unknown,Who was the 1969 season drivers championship runner up,Jacky Ickx,Jackie Stewart,Graham Hill,Denny Hulme
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/unknown,Who was the 1979 season drivers championship runner up,Gilles Villeneuve,Jody Schecter,Mario Andretti,Niki Lauda
 https://en.wikipedia.org/wiki/1999_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 1999 drivers championship runner up,Eddie Irvine,Mika Hakkinen,Michael Schumacher,Jacques Villeneuve
 https://en.wikipedia.org/wiki/2005_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2005 drivers championship runner up,Kimi Raikkonen,Fernando Alonso,Michael Schumacher,Giancarlo Fisichella
 https://en.wikipedia.org/wiki/1963_Mexican_Grand_Prix,drivers/unknown,Who won the first Mexican Grand Prix in 1963,Jim Clark,Graham Hill,John Surtees,Phil Hill
-https://en.wikipedia.org/wiki/1978_Canadian_Grand_Prix,drivers/unknown,Who won the 1978 Montreal grand prix, Gilles Villeneuve,James Hunt,Niki Lauda,Ronnie Peterson
+https://en.wikipedia.org/wiki/1978_Canadian_Grand_Prix,drivers/unknown,Who won the 1978 Montreal grand prix,Gilles Villeneuve,James Hunt,Niki Lauda,Ronnie Peterson
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,drivers/unknown,Who won the 1951 British Grand Prix,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,Name the driver,Gilles Vileneuve,James Hunt,Didier Pironi,Chris Amon
+https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Name the driver,Alberto Ascari,Nino Farina,Mike Hawthorn,Juan Fangio
 https://en.wikipedia.org/wiki/Jody_Scheckter,drivers/scheckter,Name the driver,Jody Scheckter,Mario Andretti,Derek Daly,Vittorio Brambilla
 https://en.wikipedia.org/wiki/Pedro_Diniz,drivers/diniz,Name the driver,Pedro Diniz,Felipe Nasr,Felipe Massa,Esteban Tuero
 https://en.wikipedia.org/wiki/Jacky_Ickx,drivers/ickx,Name the driver,Jacky Ickx,Chris Amon,Vic Elford,Dan Gurney
@@ -39,9 +44,16 @@ https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/unknown,Which driver wa
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/unknown,Which driver was called ''Maestro'',Juan Fangio,Nino Farina,Alberto Ascari,Tazio Nuvolari
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,How many different constructors did Fangio win world championships with,--Four--,--Three--,--Two--,--Five--
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,Whos racing philosophy was always to win at the slowest possible speed,Juan Fangio,Ayrton Senna,Gilles Villeneuve,Andrea-De Cesaris
+https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,How many drivers championships did Alberto Ascari win,Two,Three,One,Four
+https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,How many wins did Alberto Ascari claim,13,14,12,11
+https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Which was Alberto Ascari''s first race,1950 Monaco,1950 Silverstone,1951 Bremgarten,1951 Indianapolis
+https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Where and when was Ascari''s first win,1951 Nurburgring,1951 Spa,1950 Silverstone,1950 Indianapolis
+https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Where and when was Ascari''s last win,1953 Bremgarten,1953 Nurburgring,1952 Monza,1952 Zandvoort
+https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Which was Alberto Ascari''s last race,1955 Monaco,1955 Aintree,1954 Monza.1954 Bremgarten
 https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,Where was Chris Amon from,New Zealand,Australia,Great Britain,Canada
 https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,When and where did Chris Amon make his F1 debute,1963 Monaco,1963 Spa,1964 Zandvoort,1964 Brands Hatch
 https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,Where and when was Chris Amon''s last grand prix,1976 Ontario,1976 Watkins Glen,1976 Oyama,1976 Monza
+https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,When did Jim Clark win the Indianapolis 500,1965,1966,1964,1963
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,When and where did Jim Clark make his F1 debute,1960 Zandvoort,1960 Monza,1961 Monaco,1961 Zandvoort
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,When and where did Jim Clark claim his first win,1962 Spa,1962 Rouen,1961 Monza,1961 Aintree
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,How many world championships did Jim Clark win,--2--,--3--,--1--,--4--
@@ -49,6 +61,7 @@ https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,Which was Jim Clark''s las
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,Which was Jim Clark''s last F1 win,1968 Kyalami,1968 Hockenheim,1968 Monza,1969 Nurburgring
 http://www.bbc.com/sport/formula1/20124557,drivers/clark,Which circuit did Jim Clark hate the most,Spa Francochamps,Nordschleife Nurburgring,--Watkins-- Glenn,--Reims-- Gueux
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,How many victories did Jim Clark claim in total,--25--,--23--,--28--,--20--
+https://en.wikipedia.org/wiki/Jackie_Stewart,When and where did Jackie Stewart make his F1 debute,1965 Prince George,1965 Charade,1965 Zandvoort,1966 Monaco
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How old was Jackie Stewart when he made his debute in F1,-25-,-24-,-22-,-27-
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many podiums did Jackie Stewart take in his F1 career,-43-,-37-,-31-,-46-
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many constructors did Jackie Stewart race for,--4--,--3--,--1--,--2--
@@ -57,7 +70,27 @@ https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,When and where did 
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many races did Jackie Stewart win,-27-,-25-,-28-,-30-
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,Where and when did Jackie Stewart take his first pole position,Monaco 1969,Spa 1968,Brands Hatch 1968,Zandvoort 1969
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,Where and when did Jackie Stewart win his last grand prix in 1973,Nurburgring,Watkins Glen,Monza,Zandvoort
-https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many races did Jackie Stewart participate,-99-,-91-,102,-83-
+https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many races for Jackie Stewart in F1,-99-,-91-,102,-83-
+https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/unknown,Which driver pioneered safety campaign in F1,Jackie Stewart,Graham Hill,Jacky Ickx,Jim Clark
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,How many world championships did Gilles Villeneuve win,None,One,Two,Three
+https://en.wikipedia.org/wiki/Gilles_Villeneuve#Formula_One_career,drivers/gilles_villeneuve,Who discovered Gilles Villeneuve,James Hunt,Niki Lauda,Jacky Ickx,Graham Hill
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,At which team did Gilles Villeneuve drive for the first time in F1,McLaren,March,Tyrrell,Williams
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,How many wins did Gilles Villeneuve claim during his F1 carrer,Six,Two,Seven,Five
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,Where and when did Gilles Villeneuve make his F1 debute,1977 Silverstone,1977 Ontario,1978 Kyalami,1978 Monaco
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,When and where did Gilles Villeneuve claim his first win,1978 Montreal,1978 Jarama,1979 Zolder,1979 Silverstone
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,When and where did Gilles Villeneuve claim his last win,1981 Jarama,1981 Monaco,1982 Kyalami,1982 Imola
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,When and where did Gilles Villeneuve had his fatal accident,1982 Zolder,1982 Imola,1982 Kyalami,1982 Long Beach
+https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,When and where did Elio De Angelis make his F1 debut,1979 Argentine Grand Prix,1979 Brazilian Grand Prix,1978 Argentine Grand Prix,1978 Brazilian Grand Prix
+https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,When and where did Elio De Angelis claim his first F1 win,1982 A1-Ring,1982 Brands Hatch,1981 Imola,1981 Zolder
+https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,When and where did Elio De Angelis claim his last F1 win,1985 Imola,1985 Estoril,1984 Nurburgring,1984 Monza
+https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,When and where was the last race for Elio De Angelis,1986 Monaco,1986 Imola,1985 Adelaide,1985 Kyalami
+https://en.wikipedia.org/wiki/Jean_Alesi,drivers/alesi,Where did Jean Alesi claim his only victory in F1,1995 Montreal,1995 Estoril,1995 Suzuka,1995 Adelaide
+https://en.wikipedia.org/wiki/Jean_Alesi,drivers/alesi,When and where dit Jean Alesi make his F1 debute,1989 Paul Ricard,1988 Silverstone,1988 Imola,1989 Hungaroring
+https://en.wikipedia.org/wiki/Jean_Alesi,drivers/alesi,Which team Jean Alesi never raced for,Lotus,Prost,Tyrrell,Sauber
+https://en.wikipedia.org/wiki/Jean_Alesi,drivers/alesi,Which was the last race of Jean Alesi,2001 Suzuka,2001 Indianapolis,2002 Suzuka,2002 Adelaide
+https://en.wikipedia.org/wiki/Robert_Kubica,drivers/kubica,When and where was the first race for Robert Kubica,2006 Hungaroring,2006 Instabul,2005 Monza,2005 Suzuka
+https://en.wikipedia.org/wiki/Robert_Kubica,drivers/kubica,How many victories has Robert Kubica claimed in F1,One,Three,Two,None
+https://en.wikipedia.org/wiki/Robert_Kubica,drivers/kubica,When and where did Robert Kubica claim his victory in the 2008 season,Montreal,Valencia,Monaco,Silverstone
 https://en.wikipedia.org/wiki/Lewis_Hamilton,drivers/hamilton,Lewis Hamilton achieves his first F1 win,Montreal 2007,Monaco 2007,Silverstone 2008,Hockenheim 2008
 https://en.wikipedia.org/wiki/Lewis_Hamilton,drivers/hamilton,Whom did Lewis Hamilton pass on the final lap of the 2008 Brazilian Grand Prix to become world champion,Timo Glock,Nico Hulkenberg,Giancarlo Fisichella,Jarno Trulli
 https://en.wikipedia.org/wiki/2016_FIA_Formula_One_World_Championship,drivers/unknown,Which driver is the first to have scored four wins in a calendar month in July 2016,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,Fernando Alonso
@@ -120,9 +153,14 @@ https://en.wikipedia.org/wiki/Alain_Prost,drivers/prost,Where did Alain Prost en
 https://en.wikipedia.org/wiki/Alain_Prost,drivers/prost,How many teams did Alain Prost race for,Four,Five,Six,Three
 https://en.wikipedia.org/wiki/Alain_Prost,drivers/prost,Which team Alain Prost never raced for,Lotus,Williams,Renault,Ferrari
 https://en.wikipedia.org/wiki/Alain_Prost,drivers/prost,How many wins did Alain Prost claim for Williams,Seven,Eight,Five,Six
+https://en.wikipedia.org/wiki/Nigel_Mansell,Where and when did Nigel Mansell make his F1 debut,1980 Austrian Grand Prix,1979 South African Grand Prix,1981 United States Grand Prix,1981 Brazilian Grand Prix
+https://en.wikipedia.org/wiki/Nigel_Mansell,Where and when did Nigel Mansell claim his first F1 win,1985 European Grand Prix,1984 Canadian Grand Prix,1986 French Grand Prix,1986 Australian Grand Prix
+https://en.wikipedia.org/wiki/Nigel_Mansell,Where and when did Nigel Mansell win his last F1 Grand Prix,1994 Australian Grand Prix,1995 San Marino Grand Prix,1995 Spanish Grand Prix,1994 Japanese Grand Prix
 https://en.wikipedia.org/wiki/Nigel_Mansell#Williams_(1994),drivers/mansell,Which race did Nigel Mansell win for Williams in 1994,Adelaide,Jerez,Spa,Estoril
 https://en.wikipedia.org/wiki/Nigel_Mansell#Williams_(1994),drivers/mansell,Which was Mansell''s final win in F1,1994 Adelaide,1994 Suzuka,1992 Estoril,1992 Hockenheim
-https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux,How many grand prixes did Rene Arnoux win,--7--,--5--,--4--,--8--
+https://en.wikipedia.org/wiki/Nigel_Mansell,drivers/unknown,Who was named The Lion by Ferrari''s tifosi,Nigel Mansell,Alain Prost,Niki Lauda,Michael Schumacher
+https://en.wikipedia.org/wiki/Nigel_Mansell,How many world championships has Nigel Mansell won,One,Two,None,Three
+https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux,How many grand prixes did Rene Arnoux win,Seve,Six,Three,Five
 https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux,Where and when did Rene Arnoux claim his first victory,1980 Brazil,1980 Argentina,1979 Brazil,1979 Argentina
 https://en.wikipedia.org/wiki/Lance_Stroll,drivers/stroll,Which academy was Lance Stroll a member of,Ferrari,Red Bull,McLaren,Renault
 https://en.wikipedia.org/wiki/Stirling_Moss,drivers/moss,How many world championships did Stirling Moss win,None,One,Two,Three
@@ -138,8 +176,21 @@ https://en.wikipedia.org/wiki/Pascal_Wehrlein,drivers/wehrlein,At which 2016 rac
 https://en.wikipedia.org/wiki/Marcus_Ericsson,drivers/ericsson,Which team did Marcus Ericson test an F1 car for in 2009,Brawn GP,Red Bull,BMW Sauber,Williams
 https://en.wikipedia.org/wiki/Juan_Pablo_Montoya,drivers/montoya,When did Juan Pablo Montoya win the Monaco grand prix,2003,2002,2001,2004
 https://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert,drivers/cevert,Where and when did Francois Cevert have a fatal crash,Watkins Glen 1973,Monza 1972,Nurburgring 1974,Silverstone 1971
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,When and where did Niki Lauda make his F1 debute,1971 Austria,1972 South Africa,1970 Spain,1972 Monaco
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which team did Niki Lauda make his debute in F1 with,BRM,March,Tyrrell,Matra
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki Lauda win,-25-,-30-,-27-,-24-
-https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki LAuda win for Ferrari,15,12,17,20
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki Lauda win for Ferrari,15,12,17,20
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,When did Niki Lauda retire from racing for the first time,1979,1977,1980,1978
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,When did Niki Lauda retire from racing for the last time,1985,1982,1986,1983
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s last race with Ferrari,1977 Watkins Glenn,1977 Fuji,1977 Monza,1977 Zandvoort
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s last win in a Ferrari,1977 Zandvoort,1977 Watkins Glen,1977 Monza,1977 Hockenheimring
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s last win in Formula 1,1985 Zandvoort,1985 Monza,1984 Monza,1984 Estoril
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s last race in Formula 1,1985 Adelaide,1985 Kyalami,1984 Estoril,1984 Nurburgring
+https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Which was the last race for James Hunt,1979 Monaco,1979 Dijon,1979 Silverstone,1979 Kyalami
+https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,How many wins for James Hunt in F1,Ten,Eight,Twelve,Fifteen
+https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Which was the first race for James Hunt,1973 Monaco,1973 Kyalami,1973 Zolder,1974 Jarama
+https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Where and when did James Hunt claim his first grand prix win,1975 Zandvoort,1975 Zolder,1974 Dijon,1974 Brands Hatch 
+https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Where did James Hunt claim his last F1 win,1977 Fuji,1977 Ontario,1977 Monza,1977 Watkins Glen
 https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,When and where did Carlos Reutemann claim his first win,1974 Kyalami,1974 Jarama,1974 Nurburgring,1974 Monza
 https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,When and where dod Carlos Reutemann claim his first win with Ferrari,1977 Interlagos,1977 Kyalami,1977 Jarama,1977 Zolder
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill,How many seasons did Phil Hill race in Formula 1,-18-,-15-,-12-,-19-
@@ -147,9 +198,15 @@ https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill,What season did Phill 
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill,How many constructors did Phil Hill race for,--6--,--5--,--7--,4--
 https://en.wikipedia.org/wiki/Valtteri_Bottas,drivers/bottas,Where did Valtteri Bottas score his first F1 points,Austin 2013,Shanghai 2013,Montreal 2014,Silverstone 2014
 https://en.wikipedia.org/wiki/Jonathan_Palmer,drivers/palmer,Where did Jonathan Palmer make his debut in F1 in 1983,Brands Hatch,Silverstone,Zandvoort,Monza
-https://en.wikipedia.org/wiki/Jonathan_Palmer,drivera/palmer,Which team did Jonathan Palmer race for,Williams,Ferrari,Lotus,Osella
+https://en.wikipedia.org/wiki/Jonathan_Palmer,drivers/palmer,Which team did Jonathan Palmer race for,Williams,Ferrari,Lotus,Osella
 https://en.wikipedia.org/wiki/Heinz-Harald_Frentzen,drivers/frentzen,When did Heinz-Harald Frentzen claim the first podium for Sauber in 1995,Monza,Estoril,Hockenheim,Spa
 https://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez,drivers/gutierrez,Where and when did Esteban Gutierrez score his first F1 points,Suzuka 2013,Monaco 2013,Sakhir 2014,Budapest 2014
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,Where and when did Fernando Alonso make his debute in F1,2001 Melbourne,2000 Melbourne,2000 Interlagos,2001 Kuala Lumpur
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,Which team did Fernando Alonso make his debute in F1 with,Minardi,Renault,Toleman,Benetton
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,Where and where did Fernando Alonso claim his first F1 win,2003 Hungaroring,2003 Silverstone,2004 Bahrain,2004 Imola
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,When did Fernando Alonso join McLaren for the first time,2007,2008,2009,2006
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,How any wins did Fernando Alonso claim in his 2005 championship winning season,Seven,Six,Five,Eight
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,How any wins did Fernando Alonso claim in his 2006 championship winning season,Seven,Six,Five,Eight
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Which team did Romain Grosjean make his debute with,Renault,Sauber,HAAS-F1,Force-India
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where was Romain Grosjean born,Geneva,Paris,London,Zurich
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/unknown,Who was the first driver to receive a race ban for dangerous driving since Eddie Irvine in 1994,Romain Grosjean,Pastor Maldonado,Robert Kubica,Daniil Kvyat

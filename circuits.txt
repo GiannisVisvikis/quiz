@@ -20,3 +20,4 @@ https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit,circuits/aintree,Iden
 https://en.wikipedia.org/wiki/Baku_City_Circuit,circuits/bak,Identify the circuit,Baku,Monza,Istanbul,Catalunya
 https://en.wikipedia.org/wiki/Circuit_Bremgarten,circuits/bremgarten,Identify the circuit,Bremgarten,Hockenheim,Silverstone,Catalunya
 https://en.wikipedia.org/wiki/Circuit_Bremgarten,circuits/bremgarten,Which country is the bremgarten circuit located,Switzerland,Germany,Austria,Holland
+https://en.wikipedia.org/wiki/Pescara_Circuit,circuits/pescara,Which was the longest circuit ever used in F1,Pescara,Nordschleife Nurburgring,Aintree,Reims Gueux
