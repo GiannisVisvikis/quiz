@@ -84,6 +84,17 @@ https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Which was Alberto As
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Where and when was Ascari''s first win,1951 Nurburgring,1951 Spa,1950 Silverstone,1950 Indianapolis
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Where and when was Ascari''s last win,1953 Bremgarten,1953 Nurburgring,1952 Monza,1952 Zandvoort
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Which was Alberto Ascari''s last race,1955 Monaco,1955 Aintree,1954 Monza,1954 Bremgarten
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,How many world championships did Graham Hill win,Two,Three,One,Four
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,When did Graham Hill win his first world championship,1962,1963,1964,1967
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,How many wins did Graham Hill claim in F1,14,16,12,20
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,How many Monaco wins for Graham Hill,Five,Six,Three,Four
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,How many Monaco wins for Graham Hill in a BRM,Three,Two,Four,Five
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,How many Monaco wins for Graham Hill in a Lotus,Two,Three,Five,One
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,When did Graham Hill die in a plane crash,1975,1976,1974,1977
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,When and where did Graham Hill make his F1 debute,1958 Monaco,1958 Zandvoort,1959 Aintree,1959 Monza
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,When and where did Graham Hill claim his first F1 win,1962 Zandvoort,1961 Monaco,1960 Spa,1960 Silverstone
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,When and where did Graham Hill claim his last F1 win,1969 Monaco,1971 Kyalami,1970 Watkins Glen,1969 Monza
+https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,When and where was Graham Hill''s last race,1975 Monaco,1974 Watkins Glen,1975 Paul Ricard,1974 Dijon
 https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,Where was Chris Amon from,New Zealand,Australia,Great Britain,Canada
 https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,When and where did Chris Amon make his F1 debute,1963 Monaco,1963 Spa,1964 Zandvoort,1964 Brands Hatch
 https://en.wikipedia.org/wiki/Chris_Amon,drivers/amon,Where and when was Chris Amon''s last grand prix,1976 Ontario,1976 Watkins Glen,1976 Oyama,1976 Monza
@@ -159,6 +170,9 @@ https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where was the last race
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many wins for Ayrton Senna in a Lotus,Six,Five,Three,Seven
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many pole positions for Senna in a Lotus in 1985,Seven,Six,Five,Eight
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many wins for Ayrton Senna in Monaco,Six,Five,Seven,Four
+https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),When did Ayrton Senna equal Graham Hill''s record for most Monaco wins,1992,1993,1991,1990
+https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),When did Ayrton Senna surpass Graham Hill''s record for most Monaco wins,1993,1992,1994,1991
+https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),How many Monaco wins did Ayrton Senna claim,Six,Five,Seven,Four
 https://en.wikipedia.org/wiki/Felipe_Massa,drivers/massa,Which team did Felipe Massa make his debute with,Sauber,HRT,Toyota,BAR
 https://en.wikipedia.org/wiki/Bruce_McLaren,drivers/mclaren,When and where did Bruce McLaren win the first grand prix for his own team,Spa 1968,Le Mans 1967,Monaco 1969,Brands Hatch 1966
 https://en.wikipedia.org/wiki/Stoffel_Vandoorne#Formula_One,drivers/vandoorne,Where and when did Stoffel Vandoorne make his F1 debute,Bahrain 2016,Australia 2016,Australia 2017,Shanghai 2017

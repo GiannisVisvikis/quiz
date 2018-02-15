@@ -50,3 +50,5 @@ https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Which team was Peter
 https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/unknown,Which racing figure was named Il Commendatore,Enzo Ferrari,Albero Ascari,Flavio Briatore,Tazio Nuvolari
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many Ferrari drivers won the world championship with Mauro Forghieri as chief designer,-Four-,-Three-,--Two--,-Five-
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many constructors championships did Ferrari win with Mauro Forghieri as chief designer,-Eight-,-Seven-,--Six--,-Five-
+https://en.wikipedia.org/wiki/Luca_Cordero_di_Montezemolo,figures/montezemolo,Identify the manager,Luca Di Montezemolo,Ron Dennis,Guenther Steiner,Peter Sauber
+https://en.wikipedia.org/wiki/Luca_Cordero_di_Montezemolo#Career,figures/montezemolo,When did Luca Di Montezemolo become manager of the Scuderia Ferrari,1973,1974,1975,1972
