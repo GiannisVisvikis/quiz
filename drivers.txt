@@ -1,13 +1,21 @@
 https://en.wikipedia.org/wiki/1950_Formula_One_season,drivers/unknown,Who was the first Formula 1 world champion,Giuseppe Farina,Juan Fangio,Alberto Ascari,Stirling Moss
+https://en.wikipedia.org/wiki/1951_Formula_One_season,drivers/unknown,Who was the 1951 season Formula 1 world champion,Juan Fangio,Giuseppe Farina,Alberto Ascari,Stirling Moss
 https://en.wikipedia.org/wiki/1952_Formula_One_season,drivers/unknown,Who was the 1952 season Formula 1 world champion,Alberto Ascari,Giuseppe Farina,Juan Fangio,Stirling Moss
 https://en.wikipedia.org/wiki/1953_Formula_One_season,drivers/unknown,Who was the 1953 season Formula 1 world champion,Alberto Ascari,Giuseppe Farina,Juan Fangio,Stirling Moss
-https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the first British world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
+https://en.wikipedia.org/wiki/1954_Formula_One_season,drivers/unknown,Who was the 1954 season Formula 1 world champion,Juan Fangio,Giuseppe Farina,Alberto Ascari,Stirling Moss
+https://en.wikipedia.org/wiki/1955_Formula_One_season,drivers/unknown,Who was the 1955 season Formula 1 world champion,Juan Fangio,Giuseppe Farina,Alberto Ascari,Stirling Moss
+https://en.wikipedia.org/wiki/1956_Formula_One_season,drivers/unknown,Who was the 1956 season Formula 1 world champion,Juan Fangio,Giuseppe Farina,Alberto Ascari,Stirling Moss
+https://en.wikipedia.org/wiki/1957_Formula_One_season,drivers/unknown,Who was the 1957 season Formula 1 world champion,Juan Fangio,Giuseppe Farina,Alberto Ascari,Stirling Moss
 https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the 1958 world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
+https://en.wikipedia.org/wiki/1959_Formula_One_season,drivers/unknown,Who was the 1959 world champion,Jack Brabham,Mike Hawthorn,Phil Hill,Juan Fangio
+https://en.wikipedia.org/wiki/1960_Formula_One_season,drivers/unknown,Who was the 1960 world champion,Jack Brabham,Mike Hawthorn,Phil Hill,Juan Fangio
 https://en.wikipedia.org/wiki/1961_Formula_One_season,drivers/unknown,Who was the 1961 world champion,Phil Hill,John Surtees,Stirling Moss,Peter Collins
 https://en.wikipedia.org/wiki/1962_Formula_One_season,drivers/unknown,Which driver was the 1962 world champion,Graham Hill,John Surtees,Jim Clark,Chris Amon
 https://en.wikipedia.org/wiki/1965_Formula_One_season,drivers/unknown,Which driver was the 1965 world champion,Jim Clark,John Surtees,Graham Hill,Denny Hulme
+https://en.wikipedia.org/wiki/1966_Formula_One_season,drivers/unknown,Who was the 1966 world champion,Jack Brabham,John Surtees,Graham Hill,Jim Clark
 https://en.wikipedia.org/wiki/1967_Formula_One_season,drivers/unknown,Who was the 1967 drivers champion,Denny Hulme,Graham Hill,Jim Clark,Jackie Stewart
 https://en.wikipedia.org/wiki/1968_Formula_One_season,drivers/unknown,Which driver was world champion in 1968,Graham Hill,John Surtees,Chris Amon,Denny Hulme
+https://en.wikipedia.org/wiki/1970_Formula_One_season,drivers/unknown,Who won the 1970 drivers world championship,Jochen Rindt,Jackie Stewart,Graham Hill,Emerson Fittipaldi
 https://en.wikipedia.org/wiki/1973_Formula_One_season,drivers/unknown,Which driver was the 1973 world champion,Jackie Stewart,Niki Lauda,Emerson Fittipaldi,Jacky Ickx
 https://en.wikipedia.org/wiki/1974_Formula_One_season,drivers/unknown,Which driver was the 1974 world champion,Emerson Fittipaldi,Niki Lauda,James Hunt,Jackie Stewart
 https://en.wikipedia.org/wiki/1972_Formula_One_season,drivers/unknown,Which driver was the 1972 world champion,Emerson Fittipaldi,Niki Lauda,Jacky Ickx,Jackie Stewart
@@ -30,6 +38,7 @@ https://en.wikipedia.org/wiki/2006_FIA_Formula_One_World_Championship,drivers/un
 https://en.wikipedia.org/wiki/2007_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2007 drivers champion,Kimi Raikkonen,Michael Schumacher,Fernando Alonso,Lewis Hamilton
 https://en.wikipedia.org/wiki/2008_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2008 drivers champion,Lewis Hamilton,Kimi Raikkonen,Michael Schumacher,Fernando Alonso
 https://en.wikipedia.org/wiki/2009_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2009 drivers champion,Jenson Button,Kimi Raikkonen,Lewis Hamilton,Sebastian Vettel
+https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the first British world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
 https://en.wikipedia.org/wiki/1971_Italian_Grand_Prix,drivers/unknown,Who won the 1971 Italian Grand Prix at Monza by a 100th of a second,Peter Gethin,Ronnie Peterson,Francois Cevert,Jackie Stewart
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/unknown,Who was the first world champion from the US,Phil Hill,Mario Andretti,Dan Gurney,Carroll Shelby
 https://en.wikipedia.org/wiki/1969_Formula_One_season,drivers/unknown,Who was the 1969 season drivers championship runner up,Jacky Ickx,Jackie Stewart,Graham Hill,Denny Hulme
@@ -65,6 +74,7 @@ https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Name the driver,Albe
 https://en.wikipedia.org/wiki/Jody_Scheckter,drivers/scheckter,Name the driver,Jody Scheckter,Mario Andretti,Derek Daly,Vittorio Brambilla
 https://en.wikipedia.org/wiki/Pedro_Diniz,drivers/diniz,Name the driver,Pedro Diniz,Felipe Nasr,Felipe Massa,Esteban Tuero
 https://en.wikipedia.org/wiki/Jacky_Ickx,drivers/ickx,Name the driver,Jacky Ickx,Chris Amon,Vic Elford,Dan Gurney
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,Name the driver,Jack Brabham,Denny Hulme,Stirling Moss,Jack Fairman
 https://en.wikipedia.org/wiki/Riccardo_Patrese,drivers/patrese,Name the driver,Riccardo Patrese,Nigel Mansell,Elio De Angelis,Didier Pironi 
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,Name the driver,Juan Manuel Fangio,Alberto Ascari,Tazio Nuvolari,Paul Emery
 https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,Name the driver,Carlos Reutemann,Gilles Villeneuve,Ayrton Senna,Didier Pironi
@@ -84,6 +94,15 @@ https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Which was Alberto As
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Where and when was Ascari''s first win,1951 Nurburgring,1951 Spa,1950 Silverstone,1950 Indianapolis
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Where and when was Ascari''s last win,1953 Bremgarten,1953 Nurburgring,1952 Monza,1952 Zandvoort
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Which was Alberto Ascari''s last race,1955 Monaco,1955 Aintree,1954 Monza,1954 Bremgarten
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,How many world championships did Jack Brabham win,Three,Two,One,Four
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,How many world championships did Jack Brabham win with Cooper,Two,One,Three,None
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,How many world championships did Jack Brabham win with his own team,One,Two,Three,None
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,When and where did Jack Brabham make his F1 Debute,1955 Aintree,1955 Zandvoort,1956 Silverstone,1956 Spa
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,When and where did Jack Brabham win his first grand prix,1959 Monaco,1956 Spa,1957 Aintree,1958 Monza
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,Where did Jack Brabham win his last grand prix with Cooper in 1960,Portugal,USA,Italy,Belgium
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,When and where did Jack Brabham win his first grand prix with his own team,1966 France,1965 Italy,1966 Britain,1966 Netherlands
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,When and where did Jack Brabham win his last grand prix,1970 South Africa,1969 Monaco,1968 Germany,1976 Canada
+https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,When and where did Jack Brabham enter his last race in F1,1970 Mexican Grand Prix,1970 US Grand Prix,1969 Mexican Grand Prix,1969 US Grand Prix
 https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,How many world championships did Graham Hill win,Two,Three,One,Four
 https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,When did Graham Hill win his first world championship,1962,1963,1964,1967
 https://en.wikipedia.org/wiki/Graham_Hill,drivers/hill,How many wins did Graham Hill claim in F1,14,16,12,20
@@ -117,6 +136,14 @@ https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,Where and when did 
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,Where and when did Jackie Stewart win his last grand prix in 1973,Nurburgring,Watkins Glen,Monza,Zandvoort
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many races for Jackie Stewart in F1,-99-,-91-,102,-83-
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/unknown,Which driver pioneered safety campaign in F1,Jackie Stewart,Graham Hill,Jacky Ickx,Jim Clark
+https://en.wikipedia.org/wiki/1969_Italian_Grand_Prix,drivers/unknown,Who won the 1969 Italian Grand Prix at Monza by 0.08sec,Jackie Stewart,Jochen Rindt,Bruce McLaren,Jean Pierre Beltoise
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/unknown,Who is the only posthumous F1 world champion,Jochen Rindt,Francois Cevert,Jim Clark,Gilles Villeneuve
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,How many wins did Jochen Rindt claim in his F1 carrer,Six,Five,Seven,Ten
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Which constructor Jochen Rindt never raced for in F1,Tyrrell,Lotus,Brabham,Cooper
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and where did Jochen Rindt make his F1 debute,1964 Zeltweg,1965 Prince George,1965 Charade,1964 Brands Hatch
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and when did Jochen Rindt claim his first F1 win,1969 Watkins Glen,1968 Zandvoort,1968 Silverstone,1969 Monza
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and when did Jochen Rindt clain his last win in F1,1970 Hockenheim,1971 Kyalami,1969 Monza,1968 Brands Hatch
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and when was Jochen Rindt's last race,1970 Monza,1970 Watkins Glen,1971 Monza,1971 Ontario
 https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,How many world championships did Gilles Villeneuve win,None,One,Two,Three
 https://en.wikipedia.org/wiki/Gilles_Villeneuve#Formula_One_career,drivers/gilles_villeneuve,Who discovered Gilles Villeneuve,James Hunt,Niki Lauda,Jacky Ickx,Graham Hill
 https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,At which team did Gilles Villeneuve drive for the first time in F1,McLaren,March,Tyrrell,Williams
