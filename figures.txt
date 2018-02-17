@@ -7,16 +7,15 @@ https://en.wikipedia.org/wiki/Adrian_Newey,figures/newey,Identify the car design
 https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Identify the Sporting Director,Peter Windsor,Steve Nielsen,Flavio Briatore,Dave O''Neill
 https://en.wikipedia.org/wiki/Flavio_Briatore,figures/briatore,Name the team manager,Flavio Briatore,Peter Collins,Steve Nielsen,Peter Windsor
 https://en.wikipedia.org/wiki/Roger_Penske,figures/penske,Identify the team manager,Roger Penske,Steve Nielsen,Peter Collins,Gene Haas
-https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Identify the figure,John Barnard,Gordon Murray,Mauro Forghieri,Ross Brawn
-https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/cooper,Identify the figure,John Cooper,Mauro Forghieri,Jack Brabham,Colin Chapman
-https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghiery,Identify the figure,Mauro Forghieri,John Cooper,Ken Tyrrell,Rory Byrne
+https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Identify the designer,John Barnard,Gordon Murray,Mauro Forghieri,Ross Brawn
+https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/cooper,Who is he,John Cooper,Mauro Forghieri,Jack Brabham,Colin Chapman
+https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghiery,Identify the designer,Mauro Forghieri,John Cooper,Ken Tyrrell,Rory Byrne
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Name the car designer,Gordon Murray,Colin Chapman,Ron Dennis,Adrian Newey
-https://en.wikipedia.org/wiki/Patrick_Head,figures/head,Identify the figure,Patrick Head,Frank Williams,Gene Haas,Ross Brawn
-https://en.wikipedia.org/wiki/Ross_Brawn,figures/brawn,Identify the figure,Ross Brawn,Adrian Newey,John Cooper,Steve Nielsen
-https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber,Identify the figure,Peter Sauber,Ron Dennis,Adrian Newey,Frank Williams
+https://en.wikipedia.org/wiki/Patrick_Head,figures/head,Who is he,Patrick Head,Frank Williams,Gene Haas,Ross Brawn
+https://en.wikipedia.org/wiki/Ross_Brawn,figures/brawn,Who is he,Ross Brawn,Adrian Newey,John Cooper,Steve Nielsen
+https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber,Who is he,Peter Sauber,Ron Dennis,Adrian Newey,Frank Williams
 https://en.wikipedia.org/wiki/Guenther_Steiner,figures/steiner,Identify the team principal,Guenther Steiner,Frederic Vasseur,Paddy Lowe,Toto Wolff
-https://en.wikipedia.org/wiki/Force_India,figures/fernley,Name the figure,Robert Fernley,Guenther Steiner,Peter Sauber,Ross Brawn
-https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Identify the figure,Rory Byrne,Adrian Newey,Guenther Steiner,Patrick Head
+https://en.wikipedia.org/wiki/Force_India,figures/fernley,Who is he,Robert Fernley,Guenther Steiner,Peter Sauber,Ross Brawn
 https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis,Where was Ron Dennis born,Woking,Essex,Camberley,Farnborough
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Where was John Barnard born,London,Birmingham,Leeds,Manchester
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Who built the first carbon fibre composite chassis,John Barnard,Gordon Murray,Mauro Forghieri,Colin Chapman
@@ -45,6 +44,19 @@ https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Name the designer,Rory By
 https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,Where was Rory Byrne born,Pretoria,Durban,Melbourne,Auckland
 https://en.wikipedia.org/wiki/Rory_Byrne#Toleman/Benetton,figures/byrne,Where did Rory Byrne start his F1 career,Toleman,Benetton,Williams,Ferrrari
 https://en.wikipedia.org/wiki/Rory_Byrne,figures/byrne,When did Rory Byrne join Ferrari,1997,1996,1995,2000
+https://en.wikipedia.org/wiki/Max_Mosley,figures/mosley,Who is he,Max Mosley,Robin Herd,Alan Rees,Graham Coaker
+https://en.wikipedia.org/wiki/March_Engineering,figures/mosley,Which department did Max Mosley manage in March Engineering,Commercial,Production,Racing Team,Design
+https://en.wikipedia.org/wiki/March_Engineering,figures/mosley,Who was not a co-founder of March Engineering with Max Mosley,Mike Beuttler,Robin Herd,Alan Rees,Graham Coaker
+https://en.wikipedia.org/wiki/Max_Mosley#FISA_presidency,figures/mosley,When did Max Mosley become president of FISA,1991,1990,1989,1994
+https://en.wikipedia.org/wiki/Max_Mosley#FIA_presidency,figures/mosley,When did Max Mosley become president of FIA,1993,1994,1995,1996
+https://en.wikipedia.org/wiki/Max_Mosley#FIA_presidency,figures/unknown,Who said "I went to Ratzenberger''s funeral because everyone went to Senna''s. I thought it was important that somebody went to his.",Max Mosley,Bernie Ecclestone,Luca Di Montezemolo,Niki Lauda
+https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/ecclestone_mosley,When was the Formula One Constructors Association found,1974,1975,1976,1977 
+https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/ecclestone_mosley,Who was not a founding member of the Formula One Constructors Association,Enzo Ferrari,Frank Williams,Ken Tyrrell,Colin Chapman 
+https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/ecclestone,When did Bernie Ecclestone become chief executive of FOCA,1978,1976,1977,1975
+https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/mosley,When did Max Mosley become legal advisor of FOCA,1978,1979,1980,1981
+https://en.wikipedia.org/wiki/Max_Mosley,figures/mosley,When did Jean Todt replace Max Mosley as the president of the FIA,2009,2010,2008,2011
+
+https://en.wikipedia.org/wiki/Bernie_Ecclestone
 https://en.wikipedia.org/wiki/Flavio_Briatore,figures/briatore,Which team did Flavio Briatore manage,Renault,Lotus,Tyrell,Ferrari
 https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Which team was Peter Windsor a sporting director at,US-F1-Team,HAAS-F1,--HRT--,Virgin
 https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/unknown,Which racing figure was named Il Commendatore,Enzo Ferrari,Albero Ascari,Flavio Briatore,Tazio Nuvolari
