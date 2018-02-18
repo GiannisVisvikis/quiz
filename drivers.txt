@@ -16,12 +16,17 @@ https://en.wikipedia.org/wiki/1966_Formula_One_season,drivers/unknown,Who was th
 https://en.wikipedia.org/wiki/1967_Formula_One_season,drivers/unknown,Who was the 1967 drivers champion,Denny Hulme,Graham Hill,Jim Clark,Jackie Stewart
 https://en.wikipedia.org/wiki/1968_Formula_One_season,drivers/unknown,Which driver was world champion in 1968,Graham Hill,John Surtees,Chris Amon,Denny Hulme
 https://en.wikipedia.org/wiki/1970_Formula_One_season,drivers/unknown,Who won the 1970 drivers world championship,Jochen Rindt,Jackie Stewart,Graham Hill,Emerson Fittipaldi
+https://en.wikipedia.org/wiki/1971_Formula_One_season,drivers/unknown,Who won the 1971 drivers world championship,Jackie Stewart,Emerson Fittipaldi,Graham Hill,Jochen Rindt
+https://en.wikipedia.org/wiki/1972_Formula_One_season,drivers/unknown,Who won the 1972 drivers world championship,Emerson Fittipaldi,Jackie Stewart,Graham Hill,Jean Pierre Beltoise
 https://en.wikipedia.org/wiki/1973_Formula_One_season,drivers/unknown,Which driver was the 1973 world champion,Jackie Stewart,Niki Lauda,Emerson Fittipaldi,Jacky Ickx
 https://en.wikipedia.org/wiki/1974_Formula_One_season,drivers/unknown,Which driver was the 1974 world champion,Emerson Fittipaldi,Niki Lauda,James Hunt,Jackie Stewart
 https://en.wikipedia.org/wiki/1972_Formula_One_season,drivers/unknown,Which driver was the 1972 world champion,Emerson Fittipaldi,Niki Lauda,Jacky Ickx,Jackie Stewart
 https://en.wikipedia.org/wiki/1975_Formula_One_season,drivers/unknown,Which driver was the 1975 world champion,Niki Lauda,Emerson Fittipaldi,James Hunt,Graham Hill
 https://en.wikipedia.org/wiki/1976_Formula_One_season,drivers/unknown,Which driver was the 1976 world champion,James Hunt,Niki Lauda,Emerson Fittipaldi,Mario Andretti
 https://en.wikipedia.org/wiki/1977_Formula_One_season,drivers/unknown,Which driver was the 1977 world champion,Niki Lauda,Emerson Fittipaldi,James Hunt,Jody Scheckter
+https://en.wikipedia.org/wiki/1978_Formula_One_season,drivers/unknown,Who was the 1978 drivers world champion,Mario Andretti,Niki Lauda,Jody Scheckter,Alan Jones
+https://en.wikipedia.org/wiki/1979_Formula_One_season,drivers/unknown,Who was the 1979 drivers world champion,Jody Scheckter,Niki Lauda,Mario Andretti,Keke Rosberg
+https://en.wikipedia.org/wiki/1980_Formula_One_season,drivers/unknown,Which driver was the 1980 world champion,Alan Jones,Jody Scheckter,Mario Andretti,Nelson Piquet
 https://en.wikipedia.org/wiki/1994_Formula_One_season,drivers/unknown,Who was the 1994 drivers world champion,Michael Schumacher,Damon Hill,Mika Hakkinen,Jacques Villeneuve
 https://en.wikipedia.org/wiki/1995_Formula_One_season,drivers/unknown,Who was the 1995 drivers world champion,Michael Schumacher,Mika Hakkinen,Martin Brundle,Jacques Villeneuve
 https://en.wikipedia.org/wiki/1996_Formula_One_season,drivers/unknown,Who was the drivers world champion of 1996,Damon Hill,Jacques Villeneuve,Michael Schumacher,Alain Prost
@@ -38,17 +43,17 @@ https://en.wikipedia.org/wiki/2006_FIA_Formula_One_World_Championship,drivers/un
 https://en.wikipedia.org/wiki/2007_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2007 drivers champion,Kimi Raikkonen,Michael Schumacher,Fernando Alonso,Lewis Hamilton
 https://en.wikipedia.org/wiki/2008_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2008 drivers champion,Lewis Hamilton,Kimi Raikkonen,Michael Schumacher,Fernando Alonso
 https://en.wikipedia.org/wiki/2009_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2009 drivers champion,Jenson Button,Kimi Raikkonen,Lewis Hamilton,Sebastian Vettel
-https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the first British world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
-https://en.wikipedia.org/wiki/1971_Italian_Grand_Prix,drivers/unknown,Who won the 1971 Italian Grand Prix at Monza by a 100th of a second,Peter Gethin,Ronnie Peterson,Francois Cevert,Jackie Stewart
-https://en.wikipedia.org/wiki/Phil_Hill,drivers/unknown,Who was the first world champion from the US,Phil Hill,Mario Andretti,Dan Gurney,Carroll Shelby
-https://en.wikipedia.org/wiki/1969_Formula_One_season,drivers/unknown,Who was the 1969 season drivers championship runner up,Jacky Ickx,Jackie Stewart,Graham Hill,Denny Hulme
-https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/unknown,Who was the 1979 season drivers championship runner up,Gilles Villeneuve,Jody Schecter,Mario Andretti,Niki Lauda
 https://en.wikipedia.org/wiki/1999_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 1999 drivers championship runner up,Eddie Irvine,Mika Hakkinen,Michael Schumacher,Jacques Villeneuve
 https://en.wikipedia.org/wiki/2003_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2003 drivers championship runner up,Kimi Raikkonen,Fernando Alonso,Michael Schumacher,Giancarlo Fisichella
 https://en.wikipedia.org/wiki/2005_FIA_Formula_One_World_Championship,drivers/unknown,Who was the 2005 drivers championship runner up,Kimi Raikkonen,Fernando Alonso,Michael Schumacher,Giancarlo Fisichella
 https://en.wikipedia.org/wiki/1963_Mexican_Grand_Prix,drivers/unknown,Who won the first Mexican Grand Prix in 1963,Jim Clark,Graham Hill,John Surtees,Phil Hill
 https://en.wikipedia.org/wiki/1978_Canadian_Grand_Prix,drivers/unknown,Who won the 1978 Montreal grand prix,Gilles Villeneuve,James Hunt,Niki Lauda,Ronnie Peterson
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,drivers/unknown,Who won the 1951 British Grand Prix,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
+https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the first British world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
+https://en.wikipedia.org/wiki/1971_Italian_Grand_Prix,drivers/unknown,Who won the 1971 Italian Grand Prix at Monza by a 100th of a second,Peter Gethin,Ronnie Peterson,Francois Cevert,Jackie Stewart
+https://en.wikipedia.org/wiki/Phil_Hill,drivers/unknown,Who was the first world champion from the US,Phil Hill,Mario Andretti,Dan Gurney,Carroll Shelby
+https://en.wikipedia.org/wiki/1969_Formula_One_season,drivers/unknown,Who was the 1969 season drivers championship runner up,Jacky Ickx,Jackie Stewart,Graham Hill,Denny Hulme
+https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/unknown,Who was the 1979 season drivers championship runner up,Gilles Villeneuve,Jody Scheckter,Mario Andretti,Niki Lauda
 https://www.formula1.com/en/latest/features/2017/1/best-nicknames-f1-history.html,drivers/unknown,Who was nicknamed "The Shunt",James Hunt,Andrea De Cesaris,Gilles Villeneuve,Ayrton Senna
 https://www.formula1.com/en/latest/features/2017/1/best-nicknames-f1-history.html,drivers/unknown,Who was nicknamed "The Professor",Alain Prost,Niki Lauda,Graham Hill,Juan Fangio
 https://www.formula1.com/en/latest/features/2017/1/best-nicknames-f1-history.html,drivers/unknown,Who was nicknamed "Mr Monaco",Graham Hill,Ayrton Senna,Jim Clark,Jackie Stewart
@@ -278,6 +283,11 @@ https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,How many wins for James Hu
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Which was the first race for James Hunt,1973 Monaco,1973 Kyalami,1973 Zolder,1974 Jarama
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Where and when did James Hunt claim his first grand prix win,1975 Zandvoort,1975 Zolder,1974 Dijon,1974 Brands Hatch 
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Where did James Hunt claim his last F1 win,1977 Fuji,1977 Ontario,1977 Monza,1977 Watkins Glen
+https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones,Which team Alan Jones never raced for,Lotus,Arrows,Shadow,Hesketh
+https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones,How many wins did Alan Jones claim in his F1 career,Twelve,Nine,Eighteen,Fifteen
+https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones,Where did Alan Jones make his F1 debute in 1975,Montjuïc,Kyalami,Monaco,Zolder
+https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones,When and where did Alan Jones claim his first victory in F1,1977 A1-Ring,1977 Silverstone,1976 Kyalami,1976 Jarama
+https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones,When and where did Alan Jones claim his last F1 victory,1981 Las Vegas,1980 Watkins Glen,1982 Monza,1983 Imola
 https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,When and where did Carlos Reutemann claim his first win,1974 Kyalami,1974 Jarama,1974 Nurburgring,1974 Monza
 https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,When and where dod Carlos Reutemann claim his first win with Ferrari,1977 Interlagos,1977 Kyalami,1977 Jarama,1977 Zolder
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill,How many seasons did Phil Hill race in Formula 1,-18-,-15-,-12-,-19-

@@ -52,14 +52,20 @@ https://en.wikipedia.org/wiki/Max_Mosley#FIA_presidency,figures/mosley,When did 
 https://en.wikipedia.org/wiki/Max_Mosley#FIA_presidency,figures/unknown,Who said "I went to Ratzenberger''s funeral because everyone went to Senna''s. I thought it was important that somebody went to his.",Max Mosley,Bernie Ecclestone,Luca Di Montezemolo,Niki Lauda
 https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/ecclestone_mosley,When was the Formula One Constructors Association found,1974,1975,1976,1977 
 https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/ecclestone_mosley,Who was not a founding member of the Formula One Constructors Association,Enzo Ferrari,Frank Williams,Ken Tyrrell,Colin Chapman 
-https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/ecclestone,When did Bernie Ecclestone become chief executive of FOCA,1978,1976,1977,1975
 https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/mosley,When did Max Mosley become legal advisor of FOCA,1978,1979,1980,1981
 https://en.wikipedia.org/wiki/Max_Mosley,figures/mosley,When did Jean Todt replace Max Mosley as the president of the FIA,2009,2010,2008,2011
-
-https://en.wikipedia.org/wiki/Bernie_Ecclestone
+https://en.wikipedia.org/wiki/Bernie_Ecclestone,figures/ecclestone,Name the manager,Bernie Ecclestone,Max Mosley,Jean Todt,Jean Marie Balestre
+https://en.wikipedia.org/wiki/Bernie_Ecclestone,figures/ecclestone,Which driver was Bernie Ecclestone the manager of,Jochen Rindt,Graham Hill,Jackie Stewart,Niki Lauda
+https://en.wikipedia.org/wiki/Bernie_Ecclestone,figures/ecclestone,When did Bernie Ecclestone buy Brabham,1971,1972,1973,1970
+https://en.wikipedia.org/wiki/Bernie_Ecclestone,figures/ecclestone,When did Bernie Ecclestone sell Brabham to Joachim Luhti,1987,1986,1985,1988
+https://en.wikipedia.org/wiki/Formula_One_Constructors%27_Association,figures/ecclestone,When did Bernie Ecclestone become chief executive of FOCA,1978,1976,1977,1975
+https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/ferrari,What was Enzo Ferrari''s middle name,Anselmo,Emilio,Matteo,Vito
+https://www.catawiki.com/stories/4259-9-enzo-ferrari-quotes-that-explain-the-cars-history,figures/unknown,Who said "Aerodynamics are for people who can''t build engines",Enzo Ferrari,John Cooper,Mauro Forghieri,Vittorio Jano
+https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/ferrari,Which constructor did Enzo Ferrari drive for,Alfa Romeo,Bugatti,Auto Union,Mercedes
+https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/unknown,Which racing figure was named Il Commendatore,Enzo Ferrari,Albero Ascari,Flavio Briatore,Tazio Nuvolari
+https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/ferrari,Name the team owner,Enzo Ferrari,John Cooper,Prospero Gianferrari,Rudolf Caracciola
 https://en.wikipedia.org/wiki/Flavio_Briatore,figures/briatore,Which team did Flavio Briatore manage,Renault,Lotus,Tyrell,Ferrari
 https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor,Which team was Peter Windsor a sporting director at,US-F1-Team,HAAS-F1,--HRT--,Virgin
-https://en.wikipedia.org/wiki/Enzo_Ferrari,figures/unknown,Which racing figure was named Il Commendatore,Enzo Ferrari,Albero Ascari,Flavio Briatore,Tazio Nuvolari
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many Ferrari drivers won the world championship with Mauro Forghieri as chief designer,-Four-,-Three-,--Two--,-Five-
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri,How many constructors championships did Ferrari win with Mauro Forghieri as chief designer,-Eight-,-Seven-,--Six--,-Five-
 https://en.wikipedia.org/wiki/Luca_Cordero_di_Montezemolo,figures/montezemolo,Identify the manager,Luca Di Montezemolo,Ron Dennis,Guenther Steiner,Peter Sauber

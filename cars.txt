@@ -66,3 +66,4 @@ https://en.wikipedia.org/wiki/McLaren_MP4/6,cars/mp4_6,Who designed the McLaren 
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,Which was the first car to use a completely carbon fiber monocoque,McLaren MP4/1,Brabham BT46,Ferrari 126C,Lotus 91
 https://en.wikipedia.org/wiki/Lotus_91,cars/mp4_1_mono,Which was the second car to use a completely carbon fiber monocoque,Lotus 91,Williams FW08,Brabham BT46,Ferrari 126C
 https://en.wikipedia.org/wiki/BRM_P180,cars/brmp180,Identify the car,BRM P180,BRM P160,BRM P201,BRM P207
+http://www.racingsportscars.com/type/photo/Connew/PC1.html,cars/connew,Identify the car,Connew PC1,Rebaque HR100,Kauhsen-1,Lotus 72
