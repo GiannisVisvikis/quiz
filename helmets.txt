@@ -38,7 +38,7 @@ https://en.wikipedia.org/wiki/Jim_Clark,helmets/clark,Identify the helmet,Jim Cl
 https://en.wikipedia.org/wiki/Jackie_Stewart,helmets/stewart,Identify the helmet,Jackie Stewart,Jim Clark,David Coulthard,Jochen Rindt
 https://en.wikipedia.org/wiki/Jenson_Button,helmets/button,Identify the helmet,Jenson Button,Johnny Herbert,Nigel Mansell,Damon Hill
 https://en.wikipedia.org/wiki/Stirling_Moss,helmets/moss,Identify the helmet,Stirling Moss,John Surtees,Juan Fangio,Giuseppe Farina
-https://en.wikipedia.org/wiki/John_Surtees,helmets/surtees,Identify the helmet,John Surtees,Stirling Moss,Giuseppe Farina,Mike Hawthorne
+https://en.wikipedia.org/wiki/John_Surtees,helmets/surtees,Identify the helmet,John Surtees,Stirling Moss,Giuseppe Farina,Mike Hawthorn
 https://en.wikipedia.org/wiki/Clay_Regazzoni,helmets/regazzoni,Identify the helmet,Clay Regazzoni,Sebastien Buemi,Loris Kessel,Marc Surer
 https://en.wikipedia.org/wiki/Tom_Pryce,helmets/pryce,Identify the helmet,Tom Pryce,Graham Hill,Damon Hill,Denny Hulme
 https://en.wikipedia.org/wiki/Denny_Hulme,helmets/hulme,Identify the helmet,Denny Hulme,Jackie Stewart,Graham Hill,Jack Brabham

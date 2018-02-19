@@ -30,6 +30,10 @@ https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray,Which team has
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,Where was Colin Chapman born,Richmond,Norwich,Woking,London
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman,When did Colin Chapman die of a heart attack,1982,1980,1983,1981
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/unknown,Who built the first monocoque,Colin Chapman,John Cooper,Mauro Forghiery,John Barnard
+
+https://en.wikipedia.org/wiki/Frank_Williams_(Formula_One),figures/williams,Name the team owner,Frank Williams,Peter Sauber,Roger Penske,Gene Haas
+https://en.wikipedia.org/wiki/Frank_Williams_(Formula_One),figures/williams,When did Frank Williams sell his first racing team,1976
+
 https://en.wikipedia.org/wiki/Patrick_Head,constructors/williams,Who was Williams Grand Prix Engineering co-founder,Patrick Head,Sam Michael,Walter Wolf,Frank Dernie
 https://en.wikipedia.org/wiki/Patrick_Head,constructors/williams,Who was the first chief designer for Williams,Patrick Head,Sam Michael,Gordon Murray,Frank Dernie
 https://en.wikipedia.org/wiki/Williams_FW07,figures/head,Which was the first Patrick Head designed car that won the drivers championship,FW07B,FW06,FW07C,FW08

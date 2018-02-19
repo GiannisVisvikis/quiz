@@ -189,7 +189,6 @@ https://en.wikipedia.org/wiki/2014_Canadian_Grand_Prix,drivers/ricciardo,Where a
 https://en.wikipedia.org/wiki/Lella_Lombardi,drivers/unknown,Who was the only female driver who scored points in F1,Lella Lombardi,Maria de Filippis,Divina Galica,Desiré Wilson
 https://en.wikipedia.org/wiki/List_of_female_Formula_One_drivers,drivers/galica,How many female drivers have started a grand prix,--2--,--4--,--3--,--5--
 https://en.wikipedia.org/wiki/Nico_Rosberg,drivers/rosberg,Where did Nico Rosberg score the first Mercedes podium after the team returned to F1 in 2010,Kuala Lumpur 2012,Shanghai 2011,Abu-Dhabi 2010,Budapest 2013
-https://en.wikipedia.org/wiki/Nico_Rosberg,drivers/rosberg,Where did Nico Rosberg score first win for Mercedes in 2012,Shanghai,Kuala Lumpur,Melbourne,Monaco
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where and when was Senna''s last win,1993 Adelaide,1993 Suzuka,1993 Monza,1993 Estoril
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many races did Ayrton Senna win in F1,-41-,-40-,-42-,-38-
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many pole positions for Senna in F1,-65-,-70-,-68-,58-
@@ -205,6 +204,9 @@ https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many wins for Ayrto
 https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),When did Ayrton Senna equal Graham Hill''s record for most Monaco wins,1992,1993,1991,1990
 https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),When did Ayrton Senna surpass Graham Hill''s record for most Monaco wins,1993,1992,1994,1991
 https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),How many Monaco wins did Ayrton Senna claim,Six,Five,Seven,Four
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where did Ayrton Senna lose his life in a race accident,Imola,Monza,Monaco,Spa
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,What was the date of Senna''s fatal accident,May 1st 1994,May 3rd 1995,June 1st 1993,August 1st 1995
+
 https://en.wikipedia.org/wiki/Felipe_Massa,drivers/massa,Which team did Felipe Massa make his debute with,Sauber,HRT,Toyota,BAR
 https://en.wikipedia.org/wiki/Bruce_McLaren,drivers/mclaren,When and where did Bruce McLaren win the first grand prix for his own team,Spa 1968,Le Mans 1967,Monaco 1969,Brands Hatch 1966
 https://en.wikipedia.org/wiki/Stoffel_Vandoorne#Formula_One,drivers/vandoorne,Where and when did Stoffel Vandoorne make his F1 debute,Bahrain 2016,Australia 2016,Australia 2017,Shanghai 2017
@@ -307,6 +309,7 @@ https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,How any wins did Fe
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Which team did Romain Grosjean make his debute with,Renault,Sauber,HAAS-F1,Force-India
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where was Romain Grosjean born,Geneva,Paris,London,Zurich
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/unknown,Who was the first driver to receive a race ban for dangerous driving since Eddie Irvine in 1994,Romain Grosjean,Pastor Maldonado,Robert Kubica,Daniil Kvyat
+https://en.wikipedia.org/wiki/Nico_Rosberg,drivers/rosberg,Where did Nico Rosberg score first win for Mercedes in 2012,Shanghai,Kuala Lumpur,Melbourne,Monaco
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where did Romain Grosjean used to work,--Bank--,-Sales-,Bartender,Waitor
 https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado,Who won the 2012 Spanish Grand Prix,Pastor Maldonado,Fernando Alonso,Kimi Raikkonen,Sebastian Vettel
 https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/unknown,Which driver suffers from arachnophobia (fear of spiders),Kevin Magnussen,Romain Grosjean,Esteban Gutierrez,Sergio Perez
