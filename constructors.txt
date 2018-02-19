@@ -2,8 +2,8 @@ https://en.wikipedia.org/wiki/2006_FIA_Formula_One_World_Championship#World_Cons
 https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship#World_Constructors'_Championship_final_standings,constructors/unknown,Who won the 1994 constructors championship,Williams,Benetton,McLaren,Ferrari
 https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,constructors/unknown,Which team was the 1995 constructors champion,Benetton,Williams,McLaren,Ferrari
 https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship,constructors/unknown,Which team was the 1994 constructors champion,Williams,Benetton,McLaren,Ferrari
-https://en.wikipedia.org/wiki/1950_Formula_One_season,cars/alfa_romeo_159,How many races did Alfa Romeo win in 1950 F1 world championship,Six,Seven,Five,Four
-https://en.wikipedia.org/wiki/1951_Formula_One_season,cars/alfa_romeo_159,How many races did Alfa Romeo win in 1951 F1 world championship,Four,Seven,Five,Six 
+https://en.wikipedia.org/wiki/1950_Formula_One_season,cars/alfa_romeo_158,How many races did Alfa Romeo win in 1950 F1 world championship,Six,Seven,Five,Four
+https://en.wikipedia.org/wiki/1951_Formula_One_season,cars/alfa_romeo_158,How many races did Alfa Romeo win in 1951 F1 world championship,Four,Seven,Five,Six 
 https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,cars/benettonb188,Which year did Benetton win the constructors championship,1995,1994,1993,1996
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,First team to use a completely carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
 https://en.wikipedia.org/wiki/Lotus_91,cars/mp4_1_mono,Second team to use a completely carbon fiber monocoque,Lotus,Williams,Brabham,Ferrari
@@ -25,10 +25,10 @@ https://en.wikipedia.org/wiki/Red_Bull_Racing,cars/rb5,Which was the team that b
 https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05,Wolf Williams FW05 was a,Hesketh 308C,Hesketh 308B,Hesketh 308,Hesketh 308E
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw14b,Which of these drivers was with Williams for four years,Alan Jones,Mark Webber,Ralf Schumacher,Nelson Piquet
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw14,Which of these drivers was with Williams for six years,Ralf Schumacher,Mark Webber,Juan Pablo Montoya,Nelson Piquet
-https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07,Which of these drivers was with Williams for seven years,Nigel Mansell,Keke Rosberg,Ralf Schumacher,Nico Rosberg
-https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07,Williams was originally based in a warehouse that used to house,Carpets,Cars,Wood,Tools
-https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,cars/fw07,Where did Clay Regazzoni claim first victory for williams in 1979,Silverstone,Long-Beach,Monaco,Hockenheim
-https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,cars/fw07,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07b,Which of these drivers was with Williams for seven years,Nigel Mansell,Keke Rosberg,Ralf Schumacher,Nico Rosberg
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07b,Williams was originally based in a warehouse that used to house,Carpets,Cars,Wood,Tools
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,cars/fw07b,Where did Clay Regazzoni claim first victory for williams in 1979,Silverstone,Long-Beach,Monaco,Hockenheim
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,cars/fw07b,Who was the first world champion with Williams,Alan Jones,Keke Rosberg,Nelson Piquet,Nigel Mansell
 https://en.wikipedia.org/wiki/Giancarlo_Fisichella,drivers/fisichella,Where and when did Giancarlo Fisichella take first pole for Force India,Spa 2009,Istanbul 2009,Monaco 2008,Magny Cours 2008
 https://en.wikipedia.org/wiki/Force_India,cars/vjm04,Which two Italian drivers have raced for Force India,Fisichella Liuzzi,Fisichella Giovinazzi,Liuzzi Trulli,Giovinazzi Trulli
 https://en.wikipedia.org/wiki/Force_India,cars/vjm04,Which drivers raced for Force India in 2010,Liuzzi Sutil,Fisichella Liuzzi,Sutil Fisichella,Di-Resta Sutil
@@ -46,14 +46,14 @@ https://en.wikipedia.org/wiki/Brawn_GP,figures/brawn,Which team bought Brawn GP 
 https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas_Motorsport_(2010%E2%80%93present),cars/w05,Which was originally the team that in 2010 eventually became Mercedes,Tyrrell,Stewart-GP,Matra,Arrows
 https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas_Motorsport_(2010%E2%80%93present),cars/w05,Who was the last world champion for Mercedes before Lewis Hamilton,Juan Fangio,Stefan Bellof,Michael Schumacher,Ludwig Fischer
 https://en.wikipedia.org/wiki/2013_FIA_Formula_One_World_Championship,drivers/hamilton,Where and when did Lewis Hamilton win his first race with Mercedes,Hungaroring 2013,2013 Silverstone,2014 Montreal,2014 Melbourne
-https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/f2004,How many poles for Ferrari in 2004 season,12,13,11,10 
-https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/f2004,What is the Ferrari (and sport) record for consecutive podiums,-53-,-23-,-48-,-55-
+https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/ferrari_f2004,How many poles for Ferrari in 2004 season,12,13,11,10 
+https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/ferrari_f2004,What is the Ferrari (and sport) record for consecutive podiums,-53-,-23-,-48-,-55-
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,cars/ferrari156,Which driver claimed first grand prix victory for Ferrari,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
 https://en.wikipedia.org/wiki/Francesco_Baracca#Legacy,figures/baracca,Whos World War One Italian top fighter ace insignia became Ferrari's logo,Francesco Baracca,Silvio Scaroni,Pier Piccio,Flavio Baracchini
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which constructor was the first to use the semi automatic gear box pioneered by John Barnard,Ferrari,Lotus,Williams,Benetton
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many years passed without a driver''s championship for Ferrari until Michael Schumacher in 2000,21,15,25,17
 https://www.formula1.com/en/latest/features/2015/10/f1-do-you-remember-when-ferrari-raced-in-blue-in-mexico.html,cars/ferrari158,Which season did Ferrari race blue and white cars in the last two races,1964,1961,1966,1963
 https://en.wikipedia.org/wiki/Sauber,cars/sauberc12,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
-https://en.wikipedia.org/wiki/Sauber,cars.sauberc12,What season did sauber first appear in F1,1993,1994,1992,1995
+https://en.wikipedia.org/wiki/Sauber,cars/sauberc12,What season did sauber first appear in F1,1993,1994,1992,1995
 https://en.wikipedia.org/wiki/Footwork_Arrows,cars/fa12,Which team was renamed as Footwork in 1991,Arrows,Tyrrell,Lola,ATS
 https://en.wikipedia.org/wiki/March_Engineering,figures/mosley,Which team did Max Mosley co-found,March,McLaren,Tyrrell,Arrows

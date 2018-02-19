@@ -86,6 +86,7 @@ https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann,Name the driver
 https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham,Name the driver,Jack Brabham,Jim Clark,Graham Hill,John Surtees
 https://en.wikipedia.org/wiki/Elio_de_Angelis,drivers/angelis,Name the driver,Elio De Angelis,Andrea De Cesaris,Riccardo Patrese,Michael Andretti
 https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux,Name the driver,Rene Arnoux,Gilles Villeneuve,Jean-Pierre Beltoise,Francois Cevert
+https://en.wikipedia.org/wiki/JJ_Lehto,drivers/lehto,Name the driver,Jyrki Järvilehto,Stefan Johansson,Gregor Foitek,Bertrand Gachot
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark,Name the driver,Jim Clark,Mike Hawthorn,Peter Collins,Stirling Moss
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/unknown,Name the driver,Mika Hakkinen,Johnny Herbert,Jacques Villeneuve,Kimi Raikkonen
 https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado,Name the driver,Pastor Maldonado,Romain Grosjean,Sergio Perez,Esteban Occon
@@ -201,12 +202,11 @@ https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where was the last race
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many wins for Ayrton Senna in a Lotus,Six,Five,Three,Seven
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many pole positions for Senna in a Lotus in 1985,Seven,Six,Five,Eight
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many wins for Ayrton Senna in Monaco,Six,Five,Seven,Four
-https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),When did Ayrton Senna equal Graham Hill''s record for most Monaco wins,1992,1993,1991,1990
-https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),When did Ayrton Senna surpass Graham Hill''s record for most Monaco wins,1993,1992,1994,1991
-https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),How many Monaco wins did Ayrton Senna claim,Six,Five,Seven,Four
+https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),drivers/senna,When did Ayrton Senna equal Graham Hill''s record for most Monaco wins,1992,1993,1991,1990
+https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),drivers/senna,When did Ayrton Senna surpass Graham Hill''s record for most Monaco wins,1993,1992,1994,1991
+https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),drivers/senna,How many Monaco wins did Ayrton Senna claim,Six,Five,Seven,Four
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,Where did Ayrton Senna lose his life in a race accident,Imola,Monza,Monaco,Spa
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,What was the date of Senna''s fatal accident,May 1st 1994,May 3rd 1995,June 1st 1993,August 1st 1995
-
 https://en.wikipedia.org/wiki/Felipe_Massa,drivers/massa,Which team did Felipe Massa make his debute with,Sauber,HRT,Toyota,BAR
 https://en.wikipedia.org/wiki/Bruce_McLaren,drivers/mclaren,When and where did Bruce McLaren win the first grand prix for his own team,Spa 1968,Le Mans 1967,Monaco 1969,Brands Hatch 1966
 https://en.wikipedia.org/wiki/Stoffel_Vandoorne#Formula_One,drivers/vandoorne,Where and when did Stoffel Vandoorne make his F1 debute,Bahrain 2016,Australia 2016,Australia 2017,Shanghai 2017
@@ -226,7 +226,7 @@ https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Wher
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,When did Michael Schumacher join Ferrari,1995,1996,1994,1997
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Why was Schumacher disqualified from the 1994 British Grand Prix,Ignored Black Flags,Caused an accident,Banned electronic aids,Illegal start
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Why was Michael Schumacher disqualified from the 1997 season,Drove into Jacques Villeneuve,Drove into Damon Hill,Ignored black flags,Illegal start
-https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Where did Michael Schumacher break his leg in an accident in 1999 season,Silverstone,Hungaroring,Spa,Montreal
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Where did Michael Schumacher break his legs in an accident in 1999 season,Silverstone,Hungaroring,Spa,Montreal
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many wins in Monaco for Michael Schumacher,Five,Four,Six,Seven
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen,When and where did Mika Hakkinen make his F1 debute,1991 Phoenix,1992 Interlagos,1991 Interlagos,1992 Kyalami
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen,When did Mika Hakkinen claim his first F1 win,1997 Jerez,1997 Suzuka,1996 Melbourne,1996 Estoril
@@ -280,6 +280,9 @@ https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s l
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s last win in a Ferrari,1977 Zandvoort,1977 Watkins Glen,1977 Monza,1977 Hockenheimring
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s last win in Formula 1,1985 Zandvoort,1985 Monza,1984 Monza,1984 Estoril
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which was Niki Lauda''s last race in Formula 1,1985 Adelaide,1985 Kyalami,1984 Estoril,1984 Nurburgring
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which track did Niki Lauda have his accident in 1976,Nurburgring,Imola,Suzuka,Kyalami
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,What year did Niki Lauda have his accident,1976,1977,1975,1974
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,What was the date Niki Lauda had an accident that nearly killed him,August 1st,May 1st,June 5th,March 2nd
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Which was the last race for James Hunt,1979 Monaco,1979 Dijon,1979 Silverstone,1979 Kyalami
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,How many wins for James Hunt in F1,Ten,Eight,Twelve,Fifteen
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt,Which was the first race for James Hunt,1973 Monaco,1973 Kyalami,1973 Zolder,1974 Jarama
