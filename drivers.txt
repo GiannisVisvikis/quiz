@@ -50,7 +50,7 @@ https://en.wikipedia.org/wiki/1963_Mexican_Grand_Prix,drivers/unknown,Who won th
 https://en.wikipedia.org/wiki/1978_Canadian_Grand_Prix,drivers/unknown,Who won the 1978 Montreal grand prix,Gilles Villeneuve,James Hunt,Niki Lauda,Ronnie Peterson
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,drivers/unknown,Who won the 1951 British Grand Prix,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
 https://en.wikipedia.org/wiki/1958_Formula_One_season,drivers/unknown,Who was the first British world champion,Mike Hawthorn,John Surtees,Stirling Moss,Peter Collins
-https://en.wikipedia.org/wiki/1971_Italian_Grand_Prix,drivers/unknown,Who won the 1971 Italian Grand Prix at Monza by a 100th of a second,Peter Gethin,Ronnie Peterson,Francois Cevert,Jackie Stewart
+https://en.wikipedia.org/wiki/1971_Italian_Grand_Prix,drivers/unknown,Who won the 1971 Italian Grand Prix at Monza by 0.01 seconds,Peter Gethin,Ronnie Peterson,Francois Cevert,Jackie Stewart
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/unknown,Who was the first world champion from the US,Phil Hill,Mario Andretti,Dan Gurney,Carroll Shelby
 https://en.wikipedia.org/wiki/1969_Formula_One_season,drivers/unknown,Who was the 1969 season drivers championship runner up,Jacky Ickx,Jackie Stewart,Graham Hill,Denny Hulme
 https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/unknown,Who was the 1979 season drivers championship runner up,Gilles Villeneuve,Jody Scheckter,Mario Andretti,Niki Lauda
