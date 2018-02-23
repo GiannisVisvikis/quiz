@@ -142,6 +142,7 @@ https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many races did 
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,Where and when did Jackie Stewart take his first pole position,Monaco 1969,Spa 1968,Brands Hatch 1968,Zandvoort 1969
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,Where and when did Jackie Stewart win his last grand prix in 1973,Nurburgring,Watkins Glen,Monza,Zandvoort
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/stewart,How many races for Jackie Stewart in F1,-99-,-91-,102,-83-
+https://en.wikipedia.org/wiki/Jackie_Stewart,circuits/monaco,How many Monaco wins for Jackie Stewart,Three,Two,Four,One 
 https://en.wikipedia.org/wiki/Jackie_Stewart,drivers/unknown,Which driver pioneered safety campaign in F1,Jackie Stewart,Graham Hill,Jacky Ickx,Jim Clark
 https://en.wikipedia.org/wiki/1969_Italian_Grand_Prix,drivers/unknown,Who won the 1969 Italian Grand Prix at Monza by 0.08sec,Jackie Stewart,Jochen Rindt,Bruce McLaren,Jean Pierre Beltoise
 https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/unknown,Who is the only posthumous F1 world champion,Jochen Rindt,Francois Cevert,Jim Clark,Gilles Villeneuve
