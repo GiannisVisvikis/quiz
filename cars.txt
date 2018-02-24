@@ -14,14 +14,16 @@ https://en.wikipedia.org/wiki/McLaren_MP4/5,cars/mp4_5,Identify the car,McLaren 
 https://en.wikipedia.org/wiki/McLaren_MP4/6,cars/mp4_6,Identify the car,McLaren MP4/6,McLaren MP4/1,McLaren MP4/4,McLaren MP4/8
 https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05,Identify the car,Wolf-Williams FW05,Wolf WR1,Wolf WR3,Wolf WR2
 http://www.telegraph.co.uk/formula-1/0/ranked-ugliest-f1-cars-time/ensign-n179/,cars/ensignN179,Identify the car,Ensign N179,Ensign N177,Ensign N180,Ensign N173
-https://en.wikipedia.org/wiki/Wolf_WR1,cars/wr1,Identify the car,---Wolf--- WR1,---Wolf--- WR2,---Wolf--- WR3,Wolf-Williams FW05
+https://en.wikipedia.org/wiki/Wolf_WR1,cars/wr1,Identify the car,Wolf WR1,Wolf WR2,Wolf WR3,Wolf Williams FW05
 https://en.wikipedia.org/wiki/Lotus_25,cars/lotus25,Identify the car,Lotus-25,Lotus-33,Lotus-49B,Lotus-70
 https://en.wikipedia.org/wiki/Lotus_33,cars/lotus33,Identify the car,Lotus-33,Lotus-25,Lotus-49B,Lotus-70
 https://en.wikipedia.org/wiki/Lotus_49,cars/lotus49,Identify the car,Lotus-49,Lotus-33,Lotus-25,Lotus-70
 https://en.wikipedia.org/wiki/Lotus_49,cars/lotus49b,Identify the car,Lotus-49B,Lotus-33,Lotus-49,Lotus-70
 https://en.wikipedia.org/wiki/Lotus_72,cars/lotus72,Identify the car,Lotus-72,Lotus-25,Lotus-49,Lotus-70
-https://en.wikipedia.org/wiki/Lotus_77,cars/lotus77,Identify the car,Lotus-77,Lotus-25,Lotus-49,Lotus-72
+https://en.wikipedia.org/wiki/Lotus_77,cars/lotus77,Identify the car,Lotus 77,Lotus-25,Lotus-49,Lotus-72
 https://en.wikipedia.org/wiki/Lotus_79,cars/lotus79,Identify the car,Lotus-79,Lotus-72,Lotus-98T,Lotus-78
+https://en.wikipedia.org/wiki/Lotus_79,cars/lotus79_b,Identify the car,Lotus 79,Lotus 80,Lotus-98T,Lotus-78
+https://en.wikipedia.org/wiki/Lotus_80#Design,cars/lotus80,Identify the car,Lotus 80,Lotus 79,Lotus-98T,Lotus-78
 https://en.wikipedia.org/wiki/Lotus_78,cars/lotus78,Identify the car,Lotus-78,Lotus-79,Lotus-98T,Lotus-72
 https://en.wikipedia.org/wiki/Lotus_88,cars/lotus88,Identify the car,Lotus-88,Lotus-80,Lotus-79,Lotus-91
 https://en.wikipedia.org/wiki/Lotus_91,cars/lotus91,Identify the car,Lotus-91,Lotus-80,Lotus-79,Lotus-88
