@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/2013_FIA_Formula_One_World_Championship,drivers/ha
 https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/ferrari_f2004,How many poles for Ferrari in 2004 season,12,13,11,10 
 https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/ferrari_f2004,What is the Ferrari (and sport) record for consecutive podiums,-53-,-23-,-48-,-55-
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,cars/ferrari156,Which driver claimed first grand prix victory for Ferrari,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
-https://en.wikipedia.org/wiki/Francesco_Baracca#Legacy,figures/baracca,Whos World War One Italian top fighter ace insignia became Ferrari's logo,Francesco Baracca,Silvio Scaroni,Pier Piccio,Flavio Baracchini
+https://en.wikipedia.org/wiki/Francesco_Baracca#Legacy,figures/baracca,Whos World War One Italian top fighter ace insignia became Ferrari''s logo,Francesco Baracca,Silvio Scaroni,Pier Piccio,Flavio Baracchini
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which constructor was the first to use the semi automatic gear box pioneered by John Barnard,Ferrari,Lotus,Williams,Benetton
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many years passed without a driver''s championship for Ferrari until Michael Schumacher in 2000,21,15,25,17
 https://www.formula1.com/en/latest/features/2015/10/f1-do-you-remember-when-ferrari-raced-in-blue-in-mexico.html,cars/ferrari158,Which season did Ferrari race blue and white cars in the last two races,1964,1961,1966,1963

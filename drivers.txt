@@ -151,7 +151,7 @@ https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Which constructor Joche
 https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and where did Jochen Rindt make his F1 debute,1964 Zeltweg,1965 Prince George,1965 Charade,1964 Brands Hatch
 https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and when did Jochen Rindt claim his first F1 win,1969 Watkins Glen,1968 Zandvoort,1968 Silverstone,1969 Monza
 https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and when did Jochen Rindt clain his last win in F1,1970 Hockenheim,1971 Kyalami,1969 Monza,1968 Brands Hatch
-https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and when was Jochen Rindt's last race,1970 Monza,1970 Watkins Glen,1971 Monza,1971 Ontario
+https://en.wikipedia.org/wiki/Jochen_Rindt,drivers/rindt,Where and when was Jochen Rindt''s last race,1970 Monza,1970 Watkins Glen,1971 Monza,1971 Ontario
 https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,How many world championships did Gilles Villeneuve win,None,One,Two,Three
 https://en.wikipedia.org/wiki/Gilles_Villeneuve#Formula_One_career,drivers/gilles_villeneuve,Who discovered Gilles Villeneuve,James Hunt,Niki Lauda,Jacky Ickx,Graham Hill
 https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve,At which team did Gilles Villeneuve drive for the first time in F1,McLaren,March,Tyrrell,Williams
