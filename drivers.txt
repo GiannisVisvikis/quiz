@@ -93,7 +93,7 @@ https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado,Name the driver
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,How many drivers championships did Fangio win with Mercedes,Two,One,Three,None
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,How many drivers championships did Fangio win,Five,Four,Six,Two
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,How many different constructors did Fangio win world championships with,--Four--,--Three--,--Two--,--Five--
-https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio,Whos racing philosophy was always to win at the slowest possible speed,Juan Fangio,Ayrton Senna,Gilles Villeneuve,Andrea-De Cesaris
+https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/unknown,Whos racing philosophy was always to win at the slowest possible speed,Juan Fangio,Ayrton Senna,Gilles Villeneuve,Andrea-De Cesaris
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,How many drivers championships did Alberto Ascari win,Two,Three,One,Four
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,How many wins did Alberto Ascari claim,13,14,12,11
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari,Which was Alberto Ascari''s first race,1950 Monaco,1950 Silverstone,1951 Bremgarten,1951 Indianapolis
@@ -225,7 +225,7 @@ https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/unknown,Which world cha
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/unknown,Who has the most wins at Interlagos,Michael Schumacher,Ayrton Senna,Felipe Massa,Mika Hakkinen
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Where and when did Michael_Schumacher take his first victory,1992 Spa,1992 Silverstone,1992 Monaco,1992 Imola
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Where and when did Michael Schumacher make his debute in F1,1991 Spa,1991 Phoenix,1991 Interlagos,1991 Imola
-https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,When did Michael Schumacher join Ferrari,1995,1996,1994,1997
+https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Which was Michael Schumacher''s first season with Ferrari,1996,1995,1994,1997
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Why was Schumacher disqualified from the 1994 British Grand Prix,Ignored Black Flags,Caused an accident,Banned electronic aids,Illegal start
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Why was Michael Schumacher disqualified from the 1997 season,Drove into Jacques Villeneuve,Drove into Damon Hill,Ignored black flags,Illegal start
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,Where did Michael Schumacher break his legs in an accident in 1999 season,Silverstone,Hungaroring,Spa,Montreal
@@ -316,7 +316,7 @@ https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where was Romain 
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/unknown,Who was the first driver to receive a race ban for dangerous driving since Eddie Irvine in 1994,Romain Grosjean,Pastor Maldonado,Robert Kubica,Daniil Kvyat
 https://en.wikipedia.org/wiki/Nico_Rosberg,drivers/rosberg,Where did Nico Rosberg score first win for Mercedes in 2012,Shanghai,Kuala Lumpur,Melbourne,Monaco
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where did Romain Grosjean used to work,--Bank--,-Sales-,Bartender,Waitor
-https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado,Who won the 2012 Spanish Grand Prix,Pastor Maldonado,Fernando Alonso,Kimi Raikkonen,Sebastian Vettel
+https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/unknown,Who won the 2012 Spanish Grand Prix,Pastor Maldonado,Fernando Alonso,Kimi Raikkonen,Sebastian Vettel
 https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/unknown,Which driver suffers from arachnophobia (fear of spiders),Kevin Magnussen,Romain Grosjean,Esteban Gutierrez,Sergio Perez
 https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/magnussen,What job has Kevin Magnussen had,-Welder-,-Waitor-,Salesman,Logistics
 https://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,drivers/hulkenberg,Which team did Nico Hulkenberg make his debut with,Williams,Renault,Force India,Sauber
