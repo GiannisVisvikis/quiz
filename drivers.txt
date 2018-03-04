@@ -274,8 +274,8 @@ https://en.wikipedia.org/wiki/Marcus_Ericsson,drivers/ericsson,Which team did Ma
 https://en.wikipedia.org/wiki/Juan_Pablo_Montoya,drivers/montoya,When did Juan Pablo Montoya win the Monaco grand prix,2003,2002,2001,2004
 https://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert,drivers/cevert,Where and when did Francois Cevert have a fatal crash,Watkins Glen 1973,Monza 1972,Nurburgring 1974,Silverstone 1971
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,When and where did Niki Lauda make his F1 debute,1971 Austria,1972 South Africa,1970 Spain,1972 Monaco
-https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which team did Niki Lauda make his debute in F1 with,BRM,March,Tyrrell,Matra
-https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki Lauda win,-25-,-30-,-27-,-24-
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,Which team did Niki Lauda make his debute in F1 with,March,BRM,Tyrrell,Matra
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki Lauda win,25,30,27,24
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,How many races did Niki Lauda win for Ferrari,15,12,17,20
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,When did Niki Lauda retire from racing for the first time,1979,1977,1980,1978
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda,When did Niki Lauda retire from racing for the last time,1985,1982,1986,1983
