@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit,circuits/marina_bay,Iden
 https://en.wikipedia.org/wiki/Valencia_Street_Circuit,circuits/valencia,Identify the circuit,Valencia,Suzuka,Marina Bay,Silverstone
 https://en.wikipedia.org/wiki/Silverstone_Circuit,circuits/silverstone,Identify the circuit,Silverstone,Monza,Austin,Sepang
 https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/nordschleife_nurburgring,Identify the circuit,Nordschleife Nurburgring,Valencia,Interlagos,Marina Bay
-https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/nordschleife_nurburgring,Which track was named the Green Hell by Jackie Stewart,Nordschleife Nurburgring,--Brands-- Hatch,--Magny-- Cours,--Watkins-- Glen
+https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/unknown,Which track was named the Green Hell by Jackie Stewart,Nordschleife Nurburgring,Brands Hatch,Magny Cours,Watkins Glen
 https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve,circuits/villeneuve,Identify the circuit,Gilles Villeneuve,Brands Hatch,Magny Cours,Watkins Glen
 https://en.wikipedia.org/wiki/Kyalami,circuits/kyalami,Identify the circuit,Kyalami,Suzuka,Interlagos,Catalunya
 https://en.wikipedia.org/wiki/Circuit_of_the_Americas,circuits/americas,Identify the circuit,Austin,Monaco,Imola,Istanbul

@@ -7,12 +7,12 @@ https://en.wikipedia.org/wiki/1951_Formula_One_season,cars/alfa_romeo_158,How ma
 https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,cars/benettonb188,Which year did Benetton win the constructors championship,1995,1994,1993,1996
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono,First team to use a completely carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
 https://en.wikipedia.org/wiki/Lotus_91,cars/mp4_1_mono,Second team to use a completely carbon fiber monocoque,Lotus,Williams,Brabham,Ferrari
-https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many races did Ayrton Senna win for McLaren,-35-,-34-,-30-,-32-
+https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna,How many races did Ayrton Senna win for McLaren,35,34,30,32
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_13,Which driver has won the most races for McLaren,Ayrton Senna,Alain Prost,Lewis Hamilton,Mika Hakkinen
 https://en.wikipedia.org/wiki/1986_German_Grand_Prix#Race,cars/mp4_2,At which race did Alain Prost and Keke Rosberg ran out of fuel in the last lap,1986 Hockenheim,1986 Brands-Hatch,1986 Paul-Ricard,1986 Detroit-Circuit
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,When and where did Team Lotus first enter F1,Monaco 1958,Zandvoort 1958,Indianapolis 1959,Aintree 1959
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,How many constructors championships did Team Lotus win in F1,Seven,Eight,Nine,Five
-https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus49,How many races did Lotus win in F1,-79-,-82-,-65-,-69-
+https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus49,How many races did Lotus win in F1,79,82,65,69
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus49,Which race was the last for Team Lotus in F1,1994 Adelaide,1994 Suzuka,1993 Monza,1993 Estoril
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,When did Team Lotus win their first constructors championship,1963,1962,1964,1961
 https://en.wikipedia.org/wiki/Team_Lotus,cars/lotus25,Who won the first race for Team Lotus,Innes Ireland,Stirling Moss,Jim Clark,Graham Hill
@@ -47,10 +47,10 @@ https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas
 https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#Mercedes-AMG_Petronas_Motorsport_(2010%E2%80%93present),cars/w05,Who was the last world champion for Mercedes before Lewis Hamilton,Juan Fangio,Stefan Bellof,Michael Schumacher,Ludwig Fischer
 https://en.wikipedia.org/wiki/2013_FIA_Formula_One_World_Championship,drivers/hamilton,Where and when did Lewis Hamilton win his first race with Mercedes,Hungaroring 2013,2013 Silverstone,2014 Montreal,2014 Melbourne
 https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/ferrari_f2004,How many poles for Ferrari in 2004 season,12,13,11,10 
-https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/ferrari_f2004,What is the Ferrari (and sport) record for consecutive podiums,-53-,-23-,-48-,-55-
+https://en.wikipedia.org/wiki/Scuderia_Ferrari,cars/ferrari_f2004,What is the Ferrari (and sport) record for consecutive podiums,53,23,48,55
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,cars/ferrari156,Which driver claimed first grand prix victory for Ferrari,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
 https://en.wikipedia.org/wiki/Francesco_Baracca#Legacy,figures/baracca,Whos World War One Italian top fighter ace insignia became Ferrari''s logo,Francesco Baracca,Silvio Scaroni,Pier Piccio,Flavio Baracchini
-https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which constructor was the first to use the semi automatic gear box pioneered by John Barnard,Ferrari,Lotus,Williams,Benetton
+https://en.wikipedia.org/wiki/John_Barnard,figures/barnard,Which team first used the semi automatic gear box pioneered by Barnard,Ferrari,Lotus,Williams,Benetton
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher,How many years passed without a driver''s championship for Ferrari until Michael Schumacher in 2000,21,15,25,17
 https://www.formula1.com/en/latest/features/2015/10/f1-do-you-remember-when-ferrari-raced-in-blue-in-mexico.html,cars/ferrari158,Which season did Ferrari race blue and white cars in the last two races,1964,1961,1966,1963
 https://en.wikipedia.org/wiki/Sauber,cars/sauberc12,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
