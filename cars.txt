@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Stewart_SF01,cars/stewartsf1,Identify the car,Stew
 https://en.wikipedia.org/wiki/Penske_PC3,cars/pc3,Identify the car,Penske PC3,Rebaque HR100,Penske PC1,Penske PC4
 https://en.wikipedia.org/wiki/Penske_PC4,cars/pc4,Identify the car,Penske PC4,Rebaque HR100,Penske PC1,Penske PC3
 http://www.oldracingcars.com/rebaque/hr100/,cars/hr100,Identify the car,Rebaque HR100,Lotus 79,Wolf WR2,Wolf WR1
-https://www.motorsportmagazine.com/opinion/f1/track-torque-willi-kauhsen,cars/wk005,Identify the car,Kauhsen 1,Lotus 79,Rebaque HR100,Brabham-BT46
+https://www.motorsportmagazine.com/opinion/f1/track-torque-willi-kauhsen,cars/WK,Identify the car,Kauhsen WK,Lotus 79,Rebaque HR100,Brabham BT46
 https://en.wikipedia.org/wiki/Ferrari_312T,cars/ferrari312t,Identify the car,Ferrari 312T,Ferrari 312B,Ferrari 126C2,Ferrari 132
 https://en.wikipedia.org/wiki/Ferrari_312,cars/ferrari312,Identify the car,Ferrari 312,Ferrari 312T,Ferrari312B,Ferrari 158
 https://en.wikipedia.org/wiki/Ferrari_312B,cars/ferrari312b,Identify the car,Ferrari 312B,Ferrari 312T,Ferrari312,Ferrari 158
