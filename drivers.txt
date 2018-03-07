@@ -310,8 +310,8 @@ https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,Where and when did 
 https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,Which team did Fernando Alonso make his debute in F1 with,Minardi,Renault,Toleman,Benetton
 https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,Where and where did Fernando Alonso claim his first F1 win,2003 Hungaroring,2003 Silverstone,2004 Bahrain,2004 Imola
 https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,When did Fernando Alonso join McLaren for the first time,2007,2008,2009,2006
-https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,How any wins did Fernando Alonso claim in his 2005 championship winning season,Seven,Six,Five,Eight
-https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,How any wins did Fernando Alonso claim in his 2006 championship winning season,Seven,Six,Five,Eight
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,How many wins did Fernando Alonso claim in his 2005 championship winning season,Seven,Six,Five,Eight
+https://en.wikipedia.org/wiki/Fernando_Alonso,drivers/alonso,How many wins did Fernando Alonso claim in his 2006 championship winning season,Seven,Six,Five,Eight
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Which team did Romain Grosjean make his debute with,Renault,Sauber,HAAS-F1,Force-India
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean,Where was Romain Grosjean born,Geneva,Paris,London,Zurich
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/unknown,Who was the first driver to receive a race ban for dangerous driving since Eddie Irvine in 1994,Romain Grosjean,Pastor Maldonado,Robert Kubica,Daniil Kvyat
