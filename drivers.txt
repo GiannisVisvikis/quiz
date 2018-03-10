@@ -257,6 +257,7 @@ https://en.wikipedia.org/wiki/Nigel_Mansell,drivers/mansell.png,Where and when d
 https://en.wikipedia.org/wiki/Nigel_Mansell#Williams_(1994),drivers/mansell.png,Which race did Nigel Mansell win for Williams in 1994,Adelaide,Jerez,Spa,Estoril
 https://en.wikipedia.org/wiki/Nigel_Mansell#Williams_(1994),drivers/mansell.png,Which was Mansell''s final win in F1,1994 Adelaide,1994 Suzuka,1992 Estoril,1992 Hockenheim
 https://en.wikipedia.org/wiki/Nigel_Mansell,drivers/mansell.png,How many world championships has Nigel Mansell won,One,Two,None,Three
+https://en.wikipedia.org/wiki/Nigel_Mansell,drivers/mansell.png,How many times did Nigel Mansell win Silverstone,Three,Two,One,Four
 https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux.png,How many races did Rene Arnoux win,Seven,Six,Three,Five
 https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux.png,Where and when did Rene Arnoux claim his first victory,1980 Brazil,1980 Argentina,1979 Brazil,1979 Argentina
 https://en.wikipedia.org/wiki/Lance_Stroll,drivers/stroll.png,Which academy was Lance Stroll a member of,Ferrari,Red Bull,McLaren,Renault
@@ -322,3 +323,8 @@ https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/unknown.png,Which driver s
 https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/magnussen.png,What job has Kevin Magnussen had,-Welder-,-Waitor-,Salesman,Logistics
 https://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,drivers/hulkenberg.png,Which team did Nico Hulkenberg make his debut with,Williams,Renault,Force India,Sauber
 https://en.wikipedia.org/wiki/Daniil_Kvyat,drivers/kvyat.png,Which Russian city was Daniil Kvyat born,Ufa,Kazan,Volgograd,Yekaterinburg
+https://en.wikipedia.org/wiki/Olivier_Beretta,drivers/beretta.png,Besides Charles Leclerc which other driver was Monegasque,Olivier Beretta,Olivier Panis,Jean Piere Jaboulie,Jacques Pollet
+https://en.wikipedia.org/wiki/Jos_Verstappen,drivers/verstappen.png,Which team did Jos Verstappen first tested for,Footwork,Arrows,Simtek,Stewart
+https://en.wikipedia.org/wiki/Jos_Verstappen,drivers/verstappen.png,How many podiums for Jos Verstappen,Two,One,Three,None
+https://en.wikipedia.org/wiki/Max_Verstappen,drivers/max_verstappen.png,Which month is Max Verstappen''s birthday,September,October,March,June
+https://en.wikipedia.org/wiki/Max_Verstappen,drivers/max_verstappen.png,Where did Max Verstappen win his first grand prix in 2016,Spain,Barain,Australia,China

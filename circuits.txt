@@ -11,6 +11,7 @@ https://en.wikipedia.org/wiki/Valencia_Street_Circuit,circuits/valencia.png,Iden
 https://en.wikipedia.org/wiki/Silverstone_Circuit,circuits/silverstone.png,Identify the circuit,Silverstone,Monza,Austin,Sepang
 https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/nordschleife_nurburgring.png,Identify the circuit,Nordschleife Nurburgring,Valencia,Interlagos,Marina Bay
 https://en.wikipedia.org/wiki/N%C3%BCrburgring,circuits/unknown.png,Which track was named the Green Hell by Jackie Stewart,Nordschleife Nurburgring,Brands Hatch,Magny Cours,Watkins Glen
+/home/ioannis/Downloads/hungaroring.png,circuits/hungaroring.png,Identify the circuit,Hungaroring,Silverstone,Catalunya,Spa
 https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve,circuits/villeneuve.png,Identify the circuit,Gilles Villeneuve,Brands Hatch,Magny Cours,Watkins Glen
 https://en.wikipedia.org/wiki/Kyalami,circuits/kyalami.png,Identify the circuit,Kyalami,Suzuka,Interlagos,Catalunya
 https://en.wikipedia.org/wiki/Circuit_of_the_Americas,circuits/americas.png,Identify the circuit,Austin,Monaco,Imola,Istanbul
@@ -23,3 +24,11 @@ https://en.wikipedia.org/wiki/Circuit_Bremgarten,circuits/bremgarten.png,Which c
 https://en.wikipedia.org/wiki/Pescara_Circuit,circuits/pescara.png,Which was the longest circuit ever used in F1,Pescara,Nordschleife Nurburgring,Aintree,Reims Gueux
 https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),circuits/monaco.png,Which driver holds the record for most wins in Monaco,Ayrton Senna,Graham Hill,Michael Schumacher,Alain Prost
 https://en.wikipedia.org/wiki/1971_Italian_Grand_Prix,circuits/unknown.png,Which circuit was the closest ever F1 victory won at,1971 Monza,1982 A1 Ring,1986 Jerez,2002 Indianapolis
+https://en.wikipedia.org/wiki/Alain_Prost,drivers/unknown.png,Who has the most (5) Silverstone wins,Alain Prost,Jackie Stewart,Michael Schumacher,Ayrton Senna
+https://en.wikipedia.org/wiki/Silverstone_Circuit,circuits/silverstone.png,Which corner was removed from Silverstone circuit in 2010,Bridge,Brooklands,Chapel,Stowe
+https://en.wikipedia.org/wiki/Circuit_de_Monaco,circuits/monaco.png,Identify the circuit,Monaco,Silverstone,Brands Hatch,Suzuka
+https://en.wikipedia.org/wiki/Circuit_de_Monaco,circuits/monaco.png,How many laps is the Monaco circuit consisted of,78,72,68,70
+https://en.wikipedia.org/wiki/Circuit_de_Monaco,circuits/monaco.png,How many corners does the Monaco circuit have,19,22,17,20
+https://en.wikipedia.org/wiki/1996_Monaco_Grand_Prix,circuits/monaco.png,Monaco''s winner lowest grid position,14th,10th,15th,9th
+https://en.wikipedia.org/wiki/1996_Monaco_Grand_Prix,circuits/monaco.png,Who were the only two Monaco winners between 1988 and 1993,Alain Prost -Ayrton Senna,Ayrton Senna -Nigel Mansell, Nigel Mansell - Alain Prost,Nelson Piquet - Nigel Mansell
+https://en.wikipedia.org/wiki/1996_Monaco_Grand_Prix,circuits/monaco.png,Who has led the most laps in Monaco without ever winning,Nigel Mansell,Jean Alesi,Felipe Massa,Gilles Villeneuve
