@@ -287,6 +287,7 @@ https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda'
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which track did Niki Lauda have his accident in 1976,Nurburgring,Imola,Suzuka,Kyalami
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,What year did Niki Lauda have his accident,1976,1977,1975,1974
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,What was the date Niki Lauda had an accident that nearly killed him,August 1st,May 1st,June 5th,March 2nd
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Who saved Niki Lauda''s life pulling him out of the car on the day of his accident,Arturo Merzario,Mario Andretti,Patrick Depailler,Jacques Laffite
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt.png,Which was the last race for James Hunt,1979 Monaco,1979 Dijon,1979 Silverstone,1979 Kyalami
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt.png,How many wins for James Hunt in F1,Ten,Eight,Twelve,Fifteen
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt.png,Which was the first race for James Hunt,1973 Monaco,1973 Kyalami,1973 Zolder,1974 Jarama
