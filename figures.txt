@@ -17,6 +17,10 @@ https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber.jpg,Who is he,Peter Sa
 https://en.wikipedia.org/wiki/Guenther_Steiner,figures/steiner.jpg,Identify the team principal,Guenther Steiner,Frederic Vasseur,Paddy Lowe,Toto Wolff
 https://en.wikipedia.org/wiki/Force_India,figures/fernley.jpg,Who is he,Robert Fernley,Guenther Steiner,Peter Sauber,Ross Brawn
 https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis.jpg,Where was Ron Dennis born,Woking,Essex,Camberley,Farnborough
+https://en.wikipedia.org/wiki/Alastair_Caldwell,figures/caldwell.jpg,Identify the team manager,Alastair Caldwell,Alexander Heskseth,Ron Dennis,Patrick Head
+https://en.wikipedia.org/wiki/Alastair_Caldwell,figures/caldwell.jpg,Where was Alastair Caldwell born,Sheffield,Leeds,Birmingham,Newcastle
+https://en.wikipedia.org/wiki/Alastair_Caldwell,figures/caldwell.jpg,Which team Alastair Caldwell never worked for,Williams,Brabham,ATS,McLaren
+https://en.wikipedia.org/wiki/Alastair_Caldwell,figures/caldwell.jpg,What year did Alastair Caldwell join Brabham,1979,1978,1980,1977
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard.jpg,Where was John Barnard born,London,Birmingham,Leeds,Manchester
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard.jpg,Who built the first carbon fibre composite chassis,John Barnard,Gordon Murray,Mauro Forghieri,Colin Chapman
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard.jpg,Who built the first semi automatic gear box for F1,John Barnard,Gustav Brunner,Rory Byrne,Mike Coughlan
