@@ -41,6 +41,7 @@ https://en.wikipedia.org/wiki/2004_Formula_One_season,drivers/unknown.png,Who wa
 https://en.wikipedia.org/wiki/2005_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2005 drivers champion,Fernando Alonso,Kimi Raikkonen,Michael Schumacher,Mika Hakkinen
 https://en.wikipedia.org/wiki/2006_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2006 drivers champion,Fernando Alonso,Kimi Raikkonen,Michael Schumacher,Mika Hakkinen
 https://en.wikipedia.org/wiki/2007_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2007 drivers champion,Kimi Raikkonen,Michael Schumacher,Fernando Alonso,Lewis Hamilton
+https://en.wikipedia.org/wiki/2007_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2007 drivers world championship runner up,Lewis Hamilton,Fernando Alonso,Felippe Massa,Kimi Raikkonen
 https://en.wikipedia.org/wiki/2008_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2008 drivers champion,Lewis Hamilton,Kimi Raikkonen,Michael Schumacher,Fernando Alonso
 https://en.wikipedia.org/wiki/2009_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2009 drivers champion,Jenson Button,Kimi Raikkonen,Lewis Hamilton,Sebastian Vettel
 https://en.wikipedia.org/wiki/1999_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 1999 drivers championship runner up,Eddie Irvine,Mika Hakkinen,Michael Schumacher,Jacques Villeneuve
@@ -74,9 +75,15 @@ https://www.formula1.com/en/latest/features/2017/1/best-nicknames-f1-history.htm
 https://www.formula1.com/en/latest/features/2017/1/best-nicknames-f1-history.html,drivers/unknown.png,Who was nicknamed "Jumper",Jean Pierre Jarier,Rene Arnoux,Charles Pic,Olivier Panis
 https://www.formula1.com/en/latest/features/2017/1/best-nicknames-f1-history.html,drivers/unknown.png,Who was nicknamed "Silver Fox",Pierro Taruffi,Juan Fangio,Jean Pierre Beltoise,Jacques Pollet
 https://www.formula1.com/en/latest/features/2017/1/best-nicknames-f1-history.html,drivers/unknown.png,Who was nicknamed "Johhny Carwash",Giovanni Lavagi,Francois Picard,Gino Bianco,Andrea Chiesa
+https://en.wikipedia.org/wiki/Mike_Wilds,drivers/wilds.png,Name the driver,Mike Wilds,Renzo Zorzi,Jo Vonlanthen,Ian Scheckter
+https://en.wikipedia.org/wiki/Ronnie_Peterson,drivers/peterson.png,Name the Driver,Ronnie Peterson,Gunnar Nilsson,Stefan Johansson,Reine Wisell
+https://en.wikipedia.org/wiki/Ronnie_Peterson,drivers/peterson.png,How many wins for Ronnie Peterson,Ten,Twelve,Eight,Nine
+https://en.wikipedia.org/wiki/Ronnie_Peterson,drivers/peterson.png,Where and where did Ronnie Peterson claim his first F1 win,1973 Paul Ricard,1972 Monza,1974 Jarama,1975 Kyalami
+https://en.wikipedia.org/wiki/Ronnie_Peterson,drivers/peterson.png,Where did Ronnie Peterson have his fatal accident in 1978,Monza,Montreal,Hockenheim,Zandvoort
 https://en.wikipedia.org/wiki/Gilles_Villeneuve,drivers/gilles_villeneuve.png,Name the driver,Gilles Vileneuve,James Hunt,Didier Pironi,Chris Amon
 https://en.wikipedia.org/wiki/Alberto_Ascari,drivers/ascari.png,Name the driver,Alberto Ascari,Nino Farina,Mike Hawthorn,Juan Fangio
 https://en.wikipedia.org/wiki/Jody_Scheckter,drivers/scheckter.png,Name the driver,Jody Scheckter,Mario Andretti,Derek Daly,Vittorio Brambilla
+https://en.wikipedia.org/wiki/Jody_Scheckter,drivers/scheckter.png,Which constructor has Jody Scheckter never raced for,Williams,McLaren,Ferrari,Wolf
 https://en.wikipedia.org/wiki/Pedro_Diniz,drivers/diniz.png,Name the driver,Pedro Diniz,Felipe Nasr,Felipe Massa,Esteban Tuero
 https://en.wikipedia.org/wiki/Jacky_Ickx,drivers/ickx.png,Name the driver,Jacky Ickx,Chris Amon,Vic Elford,Dan Gurney
 https://en.wikipedia.org/wiki/Jack_Brabham,drivers/jack_brabham.png,Name the driver,Jack Brabham,Denny Hulme,Stirling Moss,Jack Fairman
@@ -89,8 +96,14 @@ https://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,drivers/arnoux.png,Name the drive
 https://en.wikipedia.org/wiki/JJ_Lehto,drivers/lehto.png,Name the driver,Jyrki Järvilehto,Stefan Johansson,Gregor Foitek,Bertrand Gachot
 https://en.wikipedia.org/wiki/Jim_Clark,drivers/clark.png,Name the driver,Jim Clark,Mike Hawthorn,Peter Collins,Stirling Moss
 https://en.wikipedia.org/wiki/Giancarlo_Baghetti,drivers/baghetti.png,Name the driver,Giancarlo Baghetti,David Hobbs,Mike Fisher,Piers Courage
-https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/unknown.png,Name the driver,Mika Hakkinen,Johnny Herbert,Jacques Villeneuve,Kimi Raikkonen
+https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,Name the driver,Mika Hakkinen,Johnny Herbert,Jacques Villeneuve,Kimi Raikkonen
 https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado.png,Name the driver,Pastor Maldonado,Romain Grosjean,Sergio Perez,Esteban Occon
+https://en.wikipedia.org/wiki/Gianni_Morbidelli,drivers/morbidelli.png,Identify the driver,Gianni Morbidelli,Ivan Capelli,Roberto Moreno,Bertrand Gachot
+https://en.wikipedia.org/wiki/Philippe_Alliot,drivers/alliot.png,Name the driver,Philippe Alliot,Michael Andretti,Mika Hakkinen,Christian Fittipaldi
+https://en.wikipedia.org/wiki/Johnny_Herbert,drivers/herbert.png,Name the driver,Johnny Herbert,Thierry Boutsen,Pierluigi Martini,Irik Comas
+https://en.wikipedia.org/wiki/Johnny_Herbert,drivers/herbert.png,Which team Johnny Herbert never raced for,Ferrari,Benetton,Tyrrell,Lotus
+https://en.wikipedia.org/wiki/Boy_Hayje,drivers/hayje.png,Name the driver,Boy Hayje,Johhny Herbert,Guy Edwards,Giorgio Francia
+https://en.wikipedia.org/wiki/Boy_Hayje,drivers/hayje.png,What is Boy Hayje''s nationality,Dutch,Belgian,Monegasque,Danish
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio.png,How many drivers championships did Fangio win with Mercedes,Two,One,Three,None
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio.png,How many drivers championships did Fangio win,Five,Four,Six,Two
 https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,drivers/fangio.png,How many different constructors did Fangio win world championships with,Four,Three,Two,Five
@@ -233,7 +246,7 @@ https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher.png,
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher.png,How many wins in Monaco for Michael Schumacher,Five,Four,Six,Seven
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,When and where did Mika Hakkinen make his F1 debute,1991 Phoenix,1992 Interlagos,1991 Interlagos,1992 Kyalami
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,When did Mika Hakkinen claim his first F1 win,1997 Jerez,1997 Suzuka,1996 Melbourne,1996 Estoril
-https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,Which team did Mike Hakkinen make his F1 debute with,Lotus,McLaren,Benetton,Jordan
+https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,Which team did Mika Hakkinen make his F1 debute with,Lotus,McLaren,Benetton,Jordan
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,When did Mika Hakkinen join McLaren,1993,1994,1992,1995
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,Where and when did Mika Hakkinen claim his last win in F1,2001 Indianapolis,2002 Monza,2001 Monza,2002 Imola
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,Where and when was the last race in F1 for Mika Hakkinen,2001 Suzuka,2002 Suzuka,2001 Indianapolis,2002 Monza
@@ -318,12 +331,14 @@ https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean.png,Which team di
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean.png,Where was Romain Grosjean born,Geneva,Paris,London,Zurich
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/unknown.png,Who was the first driver to receive a race ban for dangerous driving since Eddie Irvine in 1994,Romain Grosjean,Pastor Maldonado,Robert Kubica,Daniil Kvyat
 https://en.wikipedia.org/wiki/Nico_Rosberg,drivers/rosberg.png,Where did Nico Rosberg score first win for Mercedes in 2012,Shanghai,Kuala Lumpur,Melbourne,Monaco
-https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean.png,Where did Romain Grosjean used to work,--Bank--,-Sales-,Bartender,Waitor
+https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean.png,Where did Romain Grosjean used to work,Bank,Sales,Bartender,Waitor
 https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/unknown.png,Who won the 2012 Spanish Grand Prix,Pastor Maldonado,Fernando Alonso,Kimi Raikkonen,Sebastian Vettel
 https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/unknown.png,Which driver suffers from arachnophobia (fear of spiders),Kevin Magnussen,Romain Grosjean,Esteban Gutierrez,Sergio Perez
 https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/magnussen.png,What job has Kevin Magnussen had,-Welder-,-Waitor-,Salesman,Logistics
 https://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,drivers/hulkenberg.png,Which team did Nico Hulkenberg make his debut with,Williams,Renault,Force India,Sauber
 https://en.wikipedia.org/wiki/Daniil_Kvyat,drivers/kvyat.png,Which Russian city was Daniil Kvyat born,Ufa,Kazan,Volgograd,Yekaterinburg
+https://en.wikipedia.org/wiki/Pierre_Gasly,drivers/gasly.png,Where was Pierre Gasly born,Rouen,Brussels,Lille,Paris,
+https://en.wikipedia.org/wiki/Pierre_Gasly,drivers/gasly.png,Where did Pierre Gasly make his F1 debute,Sepang,Suzuka,Yas marina,Austin
 https://en.wikipedia.org/wiki/Olivier_Beretta,drivers/beretta.png,Besides Charles Leclerc which other driver was Monegasque,Olivier Beretta,Olivier Panis,Jean Piere Jaboulie,Jacques Pollet
 https://en.wikipedia.org/wiki/Jos_Verstappen,drivers/verstappen.png,Which team did Jos Verstappen first tested for,Footwork,Arrows,Simtek,Stewart
 https://en.wikipedia.org/wiki/Jos_Verstappen,drivers/verstappen.png,How many podiums for Jos Verstappen,Two,One,Three,None
