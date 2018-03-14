@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Emerson_Fittipaldi,helmets/emerson_fittipaldi.jpg,
 https://en.wikipedia.org/wiki/John_Watson_(racing_driver),helmets/watson.jpg,Name the helmet,John Watson,Niki Lauda,Nelson Piquet,Emerson Fittipaldi
 https://en.wikipedia.org/wiki/Fernando_Alonso,helmets/alonso.jpg,Name the helmet,Fernando Alonso,Carlos Sainz Jr,Felipe Massa,Mika Hakkinen
 https://en.wikipedia.org/wiki/Riccardo_Patrese,helmets/patrese.jpg,Name the driver,Riccardo Patrese,Nigel Mansell,Alain Prost,Gerhard Berger
-https://en.wikipedia.org/wiki/Chris_Amon,helmets/amon.jpg,Identify the helmet,Hector Rebaque,Boby Rahal,Tony Trimmer,Derek Daly
+https://en.wikipedia.org/wiki/Chris_Amon,helmets/amon.jpg,Identify the helmet,Chris Amon,Boby Rahal,Tony Trimmer,Derek Daly
 https://en.wikipedia.org/wiki/Jack_Brabham,helmets/jack_brabham.jpg,Identify the helmet,Jack Brabham,John Surtees,Jim Clark,Chris Amon
 https://en.wikipedia.org/wiki/Nigel_Mansell,helmets/mansell.jpg,Name the helmet,Nigel Mansell,Jenson Button,Johnny Herbert,Martin Brundle
 https://en.wikipedia.org/wiki/Johnny_Herbert,helmets/herbert.jpg,Name the helmet,Johnny Herbert,Nigel Mansell,Jenson Button,Martin Brundle
