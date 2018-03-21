@@ -224,6 +224,9 @@ https://en.wikipedia.org/wiki/Monaco_Grand_Prix#Multiple_winners_(drivers),drive
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna.png,Where did Ayrton Senna lose his life in a race accident,Imola,Monza,Monaco,Spa
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna.png,What was the date of Senna''s fatal accident,May 1st 1994,May 3rd 1995,June 1st 1993,August 1st 1995
 https://en.wikipedia.org/wiki/Felipe_Massa,drivers/massa.png,Which team did Felipe Massa make his debute with,Sauber,HRT,Toyota,BAR
+https://en.wikipedia.org/wiki/Felipe_Massa,drivers/massa.png,Where did Felipe Massa claim his first F1 win in 2006,Turkey,Malaysia,Canada,Hungary
+https://en.wikipedia.org/wiki/Felipe_Massa,drivers/massa.png,How many wins for Felipe Massa in F1,Eleven,Ten,Eight,Thirteen
+https://en.wikipedia.org/wiki/Felipe_Massa,drivers/massa.png,Were did Felipe Massa have an accident in 2009 qualifying,Budapest,Valencia,Istanbul,Sakhir
 https://en.wikipedia.org/wiki/Bruce_McLaren,drivers/mclaren.png,When and where did Bruce McLaren win the first grand prix for his own team,Spa 1968,Le Mans 1967,Monaco 1969,Brands Hatch 1966
 https://en.wikipedia.org/wiki/Stoffel_Vandoorne#Formula_One,drivers/vandoorne.png,Where and when did Stoffel Vandoorne make his F1 debute,Bahrain 2016,Australia 2016,Australia 2017,Shanghai 2017
 https://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,drivers/unknown.png,Which driver suffers/suffered from Trypophobia (Fear of holes),Sergio Perez,Fernando Alonso,Nico Rosberg,Mark Webber
@@ -312,7 +315,7 @@ https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones.png,Where
 https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones.png,When and where did Alan Jones claim his first victory in F1,1977 A1-Ring,1977 Silverstone,1976 Kyalami,1976 Jarama
 https://en.wikipedia.org/wiki/Alan_Jones_(racing_driver),drivers/jones.png,When and where did Alan Jones claim his last F1 victory,1981 Las Vegas,1980 Watkins Glen,1982 Monza,1983 Imola
 https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann.png,When and where did Carlos Reutemann claim his first win,1974 Kyalami,1974 Jarama,1974 Nurburgring,1974 Monza
-https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann.png,When and where dod Carlos Reutemann claim his first win with Ferrari,1977 Interlagos,1977 Kyalami,1977 Jarama,1977 Zolder
+https://en.wikipedia.org/wiki/Carlos_Reutemann,drivers/reutemann.png,When and where did Carlos Reutemann claim his first win with Ferrari,1977 Interlagos,1977 Kyalami,1977 Jarama,1977 Zolder
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill.png,How many seasons did Phil Hill race in Formula 1,Eight,Twelve,Six,Ten
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill.png,What season did Phill Hil win the drivers world championship,1961,1960,1962,1963
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill.png,How many constructors did Phil Hill race for,Six,Five,Seven,Four
@@ -334,7 +337,7 @@ https://en.wikipedia.org/wiki/Nico_Rosberg,drivers/rosberg.png,Where did Nico Ro
 https://en.wikipedia.org/wiki/Romain_Grosjean,drivers/grosjean.png,Where did Romain Grosjean used to work,Bank,Sales,Bartender,Waitor
 https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/unknown.png,Who won the 2012 Spanish Grand Prix,Pastor Maldonado,Fernando Alonso,Kimi Raikkonen,Sebastian Vettel
 https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/unknown.png,Which driver suffers from arachnophobia (fear of spiders),Kevin Magnussen,Romain Grosjean,Esteban Gutierrez,Sergio Perez
-https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/magnussen.png,What job has Kevin Magnussen had,-Welder-,-Waitor-,Salesman,Logistics
+https://en.wikipedia.org/wiki/Kevin_Magnussen,drivers/kevin_magnussen.png,What job has Kevin Magnussen had,-Welder-,-Waitor-,Salesman,Logistics
 https://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,drivers/hulkenberg.png,Which team did Nico Hulkenberg make his debut with,Williams,Renault,Force India,Sauber
 https://en.wikipedia.org/wiki/Daniil_Kvyat,drivers/kvyat.png,Which Russian city was Daniil Kvyat born,Ufa,Kazan,Volgograd,Yekaterinburg
 https://en.wikipedia.org/wiki/Pierre_Gasly,drivers/gasly.png,Where was Pierre Gasly born,Rouen,Brussels,Lille,Paris,

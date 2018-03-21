@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/John_Barnard,figures/barnard.jpg,Which team has Jo
 https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn.jpg,Which team has Ross Brawn never worked for,McLaren,Ferrari,Honda,Mercedes
 https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn.jpg,When did Ross Brawn join Ferrari,1997,1996,1995,2000
 https://en.wikipedia.org/wiki/Ross_Brawn#Career,figures/brawn.jpg,Which team did Ross Brawn work for right before Ferrari,Benetton,Arrows,Williams,McLaren
-https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/cooper.jpg,Who was the first to built a rear engine Formula 1 car,John Cooper,Colin Chapman,Carlo Chiti,Vittorio Jano
+https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/unknown.jpg,Who was the first to built a rear engine Formula 1 car,John Cooper,Colin Chapman,Carlo Chiti,Vittorio Jano
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray.jpg,Where was Gordon Murray born,Durban,Pretoria,Sydney,Glasgow
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray.jpg,Which team has Gordon Murray never worked for,Ferrari,Williams,McLaren,Brabham
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman.jpg,Where was Colin Chapman born,Richmond,Norwich,Woking,London
