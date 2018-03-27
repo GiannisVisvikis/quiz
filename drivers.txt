@@ -47,6 +47,7 @@ https://en.wikipedia.org/wiki/2009_FIA_Formula_One_World_Championship,drivers/un
 https://en.wikipedia.org/wiki/1999_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 1999 drivers championship runner up,Eddie Irvine,Mika Hakkinen,Michael Schumacher,Jacques Villeneuve
 https://en.wikipedia.org/wiki/2003_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2003 drivers championship runner up,Kimi Raikkonen,Fernando Alonso,Michael Schumacher,Giancarlo Fisichella
 https://en.wikipedia.org/wiki/2005_FIA_Formula_One_World_Championship,drivers/unknown.png,Who was the 2005 drivers championship runner up,Kimi Raikkonen,Fernando Alonso,Michael Schumacher,Giancarlo Fisichella
+https://en.wikipedia.org/wiki/1982_FIA_Formula_One_World_Championship#Results_and_standings,drivers/unknown.png,How many drivers won a Grand Prix during the 1982 season,Eleven,Seven,Ten,Nine
 https://en.wikipedia.org/wiki/1963_Mexican_Grand_Prix,drivers/unknown.png,Who won the first Mexican Grand Prix in 1963,Jim Clark,Graham Hill,John Surtees,Phil Hill
 https://en.wikipedia.org/wiki/1978_Canadian_Grand_Prix,drivers/unknown.png,Who won the 1978 Montreal grand prix,Gilles Villeneuve,James Hunt,Niki Lauda,Ronnie Peterson
 https://en.wikipedia.org/wiki/1951_British_Grand_Prix#Race,drivers/unknown.png,Who won the 1951 British Grand Prix,José-Froilán González,Juan Manuel Fangio,Alberto Ascari,Nino Farina
@@ -100,6 +101,11 @@ https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,drivers/hakkinen.png,Name the d
 https://en.wikipedia.org/wiki/Pastor_Maldonado,drivers/maldonado.png,Name the driver,Pastor Maldonado,Romain Grosjean,Sergio Perez,Esteban Occon
 https://en.wikipedia.org/wiki/Gianni_Morbidelli,drivers/morbidelli.png,Identify the driver,Gianni Morbidelli,Ivan Capelli,Roberto Moreno,Bertrand Gachot
 https://en.wikipedia.org/wiki/Philippe_Alliot,drivers/alliot.png,Name the driver,Philippe Alliot,Michael Andretti,Mika Hakkinen,Christian Fittipaldi
+https://en.wikipedia.org/wiki/Keke_Rosberg,drivers/keke_rosberg.png,Name the driver,Keke Rosberg,Clay Regazzoni,Nigel Mansell,Graham Hill
+https://en.wikipedia.org/wiki/Keke_Rosberg,drivers/keke_rosberg.png,Which team did Keke Rosberg make his F1 debut with,Theodore,ATS,Wolf,Tyrrell
+https://en.wikipedia.org/wiki/Keke_Rosberg,drivers/keke_rosberg.png,What is Keke Rosberg''s nationality,Finnish,German,Dutch,Danish
+https://en.wikipedia.org/wiki/Keke_Rosberg,drivers/keke_rosberg.png,How many wins for Keke Rosberg in his Formula 1 career,Five,Ten,Six,Twelve
+https://en.wikipedia.org/wiki/Keke_Rosberg,drivers/keke_rosberg.png,Which team Keke Rosberg never raced for,Lotus,Williams,McLaren,Wolf
 https://en.wikipedia.org/wiki/Johnny_Herbert,drivers/herbert.png,Name the driver,Johnny Herbert,Thierry Boutsen,Pierluigi Martini,Irik Comas
 https://en.wikipedia.org/wiki/Johnny_Herbert,drivers/herbert.png,Which team Johnny Herbert never raced for,Ferrari,Benetton,Tyrrell,Lotus
 https://en.wikipedia.org/wiki/Boy_Hayje,drivers/hayje.png,Name the driver,Boy Hayje,Johhny Herbert,Guy Edwards,Giorgio Francia
@@ -296,8 +302,10 @@ https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,How many races did Ni
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,How many races did Niki Lauda win for Ferrari,15,12,17,20
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,When did Niki Lauda retire from racing for the first time,1979,1977,1980,1978
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,When did Niki Lauda retire from racing for the last time,1985,1982,1986,1983
-https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last race with Ferrari,1977 Watkins Glenn,1977 Fuji,1977 Monza,1977 Zandvoort
-https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last win in a Ferrari,1977 Zandvoort,1977 Watkins Glen,1977 Monza,1977 Hockenheimring
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last race with Ferrari,1977 Watkins Glenn,1977 Fuji,1977 Monza,1977 
+Zandvoort
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s first win in a Ferrari,1974 Spanish GP,1974 Dutch GP,1975 Monaco GP,1975 Belgian GP
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last win with Ferrari in 1977,Zandvoort,Watkins Glen,Monza,Hockenheimring
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last win in Formula 1,1985 Zandvoort,1985 Monza,1984 Monza,1984 Estoril
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last race in Formula 1,1985 Adelaide,1985 Kyalami,1984 Estoril,1984 Nurburgring
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which track did Niki Lauda have his accident in 1976,Nurburgring,Imola,Suzuka,Kyalami
@@ -320,6 +328,8 @@ https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill.png,How many seasons d
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill.png,What season did Phill Hil win the drivers world championship,1961,1960,1962,1963
 https://en.wikipedia.org/wiki/Phil_Hill,drivers/phil_hill.png,How many constructors did Phil Hill race for,Six,Five,Seven,Four
 https://en.wikipedia.org/wiki/Valtteri_Bottas,drivers/bottas.png,Where did Valtteri Bottas score his first F1 points,Austin 2013,Shanghai 2013,Montreal 2014,Silverstone 2014
+https://en.wikipedia.org/wiki/Valtteri_Bottas,drivers/bottas.png,Where and where did Valtteri Bottas get his first podium,2014 Austrian GP,2014 Belgian GP,2015 Austrian GP,2016 Italian GP
+https://en.wikipedia.org/wiki/Valtteri_Bottas,drivers/bottas.png,Where and when did Valterri Bottas claim his first F1 win,2017 Sochi,2017 Red Bull Ring,2016 Shanghai,2016 Baku
 https://en.wikipedia.org/wiki/Jonathan_Palmer,drivers/palmer.png,Where did Jonathan Palmer make his debut in F1 in 1983,Brands Hatch,Silverstone,Zandvoort,Monza
 https://en.wikipedia.org/wiki/Jonathan_Palmer,drivers/palmer.png,Which team did Jonathan Palmer race for,Williams,Ferrari,Lotus,Osella
 https://en.wikipedia.org/wiki/Heinz-Harald_Frentzen,drivers/frentzen.png,When did Heinz-Harald Frentzen claim the first podium for Sauber in 1995,Monza,Estoril,Hockenheim,Spa

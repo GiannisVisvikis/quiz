@@ -5,6 +5,7 @@ https://en.wikipedia.org/wiki/1994_FIA_Formula_One_World_Championship,constructo
 https://en.wikipedia.org/wiki/1950_Formula_One_season,cars/alfa_romeo_158.jpg,How many races did Alfa Romeo win in 1950 F1 world championship,Six,Seven,Five,Four
 https://en.wikipedia.org/wiki/1951_Formula_One_season,cars/alfa_romeo_158.jpg,How many races did Alfa Romeo win in 1951 F1 world championship,Four,Seven,Five,Six 
 https://en.wikipedia.org/wiki/1995_FIA_Formula_One_World_Championship,cars/benettonb188.jpg,Which year did Benetton win the constructors championship,1995,1994,1993,1996
+https://en.wikipedia.org/wiki/1982_FIA_Formula_One_World_Championship#Results_and_standings,drivers/unknown.png,How many teams won a Grand Prix during the 1982 season,Seven,Six,Nine,Five
 https://en.wikipedia.org/wiki/McLaren_MP4/1,cars/mp4_1_mono.jpg,First team to use a completely carbon fiber monocoque,McLaren,Brabham,Ferrari,Lotus
 https://en.wikipedia.org/wiki/Lotus_91,cars/mp4_1_mono.jpg,Second team to use a completely carbon fiber monocoque,Lotus,Williams,Brabham,Ferrari
 https://en.wikipedia.org/wiki/Ayrton_Senna,drivers/senna.png,How many races did Ayrton Senna win for McLaren,35,34,30,32
@@ -26,6 +27,7 @@ https://en.wikipedia.org/wiki/Hesketh_308C,cars/wolf_williams_fw05.jpg,Wolf Will
 https://en.wikipedia.org/wiki/Red_Bull_Racing,cars/rb5.jpg,What was formerly produced at Red Bull''s factory,Cakes,Carpets,Paper,Aluminum
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw14b.jpg,Which of these drivers was with Williams for four years,Alan Jones,Mark Webber,Ralf Schumacher,Nelson Piquet
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw14.jpg,Which of these drivers was with Williams for six years,Ralf Schumacher,Mark Webber,Juan Pablo Montoya,Nelson Piquet
+https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw14.jpg,Which manufacturer has never provided engines for Williams,Ferrari,Renault,Honda,Mercedes
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07b.jpg,Which of these drivers was with Williams for seven years,Nigel Mansell,Keke Rosberg,Ralf Schumacher,Nico Rosberg
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,cars/fw07b.jpg,Williams was originally based in a warehouse that used to house,Carpets,Cars,Wood,Tools
 https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2%80%93_Formula_One,cars/fw07b.jpg,Where did Clay Regazzoni claim first victory for williams in 1979,Silverstone,Long-Beach,Monaco,Hockenheim

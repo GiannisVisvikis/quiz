@@ -32,6 +32,7 @@ https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/unknown.jpg,Who wa
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray.jpg,Where was Gordon Murray born,Durban,Pretoria,Sydney,Glasgow
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray.jpg,Which team has Gordon Murray never worked for,Ferrari,Williams,McLaren,Brabham
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman.jpg,Where was Colin Chapman born,Richmond,Norwich,Woking,London
+https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman.jpg,What was Colin Chapman''s full name,Anthony Colin Bruce Chapman,Colin William Anthony Chapman,William Colin Bruce Chapman,Anthony Charles Bruce Chapman
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/colin_chapman.jpg,When did Colin Chapman die of a heart attack,1982,1980,1983,1981
 https://en.wikipedia.org/wiki/Colin_Chapman,figures/unknown.jpg,Who built the first monocoque,Colin Chapman,John Cooper,Mauro Forghiery,John Barnard
 https://en.wikipedia.org/wiki/Frank_Williams_(Formula_One),figures/williams.jpg,Name the team owner,Frank Williams,Peter Sauber,Roger Penske,Gene Haas
