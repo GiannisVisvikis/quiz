@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Gunnar_Nilsson,helmets/nilsson.jpg,Identify the he
 https://en.wikipedia.org/wiki/Michele_Alboreto,helmets/alboreto.jpg,Identify the helmet,Michele Alboreto,Ronnie Peterson,Gunnar Nilsson,Marcus Ericsson
 https://en.wikipedia.org/wiki/Marcus_Ericsson,helmets/ericsson.jpg,Identify the helmet,Marcus Ericsson,Michele Alboreto,Gunnar Nilsson,Ronnie Peterson
 https://en.wikipedia.org/wiki/Gerhard_Berger,helmets/berger.jpg,Identify the helmet,Gerhard Berger,James Hunt,Jacky Ickx,Niki Lauda
-https://en.wikipedia.org/wiki/Alain_Prost,helmets/prost.jpg,Identify the helmet,Alain Prost,Riccardo Patrese,Jean Alesi,Olivier Panis
+https://en.wikipedia.org/wiki/Alain_Prost,helmets/prost.jpg,Identify the helmet,Alain Prost,Riccardo Patrese,Jean Alesi,Keke Rosberg
 https://en.wikipedia.org/wiki/Robert_Kubica,helmets/kubica.jpg,Identify the helmet,Robert Kubica,Bruno Senna,Marcus Ericsson,Lewis Hamilton
 https://en.wikipedia.org/wiki/Graham_Hill,helmets/hill.jpg,Identify the helmet,Graham Hill,Phil Hill,Damon Hill,Jim Clark
 https://en.wikipedia.org/wiki/Phil_Hill,helmets/phil_hill.jpg,Identify the helmet,Phil Hill,John Surtees,Juan Fangio,Alberto Ascari
@@ -33,7 +33,6 @@ https://en.wikipedia.org/wiki/Juan_Manuel_Fangio,helmets/fangio.jpg,Identify the
 https://en.wikipedia.org/wiki/Damon_Hill,helmets/damon_hill.jpg,Identify the helmet,Damon Hill,Graham Hill,Phil Hill,Jacky Ickx
 https://en.wikipedia.org/wiki/Jacky_Ickx,helmets/ickx.jpg,Identify the helmet,Jacky Ickx,Jochen Rindt,James Hunt,Graham Hill
 https://en.wikipedia.org/wiki/Lewis_Hamilton,helmets/hamilton.jpg,Identify the helmet,Lewis Hamilton,Bruno Senna,Rio Haryanto,Robert Kubica
-https://en.wikipedia.org/wiki/Ayrton_Senna,helmets/senna.jpg,Identify the helmet,Ayrton Senna,Bruno Senna,Gunnar Nilsson,Lewis Hamilton
 https://en.wikipedia.org/wiki/Jim_Clark,helmets/clark.jpg,Identify the helmet,Jim Clark,Jack Brabham,Graham Hill,Jochen Rindt
 https://en.wikipedia.org/wiki/Jackie_Stewart,helmets/stewart.jpg,Identify the helmet,Jackie Stewart,Jim Clark,David Coulthard,Jochen Rindt
 https://en.wikipedia.org/wiki/Jenson_Button,helmets/button.jpg,Identify the helmet,Jenson Button,Johnny Herbert,Nigel Mansell,Damon Hill
@@ -45,3 +44,5 @@ https://en.wikipedia.org/wiki/Denny_Hulme,helmets/hulme.jpg,Identify the helmet,
 https://en.wikipedia.org/wiki/Niki_Lauda,helmets/lauda.jpg,Identify the helmet,Niki Lauda,Nelson Piquet,Alain Prost,Mario Andretti
 https://en.wikipedia.org/wiki/Giuseppe_Farina,helmets/farina.jpg,Identify the helmet,Giuseppe Farina,Juan Fangio,Stirling Moss,Peter Collins
 https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,helmets/hakkinen.jpg,Identify the helmet,Mikka Hakkinen,Riccardo Patrese,Jean Alesi,Elio De Angelis
+https://en.wikipedia.org/wiki/Juan_Pablo_Montoya,helmets/montoya.jpg,Identify the helmet,Juan Pablo Montoya,Ricardo Londono,Roberto Guerrero,Moises Solana
+https://en.wikipedia.org/wiki/Keke_Rosberg,helmets/keke_rosberg.jpg,Identify the helmet,Keke Rosberg,Alain Prost,Mika Hakkinen,Michele Alboreto

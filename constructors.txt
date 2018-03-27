@@ -35,8 +35,10 @@ https://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering#Racing_history_%E2
 https://en.wikipedia.org/wiki/Giancarlo_Fisichella,drivers/fisichella.png,Where and when did Giancarlo Fisichella take first pole for Force India,Spa 2009,Istanbul 2009,Monaco 2008,Magny Cours 2008
 https://en.wikipedia.org/wiki/Force_India,cars/vjm04.jpg,Which two Italian drivers have raced for Force India,Fisichella Liuzzi,Fisichella Giovinazzi,Liuzzi Trulli,Giovinazzi Trulli
 https://en.wikipedia.org/wiki/Force_India,cars/vjm04.jpg,Which drivers raced for Force India in 2010,Liuzzi Sutil,Fisichella Liuzzi,Sutil Fisichella,Di-Resta Sutil
+https://en.wikipedia.org/wiki/Force_India,cars/vjm04.jpg,Which team eventually became Force India,Jordan,Tyrrell,Minardi,Jaguar
 https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20.jpg,Which was the first grand prix Renault won,1979 Dijon,1979 Zolder,1978 Kyalami,1978 Jarama
-https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20.jpg,Which pair of drivers raced for Renault in 2007,Fisichella Kovalainen,Alonso Kovalainen,Alonso Fisichella,Kubica Petrov
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultr24.jpg,Which pair of drivers raced for Renault in 2007,Fisichella Kovalainen,Alonso Kovalainen,Alonso Fisichella,Kubica Petrov
+https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultr24.jpg,When did Renault win it''s first constructors championship,2005,2006,1982,1981
 https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20.jpg,Who won more races for Renault,Alain Prost,Fernando Alonso,Rene Arnoux,Robert Kubica
 https://en.wikipedia.org/wiki/Renault_in_Formula_One,cars/renaultre20.jpg,Which driver claimed first win for Renault,Jean-Pierre Jabouille,Rene Arnoux,Alain Prost,Jean-Pierre Beltoise
 https://en.wikipedia.org/wiki/Renault_in_Formula_One#Renault_F1_Team_(2002%E2%80%932010),cars/renaultr24.jpg,Which team did Renault buy to return in F1,Benetton,Tyrrell,Lotus,Arrows
@@ -57,6 +59,7 @@ https://en.wikipedia.org/wiki/John_Barnard,figures/barnard.jpg,Which team first 
 https://en.wikipedia.org/wiki/Michael_Schumacher,drivers/michael_schumacher.png,How many years passed without a driver''s championship for Ferrari until Michael Schumacher in 2000,21,15,25,17
 https://www.formula1.com/en/latest/features/2015/10/f1-do-you-remember-when-ferrari-raced-in-blue-in-mexico.html,cars/ferrari158.jpg,Which season did Ferrari race blue and white cars in the last two races,1964,1961,1966,1963
 https://en.wikipedia.org/wiki/Sauber,cars/sauberc12.jpg,Who were the first drivers for Sauber,Järvilehto WendLinger,Massa Raikkonen,De-Cesaris Wendlinger,Boullion De-Cesaris
+https://en.wikipedia.org/wiki/Sauber,cars/sauberc12.jpg,Which Finnish driver finished 5th in Sauber''s first ever GP,JJ Lehto,Mika Hakkinen,Heikki Kovalainen,Kimi Raikkonen
 https://en.wikipedia.org/wiki/Sauber,cars/sauberc12.jpg,What season did sauber first appear in F1,1993,1994,1992,1995
 https://en.wikipedia.org/wiki/Footwork_Arrows,cars/fa12.jpg,Which team was renamed as Footwork in 1991,Arrows,Tyrrell,Lola,ATS
 https://en.wikipedia.org/wiki/March_Engineering,figures/mosley.jpg,Which team did Max Mosley co-found,March,McLaren,Tyrrell,Arrows

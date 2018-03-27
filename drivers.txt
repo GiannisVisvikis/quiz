@@ -202,6 +202,8 @@ https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel.png,What did Sebas
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel.png,Where and when did Sebastian Vettel take his first F1 win,Monza 2008,Hockenheim 2008,Spa 2009,Silverstone 2009
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel.png,How many wins did Sebastian Vettel take with Red Bull,38,36,37,35
 https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel.png,Which F1 team did Sebastian Vettel first tested for in 2005,Williams,Sauber,Red Bull,Toro Rosso
+https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel.png,Which team did Sebastian Vettel make his F1 debut with,BMW Sauber,Toro Rosso,Red Bull,HRT
+https://en.wikipedia.org/wiki/Sebastian_Vettel,drivers/vettel.png,Which year did Sebastian Vettel make his f1 debut,2007,2008,2005,2006
 https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,drivers/raikkonen.png,How many seasons did Kimi Raikkonen race for McLaren,Five,Six,Four,Seven
 https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,drivers/raikkonen.png,Which year did Kimi Raikkonen make his debute in F1,2001,2000,2002,2003
 https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,drivers/raikkonen.png,Which team did Kimi Raikkonen make his F1 debute with,Sauber,Minardi,Arrows,Prost
@@ -293,7 +295,8 @@ https://en.wikipedia.org/wiki/Gerhard_Berger,drivers/berger.png,Which team has G
 https://en.wikipedia.org/wiki/Gerhard_Berger,drivers/berger.png,How many wins did Gerhard Berger claim in his F1 carrer,Ten,Twelve,Eight,Twenty
 https://en.wikipedia.org/wiki/Gerhard_Berger,drivers/berger.png,Where and where did Gerhard Berger claim his first F1 win,1986 Mexico City,1987 Paul Ricard,1985 Zandvoort,1984 Imola
 https://en.wikipedia.org/wiki/Pascal_Wehrlein,drivers/wehrlein.png,At which 2016 race did Pascal Wehrlein score his first F1 points,RedBull Ring,Sochi,Hockenheimring,Monza
-https://en.wikipedia.org/wiki/Marcus_Ericsson,drivers/ericsson.png,Which team did Marcus Ericson test an F1 car for in 2009,Brawn GP,Red Bull,BMW Sauber,Williams
+https://en.wikipedia.org/wiki/Marcus_Ericsson,drivers/ericsson.png,Which team did Marcus Ericsson test an F1 car for in 2009,Brawn GP,Red Bull,BMW Sauber,Williams
+https://en.wikipedia.org/wiki/Marcus_Ericsson,drivers/ericsson.png,Which team did Marcus Ericsson make his F1 debut with,Caterham,Williams,Lotus F1,Sauber
 https://en.wikipedia.org/wiki/Juan_Pablo_Montoya,drivers/montoya.png,When did Juan Pablo Montoya win the Monaco grand prix,2003,2002,2001,2004
 https://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert,drivers/cevert.png,Where and when did Francois Cevert have a fatal crash,Watkins Glen 1973,Monza 1972,Nurburgring 1974,Silverstone 1971
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,When and where did Niki Lauda make his F1 debute,1971 Austria,1972 South Africa,1970 Spain,1972 Monaco
@@ -310,6 +313,7 @@ https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda'
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last race in Formula 1,1985 Adelaide,1985 Kyalami,1984 Estoril,1984 Nurburgring
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which track did Niki Lauda have his accident in 1976,Nurburgring,Imola,Suzuka,Kyalami
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,What year did Niki Lauda have his accident,1976,1977,1975,1974
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,How many pole positions for Niki Lauda in a Ferrari,23,25,20,18
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,What was the date Niki Lauda had an accident that nearly killed him,August 1st,May 1st,June 5th,March 2nd
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Who saved Niki Lauda''s life pulling him out of the car on the day of his accident,Arturo Merzario,Mario Andretti,Patrick Depailler,Jacques Laffite
 https://en.wikipedia.org/wiki/James_Hunt,drivers/hunt.png,Which was the last race for James Hunt,1979 Monaco,1979 Dijon,1979 Silverstone,1979 Kyalami
@@ -356,4 +360,4 @@ https://en.wikipedia.org/wiki/Olivier_Beretta,drivers/beretta.png,Besides Charle
 https://en.wikipedia.org/wiki/Jos_Verstappen,drivers/verstappen.png,Which team did Jos Verstappen first tested for,Footwork,Arrows,Simtek,Stewart
 https://en.wikipedia.org/wiki/Jos_Verstappen,drivers/verstappen.png,How many podiums for Jos Verstappen,Two,One,Three,None
 https://en.wikipedia.org/wiki/Max_Verstappen,drivers/max_verstappen.png,Which month is Max Verstappen''s birthday,September,October,March,June
-https://en.wikipedia.org/wiki/Max_Verstappen,drivers/max_verstappen.png,Where did Max Verstappen win his first grand prix in 2016,Spain,Barain,Australia,China
+https://en.wikipedia.org/wiki/Max_Verstappen,drivers/max_verstappen.png,Where did Max Verstappen win his first grand prix in 2016,Spain,Bahrain,Australia,China

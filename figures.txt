@@ -8,13 +8,17 @@ https://en.wikipedia.org/wiki/Peter_Windsor,figures/windsor.jpg,Identify the Spo
 https://en.wikipedia.org/wiki/Flavio_Briatore,figures/briatore.jpg,Name the team manager,Flavio Briatore,Peter Collins,Steve Nielsen,Peter Windsor
 https://en.wikipedia.org/wiki/Roger_Penske,figures/penske.jpg,Identify the team manager,Roger Penske,Steve Nielsen,Peter Collins,Gene Haas
 https://en.wikipedia.org/wiki/John_Barnard,figures/barnard.jpg,Identify the designer,John Barnard,Gordon Murray,Mauro Forghieri,Ross Brawn
-https://en.wikipedia.org/wiki/John_Cooper_(car_maker),figures/cooper.jpg,Who is he,John Cooper,Mauro Forghieri,Jack Brabham,Colin Chapman
+https://en.wikipedia.org/wiki/Eddie_Jordan,figures/eddie_jordan.jpg,Identify the team owner,Eddie Jordan,Ross Brawn,Bernie Ecclestone,Frank Williams
+https://en.wikipedia.org/wiki/Eddie_Jordan,figures/eddie_jordan.jpg,What is Eddie Jordan''s middle name,Patrick,Jonathan,William,Bernard
+https://en.wikipedia.org/wiki/Eddie_Jordan,figures/eddie_jordan.jpg,Which team did Eddie Jordan test for as a driver,McLaren,Williams,Lotus,Wolf
+https://en.wikipedia.org/wiki/Eddie_Jordan,figures/eddie_jordan.jpg,What year was Jordan Grand Prix found,1991,1996,1992,1985
 https://en.wikipedia.org/wiki/Mauro_Forghieri,figures/forghieri.jpg,Identify the designer,Mauro Forghieri,John Cooper,Ken Tyrrell,Rory Byrne
 https://en.wikipedia.org/wiki/Gordon_Murray,figures/gordon_murray.jpg,Name the car designer,Gordon Murray,Colin Chapman,Ron Dennis,Adrian Newey
 https://en.wikipedia.org/wiki/Patrick_Head,figures/head.jpg,Who is he,Patrick Head,Frank Williams,Gene Haas,Ross Brawn
 https://en.wikipedia.org/wiki/Ross_Brawn,figures/brawn.jpg,Who is he,Ross Brawn,Adrian Newey,John Cooper,Steve Nielsen
 https://en.wikipedia.org/wiki/Peter_Sauber,figures/sauber.jpg,Who is he,Peter Sauber,Ron Dennis,Adrian Newey,Frank Williams
 https://en.wikipedia.org/wiki/Guenther_Steiner,figures/steiner.jpg,Identify the team principal,Guenther Steiner,Frederic Vasseur,Paddy Lowe,Toto Wolff
+https://en.wikipedia.org/wiki/Guenther_Steiner,figures/steiner.jpg,Which team has Guenther Steiner worked for,Jaguar,Lotus F1,Brawn GP,Jordan
 https://en.wikipedia.org/wiki/Force_India,figures/fernley.jpg,Who is he,Robert Fernley,Guenther Steiner,Peter Sauber,Ross Brawn
 https://en.wikipedia.org/wiki/Ron_Dennis,figures/ron_dennis.jpg,Where was Ron Dennis born,Woking,Essex,Camberley,Farnborough
 https://en.wikipedia.org/wiki/Alastair_Caldwell,figures/caldwell.jpg,Identify the team manager,Alastair Caldwell,Alexander Heskseth,Ron Dennis,Patrick Head
