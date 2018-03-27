@@ -305,8 +305,7 @@ https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,How many races did Ni
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,How many races did Niki Lauda win for Ferrari,15,12,17,20
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,When did Niki Lauda retire from racing for the first time,1979,1977,1980,1978
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,When did Niki Lauda retire from racing for the last time,1985,1982,1986,1983
-https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last race with Ferrari,1977 Watkins Glenn,1977 Fuji,1977 Monza,1977 
-Zandvoort
+https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last race with Ferrari,1977 Watkins Glenn,1977 Fuji,1977 Monza,1977 Zandvoort
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s first win in a Ferrari,1974 Spanish GP,1974 Dutch GP,1975 Monaco GP,1975 Belgian GP
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last win with Ferrari in 1977,Zandvoort,Watkins Glen,Monza,Hockenheimring
 https://en.wikipedia.org/wiki/Niki_Lauda,drivers/lauda.png,Which was Niki Lauda''s last win in Formula 1,1985 Zandvoort,1985 Monza,1984 Monza,1984 Estoril
